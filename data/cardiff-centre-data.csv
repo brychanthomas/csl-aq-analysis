@@ -1,0 +1,1229 @@
+Date,Time,"Nitrogen dioxide",Status,"Carbon monoxide",Status,"PM10 particulate matter (Hourly measured)",Status,"PM2.5 particulate matter (Hourly measured)",Status,"Modelled Wind Direction",Status,"Modelled Wind Speed",Status,"Modelled Temperature",Status
+2020-06-23,01:00:00,2.85071,P ugm-3,No data,P mgm-3,9.8,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),210,N deg,2.7,N ms-1,10.7,N degC
+2020-06-23,02:00:00,3.70533,P ugm-3,No data,P mgm-3,10,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),199.5,N deg,2.8,N ms-1,10.3,N degC
+2020-06-23,03:00:00,4.60728,P ugm-3,No data,P mgm-3,7.1,N ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),209.8,N deg,3.4,N ms-1,10.7,N degC
+2020-06-23,04:00:00,5.75719,P ugm-3,No data,P mgm-3,8.7,N ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),215,N deg,2.6,N ms-1,10.9,N degC
+2020-06-23,05:00:00,6.95762,P ugm-3,No data,P mgm-3,12.9,N ugm-3 (TEOM FDMS),6.1,N ugm-3 (TEOM FDMS),195.7,N deg,1.9,N ms-1,10.8,N degC
+2020-06-23,06:00:00,8.22524,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),7,N ugm-3 (TEOM FDMS),167.6,N deg,2.2,N ms-1,11.2,N degC
+2020-06-23,07:00:00,9.67061,P ugm-3,No data,P mgm-3,13.9,N ugm-3 (TEOM FDMS),7.9,N ugm-3 (TEOM FDMS),150.7,N deg,2.8,N ms-1,11.3,N degC
+2020-06-23,08:00:00,10.41975,P ugm-3,No data,P mgm-3,17,N ugm-3 (TEOM FDMS),6.8,N ugm-3 (TEOM FDMS),134.5,N deg,2.6,N ms-1,11.6,N degC
+2020-06-23,09:00:00,10.15692,P ugm-3,No data,P mgm-3,14.4,N ugm-3 (TEOM FDMS),8.6,N ugm-3 (TEOM FDMS),126.8,N deg,2.8,N ms-1,12.4,N degC
+2020-06-23,10:00:00,8.15209,P ugm-3,No data,P mgm-3,19.6,N ugm-3 (TEOM FDMS),8.4,N ugm-3 (TEOM FDMS),123.6,N deg,2.9,N ms-1,13.9,N degC
+2020-06-23,11:00:00,7.64552,P ugm-3,No data,P mgm-3,18.1,N ugm-3 (TEOM FDMS),9.1,N ugm-3 (TEOM FDMS),143.3,N deg,3.2,N ms-1,17.1,N degC
+2020-06-23,12:00:00,8.22643,P ugm-3,No data,P mgm-3,18.5,N ugm-3 (TEOM FDMS),7.7,N ugm-3 (TEOM FDMS),158.2,N deg,3.3,N ms-1,19.4,N degC
+2020-06-23,13:00:00,6.57948,P ugm-3,No data,P mgm-3,17.2,N ugm-3 (TEOM FDMS),7.7,N ugm-3 (TEOM FDMS),168.3,N deg,3.9,N ms-1,21.4,N degC
+2020-06-23,14:00:00,5.63472,P ugm-3,No data,P mgm-3,16.2,N ugm-3 (TEOM FDMS),9,N ugm-3 (TEOM FDMS),169.8,N deg,4.8,N ms-1,22,N degC
+2020-06-23,15:00:00,5.25777,P ugm-3,No data,P mgm-3,15.2,N ugm-3 (TEOM FDMS),8.8,N ugm-3 (TEOM FDMS),171.5,N deg,5.4,N ms-1,22,N degC
+2020-06-23,16:00:00,5.69715,P ugm-3,No data,P mgm-3,15.4,N ugm-3 (TEOM FDMS),8.1,N ugm-3 (TEOM FDMS),173.1,N deg,5.3,N ms-1,21.7,N degC
+2020-06-23,17:00:00,6.47131,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),7.8,N ugm-3 (TEOM FDMS),177.9,N deg,4.8,N ms-1,21.2,N degC
+2020-06-23,18:00:00,7.80017,P ugm-3,No data,P mgm-3,13.1,N ugm-3 (TEOM FDMS),6.6,N ugm-3 (TEOM FDMS),182.7,N deg,4.1,N ms-1,20.5,N degC
+2020-06-23,19:00:00,8.0618,P ugm-3,No data,P mgm-3,13,N ugm-3 (TEOM FDMS),7.1,N ugm-3 (TEOM FDMS),185.5,N deg,3.3,N ms-1,19.5,N degC
+2020-06-23,20:00:00,9.77475,P ugm-3,No data,P mgm-3,13.7,N ugm-3 (TEOM FDMS),8.3,N ugm-3 (TEOM FDMS),183.8,N deg,2.2,N ms-1,17.5,N degC
+2020-06-23,21:00:00,18.35861,P ugm-3,No data,P mgm-3,12.6,N ugm-3 (TEOM FDMS),8.3,N ugm-3 (TEOM FDMS),151.1,N deg,1.1,N ms-1,15.9,N degC
+2020-06-23,22:00:00,14.80903,P ugm-3,No data,P mgm-3,17.1,N ugm-3 (TEOM FDMS),7.9,N ugm-3 (TEOM FDMS),98.5,N deg,1.8,N ms-1,15,N degC
+2020-06-23,23:00:00,17.40075,P ugm-3,No data,P mgm-3,25.4,N ugm-3 (TEOM FDMS),12,N ugm-3 (TEOM FDMS),63.2,N deg,1.6,N ms-1,14,N degC
+2020-06-23,24:00:00,16.63612,P ugm-3,No data,P mgm-3,18.6,N ugm-3 (TEOM FDMS),10.3,N ugm-3 (TEOM FDMS),45.9,N deg,2.2,N ms-1,13.2,N degC
+2020-06-24,01:00:00,No data,P ugm-3,No data,P mgm-3,19.3,N ugm-3 (TEOM FDMS),12.2,N ugm-3 (TEOM FDMS),9.2,N deg,2.5,N ms-1,11.5,N degC
+2020-06-24,02:00:00,17.02213,P ugm-3,No data,P mgm-3,16.4,N ugm-3 (TEOM FDMS),11.5,N ugm-3 (TEOM FDMS),31.6,N deg,2.5,N ms-1,10.7,N degC
+2020-06-24,03:00:00,16.23368,P ugm-3,No data,P mgm-3,15.5,N ugm-3 (TEOM FDMS),9.2,N ugm-3 (TEOM FDMS),47.9,N deg,2.8,N ms-1,10.4,N degC
+2020-06-24,04:00:00,14.09328,P ugm-3,No data,P mgm-3,8.6,N ugm-3 (TEOM FDMS),12,N ugm-3 (TEOM FDMS),53.3,N deg,3.2,N ms-1,10.5,N degC
+2020-06-24,05:00:00,13.19648,P ugm-3,No data,P mgm-3,17.6,N ugm-3 (TEOM FDMS),10.5,N ugm-3 (TEOM FDMS),51.7,N deg,3.3,N ms-1,10.9,N degC
+2020-06-24,06:00:00,16.1564,P ugm-3,No data,P mgm-3,18,N ugm-3 (TEOM FDMS),8,N ugm-3 (TEOM FDMS),52.9,N deg,3.6,N ms-1,12.9,N degC
+2020-06-24,07:00:00,24.2488,P ugm-3,No data,P mgm-3,16.3,N ugm-3 (TEOM FDMS),10.8,N ugm-3 (TEOM FDMS),68.9,N deg,4,N ms-1,15,N degC
+2020-06-24,08:00:00,23.20927,P ugm-3,No data,P mgm-3,21.9,N ugm-3 (TEOM FDMS),11,N ugm-3 (TEOM FDMS),76.9,N deg,3.8,N ms-1,16.7,N degC
+2020-06-24,09:00:00,37.56236,P ugm-3,No data,P mgm-3,24.3,N ugm-3 (TEOM FDMS),14.4,N ugm-3 (TEOM FDMS),83.1,N deg,4.2,N ms-1,18.3,N degC
+2020-06-24,10:00:00,13.83391,P ugm-3,No data,P mgm-3,23.5,N ugm-3 (TEOM FDMS),13.7,N ugm-3 (TEOM FDMS),82.2,N deg,4.4,N ms-1,19.9,N degC
+2020-06-24,11:00:00,13.65992,P ugm-3,No data,P mgm-3,24.6,N ugm-3 (TEOM FDMS),14.4,N ugm-3 (TEOM FDMS),81.2,N deg,4.4,N ms-1,21.6,N degC
+2020-06-24,12:00:00,11.57481,P ugm-3,No data,P mgm-3,22.3,N ugm-3 (TEOM FDMS),15.7,N ugm-3 (TEOM FDMS),81.8,N deg,4.1,N ms-1,23.5,N degC
+2020-06-24,13:00:00,8.86731,P ugm-3,No data,P mgm-3,22.3,N ugm-3 (TEOM FDMS),12.9,N ugm-3 (TEOM FDMS),81.7,N deg,4,N ms-1,24.6,N degC
+2020-06-24,14:00:00,6.76483,P ugm-3,No data,P mgm-3,18.4,N ugm-3 (TEOM FDMS),13.2,N ugm-3 (TEOM FDMS),85.2,N deg,3.7,N ms-1,25.4,N degC
+2020-06-24,15:00:00,6.1355,P ugm-3,No data,P mgm-3,17.5,N ugm-3 (TEOM FDMS),9.1,N ugm-3 (TEOM FDMS),98.2,N deg,3.3,N ms-1,26,N degC
+2020-06-24,16:00:00,7.08412,P ugm-3,No data,P mgm-3,19.2,N ugm-3 (TEOM FDMS),10.3,N ugm-3 (TEOM FDMS),120.3,N deg,3.2,N ms-1,26,N degC
+2020-06-24,17:00:00,8.34394,P ugm-3,No data,P mgm-3,17.4,N ugm-3 (TEOM FDMS),9.5,N ugm-3 (TEOM FDMS),136.7,N deg,3.3,N ms-1,25.5,N degC
+2020-06-24,18:00:00,7.78379,P ugm-3,No data,P mgm-3,18.4,N ugm-3 (TEOM FDMS),9,N ugm-3 (TEOM FDMS),146.1,N deg,2.8,N ms-1,24.4,N degC
+2020-06-24,19:00:00,4.8699,P ugm-3,No data,P mgm-3,17.9,N ugm-3 (TEOM FDMS),8.5,N ugm-3 (TEOM FDMS),141.7,N deg,3.6,N ms-1,22.5,N degC
+2020-06-24,20:00:00,8.55033,P ugm-3,No data,P mgm-3,16.3,N ugm-3 (TEOM FDMS),9.3,N ugm-3 (TEOM FDMS),132.8,N deg,2.8,N ms-1,20,N degC
+2020-06-24,21:00:00,18.43429,P ugm-3,No data,P mgm-3,15.6,N ugm-3 (TEOM FDMS),9.4,N ugm-3 (TEOM FDMS),58.1,N deg,3,N ms-1,18.4,N degC
+2020-06-24,22:00:00,20.71075,P ugm-3,No data,P mgm-3,18.7,N ugm-3 (TEOM FDMS),10,N ugm-3 (TEOM FDMS),48.5,N deg,3.5,N ms-1,17.7,N degC
+2020-06-24,23:00:00,29.37629,P ugm-3,No data,P mgm-3,25.1,N ugm-3 (TEOM FDMS),13.9,N ugm-3 (TEOM FDMS),54.9,N deg,3.7,N ms-1,17.1,N degC
+2020-06-24,24:00:00,44.02303,P ugm-3,No data,P mgm-3,22.1,N ugm-3 (TEOM FDMS),21.8,N ugm-3 (TEOM FDMS),64.4,N deg,4.6,N ms-1,17,N degC
+2020-06-25,01:00:00,13.95813,P ugm-3,No data,P mgm-3,22.3,N ugm-3 (TEOM FDMS),17.1,N ugm-3 (TEOM FDMS),34.1,N deg,3.5,N ms-1,14.6,N degC
+2020-06-25,02:00:00,9.82789,P ugm-3,No data,P mgm-3,24.3,N ugm-3 (TEOM FDMS),16.7,N ugm-3 (TEOM FDMS),49.4,N deg,3.9,N ms-1,14.3,N degC
+2020-06-25,03:00:00,8.18991,P ugm-3,No data,P mgm-3,22.2,N ugm-3 (TEOM FDMS),18.2,N ugm-3 (TEOM FDMS),55.2,N deg,4.6,N ms-1,14.3,N degC
+2020-06-25,04:00:00,8.31963,P ugm-3,No data,P mgm-3,24.9,N ugm-3 (TEOM FDMS),17.3,N ugm-3 (TEOM FDMS),55.9,N deg,4.7,N ms-1,13.9,N degC
+2020-06-25,05:00:00,10.34226,P ugm-3,No data,P mgm-3,22.9,N ugm-3 (TEOM FDMS),17.3,N ugm-3 (TEOM FDMS),58.8,N deg,5.2,N ms-1,13.8,N degC
+2020-06-25,06:00:00,18.57288,P ugm-3,No data,P mgm-3,24.3,N ugm-3 (TEOM FDMS),17.4,N ugm-3 (TEOM FDMS),66.6,N deg,5.3,N ms-1,15.3,N degC
+2020-06-25,07:00:00,16.38881,P ugm-3,No data,P mgm-3,24.5,N ugm-3 (TEOM FDMS),16,N ugm-3 (TEOM FDMS),71.1,N deg,5.7,N ms-1,16.4,N degC
+2020-06-25,08:00:00,15.99967,P ugm-3,No data,P mgm-3,24.2,N ugm-3 (TEOM FDMS),15.5,N ugm-3 (TEOM FDMS),73.1,N deg,5.2,N ms-1,17.7,N degC
+2020-06-25,09:00:00,20.32512,P ugm-3,No data,P mgm-3,25.6,N ugm-3 (TEOM FDMS),17.2,N ugm-3 (TEOM FDMS),72.7,N deg,4.8,N ms-1,19.6,N degC
+2020-06-25,10:00:00,15.3014,P ugm-3,No data,P mgm-3,24.5,N ugm-3 (TEOM FDMS),14.3,N ugm-3 (TEOM FDMS),81.4,N deg,5.1,N ms-1,22,N degC
+2020-06-25,11:00:00,12.67289,P ugm-3,No data,P mgm-3,25.2,N ugm-3 (TEOM FDMS),14.9,N ugm-3 (TEOM FDMS),88.9,N deg,4.7,N ms-1,23.9,N degC
+2020-06-25,12:00:00,10.02977,P ugm-3,No data,P mgm-3,23.4,N ugm-3 (TEOM FDMS),13.8,N ugm-3 (TEOM FDMS),106.1,N deg,4.2,N ms-1,25.6,N degC
+2020-06-25,13:00:00,10.14937,P ugm-3,No data,P mgm-3,23.6,N ugm-3 (TEOM FDMS),14,N ugm-3 (TEOM FDMS),125.8,N deg,4.2,N ms-1,26.4,N degC
+2020-06-25,14:00:00,11.7253,P ugm-3,No data,P mgm-3,19.4,N ugm-3 (TEOM FDMS),12.4,N ugm-3 (TEOM FDMS),139.9,N deg,4.4,N ms-1,26.5,N degC
+2020-06-25,15:00:00,6.86779,P ugm-3,No data,P mgm-3,18.8,N ugm-3 (TEOM FDMS),12.2,N ugm-3 (TEOM FDMS),150.4,N deg,4.9,N ms-1,26.1,N degC
+2020-06-25,16:00:00,5.54904,P ugm-3,No data,P mgm-3,14.2,N ugm-3 (TEOM FDMS),9.3,N ugm-3 (TEOM FDMS),151.8,N deg,3.8,N ms-1,25.1,N degC
+2020-06-25,17:00:00,6.05105,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),144.6,N deg,3.9,N ms-1,24,N degC
+2020-06-25,18:00:00,5.61333,P ugm-3,No data,P mgm-3,13,N ugm-3 (TEOM FDMS),6.4,N ugm-3 (TEOM FDMS),141.2,N deg,3.6,N ms-1,22.5,N degC
+2020-06-25,19:00:00,6.42783,P ugm-3,No data,P mgm-3,15.4,N ugm-3 (TEOM FDMS),7.3,N ugm-3 (TEOM FDMS),141.6,N deg,3.2,N ms-1,20.9,N degC
+2020-06-25,20:00:00,10.59382,P ugm-3,No data,P mgm-3,12.4,N ugm-3 (TEOM FDMS),7.2,N ugm-3 (TEOM FDMS),86.6,N deg,2.9,N ms-1,19.1,N degC
+2020-06-25,21:00:00,8.89491,P ugm-3,No data,P mgm-3,16,N ugm-3 (TEOM FDMS),7.5,N ugm-3 (TEOM FDMS),69.1,N deg,2.3,N ms-1,18,N degC
+2020-06-25,22:00:00,21.46504,P ugm-3,No data,P mgm-3,14.9,N ugm-3 (TEOM FDMS),10.1,N ugm-3 (TEOM FDMS),73.3,N deg,3.2,N ms-1,17.7,N degC
+2020-06-25,23:00:00,22.33934,P ugm-3,No data,P mgm-3,19.6,N ugm-3 (TEOM FDMS),10.5,N ugm-3 (TEOM FDMS),62.2,N deg,3.7,N ms-1,17.9,N degC
+2020-06-25,24:00:00,20.19711,P ugm-3,No data,P mgm-3,18,N ugm-3 (TEOM FDMS),14.3,N ugm-3 (TEOM FDMS),62.3,N deg,3.2,N ms-1,16.7,N degC
+2020-06-26,01:00:00,13.4897,P ugm-3,No data,P mgm-3,14.2,N ugm-3 (TEOM FDMS),11.8,N ugm-3 (TEOM FDMS),38,N deg,1.8,N ms-1,14.9,N degC
+2020-06-26,02:00:00,5.9417,P ugm-3,No data,P mgm-3,15.4,N ugm-3 (TEOM FDMS),12.3,N ugm-3 (TEOM FDMS),53.1,N deg,2,N ms-1,13.9,N degC
+2020-06-26,03:00:00,5.903,P ugm-3,No data,P mgm-3,17.5,N ugm-3 (TEOM FDMS),12,N ugm-3 (TEOM FDMS),58.5,N deg,1.9,N ms-1,13.5,N degC
+2020-06-26,04:00:00,10.55792,P ugm-3,No data,P mgm-3,19.5,N ugm-3 (TEOM FDMS),12,N ugm-3 (TEOM FDMS),47.9,N deg,2,N ms-1,12.9,N degC
+2020-06-26,05:00:00,10.05651,P ugm-3,No data,P mgm-3,18.1,N ugm-3 (TEOM FDMS),11.7,N ugm-3 (TEOM FDMS),62.6,N deg,1.4,N ms-1,12.3,N degC
+2020-06-26,06:00:00,8.35363,P ugm-3,No data,P mgm-3,20.7,N ugm-3 (TEOM FDMS),12.6,N ugm-3 (TEOM FDMS),61.2,N deg,1.1,N ms-1,13.1,N degC
+2020-06-26,07:00:00,14.05907,P ugm-3,No data,P mgm-3,28.9,N ugm-3 (TEOM FDMS),14.8,N ugm-3 (TEOM FDMS),112.4,N deg,1,N ms-1,13.9,N degC
+2020-06-26,08:00:00,11.2839,P ugm-3,No data,P mgm-3,23.5,N ugm-3 (TEOM FDMS),19.1,N ugm-3 (TEOM FDMS),218.4,N deg,1,N ms-1,14.1,N degC
+2020-06-26,09:00:00,7.14563,P ugm-3,No data,P mgm-3,22,N ugm-3 (TEOM FDMS),15.8,N ugm-3 (TEOM FDMS),266.4,N deg,2.2,N ms-1,15.3,N degC
+2020-06-26,10:00:00,4.1252,P ugm-3,No data,P mgm-3,12.4,N ugm-3 (TEOM FDMS),10.3,N ugm-3 (TEOM FDMS),277.7,N deg,3.7,N ms-1,16.5,N degC
+2020-06-26,11:00:00,2.73706,P ugm-3,No data,P mgm-3,10.2,N ugm-3 (TEOM FDMS),5.3,N ugm-3 (TEOM FDMS),278.5,N deg,4.3,N ms-1,16.9,N degC
+2020-06-26,12:00:00,2.86078,P ugm-3,No data,P mgm-3,8.4,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),273.6,N deg,4.9,N ms-1,18,N degC
+2020-06-26,13:00:00,2.54931,P ugm-3,No data,P mgm-3,11.9,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),272.9,N deg,5.2,N ms-1,18.5,N degC
+2020-06-26,14:00:00,1.79502,P ugm-3,No data,P mgm-3,11.8,N ugm-3 (TEOM FDMS),6.5,N ugm-3 (TEOM FDMS),273.2,N deg,5.4,N ms-1,19.8,N degC
+2020-06-26,15:00:00,2.73053,P ugm-3,No data,P mgm-3,12.5,N ugm-3 (TEOM FDMS),6.1,N ugm-3 (TEOM FDMS),276.1,N deg,5,N ms-1,20,N degC
+2020-06-26,16:00:00,3.81045,P ugm-3,No data,P mgm-3,13.3,N ugm-3 (TEOM FDMS),7.9,N ugm-3 (TEOM FDMS),287.8,N deg,4.5,N ms-1,19.5,N degC
+2020-06-26,17:00:00,3.56084,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),8,N ugm-3 (TEOM FDMS),294.1,N deg,3.7,N ms-1,17.8,N degC
+2020-06-26,18:00:00,4.30424,P ugm-3,No data,P mgm-3,12.8,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),271.5,N deg,2.6,N ms-1,17.3,N degC
+2020-06-26,19:00:00,4.11975,P ugm-3,No data,P mgm-3,14.4,N ugm-3 (TEOM FDMS),7.1,N ugm-3 (TEOM FDMS),258.7,N deg,2.3,N ms-1,17.2,N degC
+2020-06-26,20:00:00,6.38372,P ugm-3,No data,P mgm-3,11.5,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),237.4,N deg,2.1,N ms-1,15.6,N degC
+2020-06-26,21:00:00,3.6227,P ugm-3,No data,P mgm-3,8.5,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),196.9,N deg,2.5,N ms-1,14.1,N degC
+2020-06-26,22:00:00,3.56193,P ugm-3,No data,P mgm-3,7.9,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),203.9,N deg,4.1,N ms-1,14.2,N degC
+2020-06-26,23:00:00,2.99866,P ugm-3,No data,P mgm-3,10.6,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),185,N deg,4.4,N ms-1,13.9,N degC
+2020-06-26,24:00:00,2.94007,P ugm-3,No data,P mgm-3,14.2,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),175.6,N deg,5.3,N ms-1,14,N degC
+2020-06-27,01:00:00,1.90387,P ugm-3,No data,P mgm-3,4.4,P ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),165,N deg,6,N ms-1,14,N degC
+2020-06-27,02:00:00,1.89684,P ugm-3,No data,P mgm-3,2.6,P ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),174.7,N deg,7.3,N ms-1,14.6,N degC
+2020-06-27,03:00:00,1.03679,P ugm-3,No data,P mgm-3,4.6,P ugm-3 (TEOM FDMS),0.8,P ugm-3 (TEOM FDMS),184,N deg,6.9,N ms-1,14.8,N degC
+2020-06-27,04:00:00,-0.0232,P ugm-3,No data,P mgm-3,6.5,N ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),189.1,N deg,6.5,N ms-1,14.9,N degC
+2020-06-27,05:00:00,0.91978,P ugm-3,No data,P mgm-3,4.3,P ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),201,N deg,6.1,N ms-1,14.9,N degC
+2020-06-27,06:00:00,2.5348,P ugm-3,No data,P mgm-3,-0.4,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),206.2,N deg,5.2,N ms-1,15,N degC
+2020-06-27,07:00:00,6.28563,P ugm-3,No data,P mgm-3,5.6,N ugm-3 (TEOM FDMS),0.4,P ugm-3 (TEOM FDMS),223.4,N deg,5.2,N ms-1,15.3,N degC
+2020-06-27,08:00:00,4.83874,P ugm-3,No data,P mgm-3,6.1,N ugm-3 (TEOM FDMS),-0.7,P ugm-3 (TEOM FDMS),230.2,N deg,4.8,N ms-1,15.6,N degC
+2020-06-27,09:00:00,3.46513,P ugm-3,No data,P mgm-3,11,N ugm-3 (TEOM FDMS),-1.8,P ugm-3 (TEOM FDMS),224.6,N deg,5,N ms-1,15.6,N degC
+2020-06-27,10:00:00,4.27422,P ugm-3,No data,P mgm-3,3.9,P ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),229.8,N deg,6.1,N ms-1,15.8,N degC
+2020-06-27,11:00:00,3.09616,P ugm-3,No data,P mgm-3,4.6,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),224,N deg,6.2,N ms-1,16.3,N degC
+2020-06-27,12:00:00,4.46767,P ugm-3,No data,P mgm-3,5.1,N ugm-3 (TEOM FDMS),-0.5,P ugm-3 (TEOM FDMS),234.4,N deg,7.1,N ms-1,15.8,N degC
+2020-06-27,13:00:00,3.08983,P ugm-3,No data,P mgm-3,5.6,N ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),252.6,N deg,10.1,N ms-1,17.3,N degC
+2020-06-27,14:00:00,2.52953,P ugm-3,No data,P mgm-3,9.2,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),260.2,N deg,11,N ms-1,17.3,N degC
+2020-06-27,15:00:00,2.02773,P ugm-3,No data,P mgm-3,14.2,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),255.6,N deg,9.4,N ms-1,15.2,N degC
+2020-06-27,16:00:00,1.85538,P ugm-3,No data,P mgm-3,15.1,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),261.3,N deg,11.2,N ms-1,16,N degC
+2020-06-27,17:00:00,1.03574,P ugm-3,No data,P mgm-3,12.8,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),259,N deg,10.4,N ms-1,15.6,N degC
+2020-06-27,18:00:00,0.96985,P ugm-3,No data,P mgm-3,12.4,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),255.1,N deg,9.8,N ms-1,14.9,N degC
+2020-06-27,19:00:00,0.91134,P ugm-3,No data,P mgm-3,13.1,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),252.8,N deg,8.9,N ms-1,14.1,N degC
+2020-06-27,20:00:00,3.55633,P ugm-3,No data,P mgm-3,7.2,N ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),249.3,N deg,8.4,N ms-1,13,N degC
+2020-06-27,21:00:00,4.48665,P ugm-3,No data,P mgm-3,3.7,P ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),247.9,N deg,8.8,N ms-1,12.5,N degC
+2020-06-27,22:00:00,3.8009,P ugm-3,No data,P mgm-3,4.8,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),250.4,N deg,8.9,N ms-1,12.6,N degC
+2020-06-27,23:00:00,1.04312,P ugm-3,No data,P mgm-3,10.3,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),254.6,N deg,8.4,N ms-1,12.3,N degC
+2020-06-27,24:00:00,2.54957,P ugm-3,No data,P mgm-3,10.5,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),258.9,N deg,8.4,N ms-1,12,N degC
+2020-06-28,01:00:00,0.56838,P ugm-3,No data,P mgm-3,9.5,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),262.2,N deg,5.9,N ms-1,10.8,N degC
+2020-06-28,02:00:00,4.30212,P ugm-3,No data,P mgm-3,9.7,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),261.6,N deg,6.8,N ms-1,11.6,N degC
+2020-06-28,03:00:00,0.72961,P ugm-3,No data,P mgm-3,11,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),262.8,N deg,6.7,N ms-1,11.8,N degC
+2020-06-28,04:00:00,0.17016,P ugm-3,No data,P mgm-3,11.5,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),261.7,N deg,6.9,N ms-1,11.9,N degC
+2020-06-28,05:00:00,4.11309,P ugm-3,No data,P mgm-3,10.8,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),262.4,N deg,6.7,N ms-1,11.8,N degC
+2020-06-28,06:00:00,3.03092,P ugm-3,No data,P mgm-3,11.6,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),261.1,N deg,7.8,N ms-1,12.8,N degC
+2020-06-28,07:00:00,2.34341,P ugm-3,No data,P mgm-3,17,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),262.1,N deg,9.3,N ms-1,13.9,N degC
+2020-06-28,08:00:00,2.28499,P ugm-3,No data,P mgm-3,13.2,N ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),260.9,N deg,9.8,N ms-1,14.6,N degC
+2020-06-28,09:00:00,2.52989,P ugm-3,No data,P mgm-3,13.5,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),260.5,N deg,10.4,N ms-1,15.2,N degC
+2020-06-28,10:00:00,2.90796,P ugm-3,No data,P mgm-3,12.1,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),263.1,N deg,10.8,N ms-1,15.7,N degC
+2020-06-28,11:00:00,2.85056,P ugm-3,No data,P mgm-3,11.5,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),261.9,N deg,10.8,N ms-1,16,N degC
+2020-06-28,12:00:00,2.72862,P ugm-3,No data,P mgm-3,14.4,N ugm-3 (TEOM FDMS),5.3,N ugm-3 (TEOM FDMS),261.3,N deg,10.9,N ms-1,16.3,N degC
+2020-06-28,13:00:00,2.34545,P ugm-3,No data,P mgm-3,12.9,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),262.9,N deg,11.2,N ms-1,16.3,N degC
+2020-06-28,14:00:00,2.47556,P ugm-3,No data,P mgm-3,12,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),264.2,N deg,11.3,N ms-1,16.3,N degC
+2020-06-28,15:00:00,1.72758,P ugm-3,No data,P mgm-3,11,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),262.8,N deg,11.1,N ms-1,15.9,N degC
+2020-06-28,16:00:00,1.47146,P ugm-3,No data,P mgm-3,14.2,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),262.8,N deg,10.5,N ms-1,15.6,N degC
+2020-06-28,17:00:00,2.22351,P ugm-3,No data,P mgm-3,14.3,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),264.6,N deg,10.1,N ms-1,14.9,N degC
+2020-06-28,18:00:00,1.73269,P ugm-3,No data,P mgm-3,14.3,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),262.5,N deg,9.4,N ms-1,14,N degC
+2020-06-28,19:00:00,2.10667,P ugm-3,No data,P mgm-3,10.7,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),264.5,N deg,8.7,N ms-1,13.3,N degC
+2020-06-28,20:00:00,2.47862,P ugm-3,No data,P mgm-3,9,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),266.1,N deg,7.7,N ms-1,12.4,N degC
+2020-06-28,21:00:00,1.98167,P ugm-3,No data,P mgm-3,13.1,N ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),266.6,N deg,7.9,N ms-1,11.9,N degC
+2020-06-28,22:00:00,1.85565,P ugm-3,No data,P mgm-3,16.6,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),268.6,N deg,8,N ms-1,11.7,N degC
+2020-06-28,23:00:00,1.54212,P ugm-3,No data,P mgm-3,14.7,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),271.8,N deg,8.5,N ms-1,11.5,N degC
+2020-06-28,24:00:00,0.78292,P ugm-3,No data,P mgm-3,11,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),271.9,N deg,9,N ms-1,11.6,N degC
+2020-06-29,01:00:00,0.89237,P ugm-3,No data,P mgm-3,16.1,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),270.7,N deg,7,N ms-1,10.9,N degC
+2020-06-29,02:00:00,0.47718,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),270.1,N deg,7.6,N ms-1,11.3,N degC
+2020-06-29,03:00:00,1.09535,P ugm-3,No data,P mgm-3,15.2,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),267.3,N deg,7.7,N ms-1,11.2,N degC
+2020-06-29,04:00:00,1.90989,P ugm-3,No data,P mgm-3,13.7,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),266.4,N deg,8.3,N ms-1,11.9,N degC
+2020-06-29,05:00:00,2.40713,P ugm-3,No data,P mgm-3,12.9,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),266.1,N deg,8.2,N ms-1,11.9,N degC
+2020-06-29,06:00:00,3.34129,P ugm-3,No data,P mgm-3,13.8,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),266.5,N deg,8.2,N ms-1,11.9,N degC
+2020-06-29,07:00:00,4.21021,P ugm-3,No data,P mgm-3,11.8,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),263.4,N deg,8.5,N ms-1,12.1,N degC
+2020-06-29,08:00:00,4.832,P ugm-3,No data,P mgm-3,17.2,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),259.7,N deg,8.8,N ms-1,12.3,N degC
+2020-06-29,09:00:00,3.96012,P ugm-3,No data,P mgm-3,17.6,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),260.5,N deg,9.2,N ms-1,12.7,N degC
+2020-06-29,10:00:00,4.33674,P ugm-3,No data,P mgm-3,18,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),260.7,N deg,9.5,N ms-1,13.1,N degC
+2020-06-29,11:00:00,3.83556,P ugm-3,No data,P mgm-3,17.2,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),260.9,N deg,9.7,N ms-1,13.3,N degC
+2020-06-29,12:00:00,5.19186,P ugm-3,No data,P mgm-3,15,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),258.6,N deg,9.7,N ms-1,13.7,N degC
+2020-06-29,13:00:00,3.52122,P ugm-3,No data,P mgm-3,10.8,N ugm-3 (TEOM FDMS),6.1,N ugm-3 (TEOM FDMS),260.1,N deg,10.2,N ms-1,14.2,N degC
+2020-06-29,14:00:00,3.03483,P ugm-3,No data,P mgm-3,14.3,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),262.6,N deg,10.4,N ms-1,14.9,N degC
+2020-06-29,15:00:00,3.46683,P ugm-3,No data,P mgm-3,16.2,N ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),261.7,N deg,9.9,N ms-1,14.1,N degC
+2020-06-29,16:00:00,5.33712,P ugm-3,No data,P mgm-3,13.4,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),261.6,N deg,8.9,N ms-1,13.7,N degC
+2020-06-29,17:00:00,3.1584,P ugm-3,No data,P mgm-3,8,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),263,N deg,8.8,N ms-1,13.5,N degC
+2020-06-29,18:00:00,2.90633,P ugm-3,No data,P mgm-3,13.7,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),264.7,N deg,8.4,N ms-1,13.3,N degC
+2020-06-29,19:00:00,2.72147,P ugm-3,No data,P mgm-3,8.7,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),268.9,N deg,7.9,N ms-1,13.2,N degC
+2020-06-29,20:00:00,2.66314,P ugm-3,No data,P mgm-3,9.7,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),269.9,N deg,7.4,N ms-1,12.3,N degC
+2020-06-29,21:00:00,2.72542,P ugm-3,No data,P mgm-3,7.9,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),270.1,N deg,6.9,N ms-1,11.8,N degC
+2020-06-29,22:00:00,2.41008,P ugm-3,No data,P mgm-3,8.6,N ugm-3 (TEOM FDMS),5.3,N ugm-3 (TEOM FDMS),268.9,N deg,6.3,N ms-1,11.6,N degC
+2020-06-29,23:00:00,2.47039,P ugm-3,No data,P mgm-3,15.2,N ugm-3 (TEOM FDMS),6.9,N ugm-3 (TEOM FDMS),269.8,N deg,5.7,N ms-1,11.4,N degC
+2020-06-29,24:00:00,1.90693,P ugm-3,No data,P mgm-3,10.1,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),274.6,N deg,5.2,N ms-1,11.1,N degC
+2020-06-30,01:00:00,2.53951,P ugm-3,No data,P mgm-3,9.6,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),263.9,N deg,4.3,N ms-1,10.9,N degC
+2020-06-30,02:00:00,2.36895,P ugm-3,No data,P mgm-3,15.9,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),267.2,N deg,4.4,N ms-1,11.7,N degC
+2020-06-30,03:00:00,3.68611,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),265.5,N deg,4.3,N ms-1,11.9,N degC
+2020-06-30,04:00:00,4.13,P ugm-3,No data,P mgm-3,10.7,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),255.5,N deg,4.2,N ms-1,12,N degC
+2020-06-30,05:00:00,7.72817,P ugm-3,No data,P mgm-3,11.1,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),250.3,N deg,4.3,N ms-1,12,N degC
+2020-06-30,06:00:00,9.45996,P ugm-3,No data,P mgm-3,13.2,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),249.6,N deg,3.6,N ms-1,12,N degC
+2020-06-30,07:00:00,13.11161,P ugm-3,No data,P mgm-3,10.2,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),244,N deg,3.4,N ms-1,12.4,N degC
+2020-06-30,08:00:00,9.01702,P ugm-3,No data,P mgm-3,4.5,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),240.1,N deg,4.9,N ms-1,12.7,N degC
+2020-06-30,09:00:00,11.79516,P ugm-3,No data,P mgm-3,14.8,N ugm-3 (TEOM FDMS),6.1,N ugm-3 (TEOM FDMS),242.7,N deg,4.8,N ms-1,12.7,N degC
+2020-06-30,10:00:00,10.36221,P ugm-3,No data,P mgm-3,8,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),226.8,N deg,3.6,N ms-1,13.1,N degC
+2020-06-30,11:00:00,8.88434,P ugm-3,No data,P mgm-3,8.6,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),193,N deg,4.1,N ms-1,13.8,N degC
+2020-06-30,12:00:00,9.06574,P ugm-3,No data,P mgm-3,8.5,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),179.1,N deg,3.9,N ms-1,14,N degC
+2020-06-30,13:00:00,7.70532,P ugm-3,No data,P mgm-3,4.3,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),169.2,N deg,2.8,N ms-1,14.5,N degC
+2020-06-30,14:00:00,11.89928,P ugm-3,No data,P mgm-3,6.7,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),253.1,N deg,3.8,N ms-1,16.1,N degC
+2020-06-30,15:00:00,8.12352,P ugm-3,No data,P mgm-3,5.4,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),257.7,N deg,6.9,N ms-1,15.7,N degC
+2020-06-30,16:00:00,3.85418,P ugm-3,No data,P mgm-3,5.7,N ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),264.9,N deg,6,N ms-1,15.5,N degC
+2020-06-30,17:00:00,3.79403,P ugm-3,No data,P mgm-3,4.7,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),263.2,N deg,4.8,N ms-1,15,N degC
+2020-06-30,18:00:00,5.15826,P ugm-3,No data,P mgm-3,3.1,P ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),258.5,N deg,5.9,N ms-1,15,N degC
+2020-06-30,19:00:00,3.99352,P ugm-3,No data,P mgm-3,5.3,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),263.7,N deg,5.3,N ms-1,14.8,N degC
+2020-06-30,20:00:00,3.67468,P ugm-3,No data,P mgm-3,8.5,N ugm-3 (TEOM FDMS),1.2,P ugm-3 (TEOM FDMS),254.4,N deg,4.4,N ms-1,14.2,N degC
+2020-06-30,21:00:00,3.67944,P ugm-3,No data,P mgm-3,6.2,N ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),245.3,N deg,4.2,N ms-1,13.3,N degC
+2020-06-30,22:00:00,3.49613,P ugm-3,No data,P mgm-3,1.7,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),247.7,N deg,4.3,N ms-1,12.9,N degC
+2020-06-30,23:00:00,2.68563,P ugm-3,No data,P mgm-3,3.7,P ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),250.3,N deg,3.9,N ms-1,12.7,N degC
+2020-06-30,24:00:00,8.26952,P ugm-3,No data,P mgm-3,8,N ugm-3 (TEOM FDMS),-0.7,P ugm-3 (TEOM FDMS),253,N deg,4,N ms-1,13.3,N degC
+2020-07-01,01:00:00,5.68331,P ugm-3,0.557846,P mgm-3,1.7,P ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),240.5,N deg,4.1,N ms-1,12.2,N degC
+2020-07-01,02:00:00,8.94668,P ugm-3,0.62925,P mgm-3,7.3,N ugm-3 (TEOM FDMS),0,P ugm-3 (TEOM FDMS),242.5,N deg,4.6,N ms-1,13.1,N degC
+2020-07-01,03:00:00,4.77408,P ugm-3,0.615862,P mgm-3,11.1,N ugm-3 (TEOM FDMS),-0.7,P ugm-3 (TEOM FDMS),246.5,N deg,4.8,N ms-1,12.7,N degC
+2020-07-01,04:00:00,1.85273,P ugm-3,0.599126,P mgm-3,7.2,N ugm-3 (TEOM FDMS),0,P ugm-3 (TEOM FDMS),250.5,N deg,5,N ms-1,12.3,N degC
+2020-07-01,05:00:00,5.37938,P ugm-3,0.595779,P mgm-3,4,P ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),251.7,N deg,5.1,N ms-1,12.4,N degC
+2020-07-01,06:00:00,1.99426,P ugm-3,0.595779,P mgm-3,0.9,P ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),255,N deg,6.2,N ms-1,13.7,N degC
+2020-07-01,07:00:00,6.08462,P ugm-3,0.589085,P mgm-3,5.6,N ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),260.7,N deg,6.2,N ms-1,15.3,N degC
+2020-07-01,08:00:00,7.71933,P ugm-3,0.595779,P mgm-3,0.7,P ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),255.3,N deg,6.5,N ms-1,15.3,N degC
+2020-07-01,09:00:00,2.42648,P ugm-3,0.57235,P mgm-3,5.9,N ugm-3 (TEOM FDMS),-0.4,P ugm-3 (TEOM FDMS),256.8,N deg,5.3,N ms-1,15.8,N degC
+2020-07-01,10:00:00,2.6359,P ugm-3,0.555614,P mgm-3,9,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),246,N deg,4.4,N ms-1,14.8,N degC
+2020-07-01,11:00:00,1.58116,P ugm-3,0.54892,P mgm-3,6.7,N ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),261,N deg,5.8,N ms-1,15,N degC
+2020-07-01,12:00:00,2.78173,P ugm-3,0.518797,P mgm-3,9.3,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),273.2,N deg,5.7,N ms-1,15.2,N degC
+2020-07-01,13:00:00,1.9321,P ugm-3,0.495367,P mgm-3,11.7,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),264,N deg,7.4,N ms-1,17.5,N degC
+2020-07-01,14:00:00,1.28472,P ugm-3,0.485326,P mgm-3,6.9,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),266.4,N deg,8,N ms-1,17.2,N degC
+2020-07-01,15:00:00,0.20416,P ugm-3,0.485326,P mgm-3,9.4,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),277.2,N deg,7.6,N ms-1,16.9,N degC
+2020-07-01,16:00:00,0.27492,P ugm-3,0.478632,P mgm-3,6.7,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),273.9,N deg,7.7,N ms-1,16.1,N degC
+2020-07-01,17:00:00,0.5508,P ugm-3,0.471938,P mgm-3,8.1,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),272.6,N deg,8.2,N ms-1,15.4,N degC
+2020-07-01,18:00:00,-0.18169,P ugm-3,0.495367,P mgm-3,6.2,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),271.4,N deg,7.7,N ms-1,14.4,N degC
+2020-07-01,19:00:00,-0.44466,P ugm-3,0.502061,P mgm-3,10,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),275.4,N deg,6.2,N ms-1,13.8,N degC
+2020-07-01,20:00:00,-0.11236,P ugm-3,0.525491,P mgm-3,6,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),269.4,N deg,4.9,N ms-1,12.8,N degC
+2020-07-01,21:00:00,2.34807,P ugm-3,0.532185,P mgm-3,8.3,N ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),266.7,N deg,4.2,N ms-1,12.1,N degC
+2020-07-01,22:00:00,3.00836,P ugm-3,0.532185,P mgm-3,5.6,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),270.8,N deg,4.2,N ms-1,11.8,N degC
+2020-07-01,23:00:00,2.14869,P ugm-3,0.538879,P mgm-3,15.9,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),276.8,N deg,3.9,N ms-1,11.3,N degC
+2020-07-01,24:00:00,1.87568,P ugm-3,0.558962,P mgm-3,9.7,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),283.4,N deg,3.4,N ms-1,10.8,N degC
+2020-07-02,01:00:00,2.87066,P ugm-3,0.562309,P mgm-3,11.2,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),246.5,N deg,3.6,N ms-1,10.5,N degC
+2020-07-02,02:00:00,7.02589,P ugm-3,0.642638,P mgm-3,11.4,N ugm-3 (TEOM FDMS),1.2,P ugm-3 (TEOM FDMS),244.5,N deg,3.6,N ms-1,10.5,N degC
+2020-07-02,03:00:00,6.90938,P ugm-3,0.632597,P mgm-3,14,N ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),254.9,N deg,4,N ms-1,11.3,N degC
+2020-07-02,04:00:00,1.071,P ugm-3,0.619209,P mgm-3,7.4,N ugm-3 (TEOM FDMS),0.1,P ugm-3 (TEOM FDMS),254.6,N deg,4,N ms-1,11.1,N degC
+2020-07-02,05:00:00,1.93067,P ugm-3,0.602474,P mgm-3,5.2,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),274.4,N deg,4.1,N ms-1,11.6,N degC
+2020-07-02,06:00:00,2.91178,P ugm-3,0.615862,P mgm-3,8.6,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),277.2,N deg,4.5,N ms-1,12.7,N degC
+2020-07-02,07:00:00,3.63279,P ugm-3,0.612515,P mgm-3,6.7,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),272.2,N deg,5.2,N ms-1,12.9,N degC
+2020-07-02,08:00:00,9.35978,P ugm-3,0.605821,P mgm-3,9,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),270.4,N deg,5.9,N ms-1,13.2,N degC
+2020-07-02,09:00:00,4.03729,P ugm-3,0.615862,P mgm-3,11.8,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),275.4,N deg,5.8,N ms-1,13.6,N degC
+2020-07-02,10:00:00,3.00263,P ugm-3,0.595779,P mgm-3,7.4,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),275.9,N deg,6.2,N ms-1,14,N degC
+2020-07-02,11:00:00,3.65718,P ugm-3,0.569003,P mgm-3,5.1,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),276.4,N deg,6.5,N ms-1,14.5,N degC
+2020-07-02,12:00:00,3.31197,P ugm-3,0.555614,P mgm-3,9.7,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),275.3,N deg,6.9,N ms-1,15.2,N degC
+2020-07-02,13:00:00,2.5288,P ugm-3,0.505408,P mgm-3,10.6,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),276,N deg,7.6,N ms-1,16.7,N degC
+2020-07-02,14:00:00,2.72675,P ugm-3,0.545573,P mgm-3,12.2,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),279.1,N deg,7.8,N ms-1,16.6,N degC
+2020-07-02,15:00:00,1.73272,P ugm-3,0.54892,P mgm-3,12.9,N ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),281.5,N deg,7.7,N ms-1,16.8,N degC
+2020-07-02,16:00:00,1.40043,P ugm-3,0.54892,P mgm-3,12.6,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),282,N deg,7.5,N ms-1,16.7,N degC
+2020-07-02,17:00:00,1.93928,P ugm-3,0.558962,P mgm-3,9.8,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),283.5,N deg,7.5,N ms-1,16.1,N degC
+2020-07-02,18:00:00,1.1475,P ugm-3,0.54892,P mgm-3,8.8,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),284.9,N deg,7.2,N ms-1,15.1,N degC
+2020-07-02,19:00:00,0.08272,P ugm-3,0.542226,P mgm-3,9.4,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),284.9,N deg,6.4,N ms-1,14.2,N degC
+2020-07-02,20:00:00,0.34138,P ugm-3,0.555614,P mgm-3,11,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),278.1,N deg,5.6,N ms-1,12.8,N degC
+2020-07-02,21:00:00,0.36003,P ugm-3,0.54892,P mgm-3,9.4,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),279,N deg,5.2,N ms-1,12.1,N degC
+2020-07-02,22:00:00,0.8152,P ugm-3,0.552267,P mgm-3,10.3,N ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),276.6,N deg,4.6,N ms-1,11.6,N degC
+2020-07-02,23:00:00,1.28616,P ugm-3,0.552267,P mgm-3,8.1,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),267.7,N deg,4.2,N ms-1,11.1,N degC
+2020-07-02,24:00:00,1.34831,P ugm-3,0.565656,P mgm-3,5,P ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),272.4,N deg,4.4,N ms-1,11.8,N degC
+2020-07-03,01:00:00,-0.23078,P ugm-3,0.548571,P mgm-3,4.9,P ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),257.8,N deg,3.3,N ms-1,9.9,N degC
+2020-07-03,02:00:00,2.42951,P ugm-3,No data,P mgm-3,7.5,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),258.9,N deg,3.2,N ms-1,9.6,N degC
+2020-07-03,03:00:00,1.55056,P ugm-3,-0.079631,P mgm-3,12.2,N ugm-3 (TEOM FDMS),0.4,P ugm-3 (TEOM FDMS),260,N deg,3.6,N ms-1,10,N degC
+2020-07-03,04:00:00,-0.9749,P ugm-3,-0.082949,P mgm-3,11.9,N ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),251.3,N deg,4.1,N ms-1,10.6,N degC
+2020-07-03,05:00:00,1.68061,P ugm-3,-0.089585,P mgm-3,10.6,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),242.2,N deg,4.5,N ms-1,11.3,N degC
+2020-07-03,06:00:00,8.44082,P ugm-3,-0.096221,P mgm-3,12.6,N ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),240.9,N deg,5.1,N ms-1,11.9,N degC
+2020-07-03,07:00:00,5.25364,P ugm-3,-0.099539,P mgm-3,7.8,N ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),244.7,N deg,6.1,N ms-1,12.8,N degC
+2020-07-03,08:00:00,7.47453,P ugm-3,-0.122765,P mgm-3,11.2,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),252.6,N deg,7.1,N ms-1,14.1,N degC
+2020-07-03,09:00:00,5.63231,P ugm-3,-0.116129,P mgm-3,11.2,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),254.2,N deg,8.5,N ms-1,15.2,N degC
+2020-07-03,10:00:00,5.3201,P ugm-3,-0.116129,P mgm-3,11.9,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),255,N deg,8.6,N ms-1,15.1,N degC
+2020-07-03,11:00:00,5.90102,P ugm-3,-0.122765,P mgm-3,12.1,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),255.1,N deg,8.6,N ms-1,15.5,N degC
+2020-07-03,12:00:00,2.93617,P ugm-3,-0.136037,P mgm-3,15.4,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),253.8,N deg,8.6,N ms-1,16,N degC
+2020-07-03,13:00:00,1.87568,P ugm-3,-0.136037,P mgm-3,9.5,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),259.7,N deg,9.1,N ms-1,16.5,N degC
+2020-07-03,14:00:00,1.60554,P ugm-3,-0.112811,P mgm-3,12.1,N ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),257,N deg,8.6,N ms-1,15.5,N degC
+2020-07-03,15:00:00,3.99808,P ugm-3,-0.119447,P mgm-3,11.7,N ugm-3 (TEOM FDMS),6.5,N ugm-3 (TEOM FDMS),253.3,N deg,8.3,N ms-1,15.1,N degC
+2020-07-03,16:00:00,5.70738,P ugm-3,-0.096221,P mgm-3,8.3,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),243.7,N deg,7.6,N ms-1,15.2,N degC
+2020-07-03,17:00:00,4.65263,P ugm-3,-0.086267,P mgm-3,5.3,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),240.7,N deg,6.5,N ms-1,14.7,N degC
+2020-07-03,18:00:00,5.30288,P ugm-3,-0.069677,P mgm-3,4.8,P ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),243.3,N deg,6.6,N ms-1,14.4,N degC
+2020-07-03,19:00:00,5.44011,P ugm-3,-0.092903,P mgm-3,6.4,N ugm-3 (TEOM FDMS),-0.1,P ugm-3 (TEOM FDMS),242.4,N deg,6.8,N ms-1,14.4,N degC
+2020-07-03,20:00:00,4.76978,P ugm-3,-0.089585,P mgm-3,10.8,N ugm-3 (TEOM FDMS),-0.6,P ugm-3 (TEOM FDMS),244.6,N deg,6.8,N ms-1,14.4,N degC
+2020-07-03,21:00:00,7.63183,P ugm-3,-0.072995,P mgm-3,7.7,N ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),247.5,N deg,6.3,N ms-1,14.5,N degC
+2020-07-03,22:00:00,4.17451,P ugm-3,-0.079631,P mgm-3,0.1,P ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),247.3,N deg,6.4,N ms-1,14.6,N degC
+2020-07-03,23:00:00,2.18647,P ugm-3,-0.092903,P mgm-3,4.9,P ugm-3 (TEOM FDMS),-3.9,P ugm-3 (TEOM FDMS),242.8,N deg,6.7,N ms-1,14.6,N degC
+2020-07-03,24:00:00,2.25866,P ugm-3,-0.092903,P mgm-3,1.8,P ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),242.6,N deg,6.7,N ms-1,14.9,N degC
+2020-07-04,01:00:00,0.19508,P ugm-3,-0.092903,P mgm-3,-1.9,P ugm-3 (TEOM FDMS),-0.5,P ugm-3 (TEOM FDMS),245.5,N deg,7.2,N ms-1,16,N degC
+2020-07-04,02:00:00,10.87511,P ugm-3,-0.072995,P mgm-3,1.5,P ugm-3 (TEOM FDMS),-1.2,P ugm-3 (TEOM FDMS),252,N deg,8.1,N ms-1,16.2,N degC
+2020-07-04,03:00:00,5.95744,P ugm-3,-0.106175,P mgm-3,4.7,P ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),255.1,N deg,8.1,N ms-1,16.2,N degC
+2020-07-04,04:00:00,6.08892,P ugm-3,-0.089585,P mgm-3,-0.3,P ugm-3 (TEOM FDMS),-0.2,P ugm-3 (TEOM FDMS),256.2,N deg,7.7,N ms-1,16.1,N degC
+2020-07-04,05:00:00,0.59574,P ugm-3,-0.089585,P mgm-3,2.6,P ugm-3 (TEOM FDMS),-1.4,P ugm-3 (TEOM FDMS),260.5,N deg,7.8,N ms-1,15.9,N degC
+2020-07-04,06:00:00,-0.74205,P ugm-3,-0.106175,P mgm-3,4.3,P ugm-3 (TEOM FDMS),-1.4,P ugm-3 (TEOM FDMS),265.9,N deg,8.1,N ms-1,15.7,N degC
+2020-07-04,07:00:00,0.5814,P ugm-3,-0.096221,P mgm-3,5,P ugm-3 (TEOM FDMS),-0.8,P ugm-3 (TEOM FDMS),268,N deg,8.3,N ms-1,15.5,N degC
+2020-07-04,08:00:00,0.77361,P ugm-3,-0.112811,P mgm-3,2.7,P ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),269.5,N deg,8.6,N ms-1,15.6,N degC
+2020-07-04,09:00:00,1.16663,P ugm-3,-0.129401,P mgm-3,5.9,N ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),269.4,N deg,8.2,N ms-1,16,N degC
+2020-07-04,10:00:00,0.11618,P ugm-3,-0.116129,P mgm-3,8.3,N ugm-3 (TEOM FDMS),1.2,P ugm-3 (TEOM FDMS),267,N deg,8.2,N ms-1,16.8,N degC
+2020-07-04,11:00:00,0.43701,P ugm-3,-0.116129,P mgm-3,2.5,P ugm-3 (TEOM FDMS),-0.4,P ugm-3 (TEOM FDMS),265.5,N deg,8.5,N ms-1,17.1,N degC
+2020-07-04,12:00:00,-0.03395,P ugm-3,-0.132719,P mgm-3,4.7,P ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),263.6,N deg,7.5,N ms-1,16.7,N degC
+2020-07-04,13:00:00,0.61917,P ugm-3,-0.119447,P mgm-3,5.7,N ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),262.4,N deg,6.6,N ms-1,16.3,N degC
+2020-07-04,14:00:00,0.54841,P ugm-3,-0.132719,P mgm-3,2.1,P ugm-3 (TEOM FDMS),-1.5,P ugm-3 (TEOM FDMS),259.6,N deg,7,N ms-1,16.7,N degC
+2020-07-04,15:00:00,-0.2797,P ugm-3,-0.126083,P mgm-3,5.8,N ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),263.3,N deg,7.2,N ms-1,16.9,N degC
+2020-07-04,16:00:00,-0.28831,P ugm-3,-0.122765,P mgm-3,7.9,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),268.3,N deg,7.7,N ms-1,16.6,N degC
+2020-07-04,17:00:00,0.11762,P ugm-3,-0.102857,P mgm-3,10.4,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),274.2,N deg,9.3,N ms-1,17.7,N degC
+2020-07-04,18:00:00,-0.21181,P ugm-3,-0.116129,P mgm-3,11.3,N ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),271.5,N deg,9,N ms-1,17.1,N degC
+2020-07-04,19:00:00,-0.21468,P ugm-3,-0.112811,P mgm-3,6.9,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),265.8,N deg,8,N ms-1,16.4,N degC
+2020-07-04,20:00:00,-0.40402,P ugm-3,-0.092903,P mgm-3,5.7,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),258.1,N deg,7.4,N ms-1,15.9,N degC
+2020-07-04,21:00:00,-0.87067,P ugm-3,-0.099539,P mgm-3,6.1,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),253.6,N deg,7.2,N ms-1,15.7,N degC
+2020-07-04,22:00:00,0.05977,P ugm-3,-0.109493,P mgm-3,6.9,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),254,N deg,7.4,N ms-1,15.7,N degC
+2020-07-04,23:00:00,1.98278,P ugm-3,-0.096221,P mgm-3,5.5,N ugm-3 (TEOM FDMS),-0.3,P ugm-3 (TEOM FDMS),254.1,N deg,8.8,N ms-1,15.9,N degC
+2020-07-04,24:00:00,2.36289,P ugm-3,-0.109493,P mgm-3,4.4,P ugm-3 (TEOM FDMS),-1.4,P ugm-3 (TEOM FDMS),256.2,N deg,9.5,N ms-1,15.9,N degC
+2020-07-05,01:00:00,2.30647,P ugm-3,-0.101751,P mgm-3,4.2,P ugm-3 (TEOM FDMS),-1.7,P ugm-3 (TEOM FDMS),259,N deg,11,N ms-1,16.4,N degC
+2020-07-05,02:00:00,-0.68914,P ugm-3,-0.075207,P mgm-3,1.9,P ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),263.2,N deg,11.9,N ms-1,16.1,N degC
+2020-07-05,03:00:00,No data,,-0.109493,P mgm-3,5.2,N ugm-3 (TEOM FDMS),0.1,P ugm-3 (TEOM FDMS),267.3,N deg,10.9,N ms-1,15.8,N degC
+2020-07-05,04:00:00,No data,,-0.116129,P mgm-3,8.5,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),274,N deg,9.9,N ms-1,15,N degC
+2020-07-05,05:00:00,No data,,-0.119447,P mgm-3,12.4,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),276.1,N deg,9.6,N ms-1,14.1,N degC
+2020-07-05,06:00:00,No data,,-0.119447,P mgm-3,16.6,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),278,N deg,8.9,N ms-1,13.6,N degC
+2020-07-05,07:00:00,-2.04398,P ugm-3,-0.109493,P mgm-3,12.7,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),274.1,N deg,8.5,N ms-1,13.5,N degC
+2020-07-05,08:00:00,-1.44442,P ugm-3,-0.122765,P mgm-3,10.2,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),274.2,N deg,8.5,N ms-1,13.6,N degC
+2020-07-05,09:00:00,-1.24073,P ugm-3,-0.119447,P mgm-3,9,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),274,N deg,9,N ms-1,14.1,N degC
+2020-07-05,10:00:00,-0.24671,P ugm-3,-0.142673,P mgm-3,12.8,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),273.6,N deg,9.6,N ms-1,15.5,N degC
+2020-07-05,11:00:00,0.01626,P ugm-3,-0.145991,P mgm-3,12.1,N ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),271.5,N deg,9.6,N ms-1,14.7,N degC
+2020-07-05,12:00:00,0.21563,P ugm-3,-0.17917,P mgm-3,13.6,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),264.5,N deg,8.7,N ms-1,13.8,N degC
+2020-07-05,13:00:00,1.08391,P ugm-3,-0.155945,P mgm-3,15.5,N ugm-3 (TEOM FDMS),6.4,N ugm-3 (TEOM FDMS),269.6,N deg,11.3,N ms-1,16,N degC
+2020-07-05,14:00:00,0.48434,P ugm-3,-0.155945,P mgm-3,14.7,N ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),270.7,N deg,11.7,N ms-1,15.9,N degC
+2020-07-05,15:00:00,0.02199,P ugm-3,-0.155945,P mgm-3,17.2,N ugm-3 (TEOM FDMS),7.3,N ugm-3 (TEOM FDMS),269.5,N deg,12,N ms-1,15.6,N degC
+2020-07-05,16:00:00,0.35573,P ugm-3,-0.145991,P mgm-3,18,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),270,N deg,11.5,N ms-1,15.3,N degC
+2020-07-05,17:00:00,-0.23811,P ugm-3,-0.136037,P mgm-3,22,N ugm-3 (TEOM FDMS),9,N ugm-3 (TEOM FDMS),270.9,N deg,11.5,N ms-1,14.8,N degC
+2020-07-05,18:00:00,-0.17308,P ugm-3,-0.126083,P mgm-3,21.6,N ugm-3 (TEOM FDMS),8.1,N ugm-3 (TEOM FDMS),270.7,N deg,11.6,N ms-1,14.1,N degC
+2020-07-05,19:00:00,-0.16591,P ugm-3,-0.126083,P mgm-3,20.4,N ugm-3 (TEOM FDMS),10,N ugm-3 (TEOM FDMS),274.9,N deg,10.6,N ms-1,13.3,N degC
+2020-07-05,20:00:00,-0.10375,P ugm-3,-0.132719,P mgm-3,26.8,N ugm-3 (TEOM FDMS),10.5,N ugm-3 (TEOM FDMS),273.5,N deg,10.5,N ms-1,12.5,N degC
+2020-07-05,21:00:00,-0.10662,P ugm-3,-0.142673,P mgm-3,19.6,N ugm-3 (TEOM FDMS),10.9,N ugm-3 (TEOM FDMS),275.5,N deg,11.3,N ms-1,12.2,N degC
+2020-07-05,22:00:00,0.09419,P ugm-3,-0.132719,P mgm-3,18.6,N ugm-3 (TEOM FDMS),6.9,N ugm-3 (TEOM FDMS),276.4,N deg,12,N ms-1,12.3,N degC
+2020-07-05,23:00:00,-0.50825,P ugm-3,-0.145991,P mgm-3,16,N ugm-3 (TEOM FDMS),7.3,N ugm-3 (TEOM FDMS),289.8,N deg,7.7,N ms-1,12.2,N degC
+2020-07-05,24:00:00,-0.24671,P ugm-3,-0.126083,P mgm-3,18,N ugm-3 (TEOM FDMS),7.5,N ugm-3 (TEOM FDMS),293.1,N deg,3.1,N ms-1,11.4,N degC
+2020-07-06,01:00:00,0.03697,P ugm-3,-0.132719,P mgm-3,14.7,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),288.4,N deg,6.6,N ms-1,11.1,N degC
+2020-07-06,02:00:00,2.33325,P ugm-3,-0.061935,P mgm-3,12.5,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),294.7,N deg,5.3,N ms-1,10.7,N degC
+2020-07-06,03:00:00,-0.31461,P ugm-3,-0.082949,P mgm-3,10.7,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),291.6,N deg,4.1,N ms-1,10.1,N degC
+2020-07-06,04:00:00,0.61009,P ugm-3,-0.109493,P mgm-3,12.1,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),286.1,N deg,4.5,N ms-1,9.7,N degC
+2020-07-06,05:00:00,2.20511,P ugm-3,-0.126083,P mgm-3,9.4,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),289.1,N deg,5,N ms-1,9.8,N degC
+2020-07-06,06:00:00,4.12239,P ugm-3,-0.132719,P mgm-3,10.1,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),296.7,N deg,6.4,N ms-1,11.1,N degC
+2020-07-06,07:00:00,5.8403,P ugm-3,-0.145991,P mgm-3,9.4,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),296.3,N deg,6.9,N ms-1,12.4,N degC
+2020-07-06,08:00:00,5.09347,P ugm-3,-0.145991,P mgm-3,13,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),297.2,N deg,7.1,N ms-1,13.7,N degC
+2020-07-06,09:00:00,4.04446,P ugm-3,-0.165899,P mgm-3,7.5,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),297.2,N deg,7.2,N ms-1,14.8,N degC
+2020-07-06,10:00:00,4.65885,P ugm-3,-0.182488,P mgm-3,7.4,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),300.4,N deg,7.7,N ms-1,15.7,N degC
+2020-07-06,11:00:00,1.80062,P ugm-3,-0.182488,P mgm-3,7,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),306.7,N deg,7.3,N ms-1,16.8,N degC
+2020-07-06,12:00:00,1.7399,P ugm-3,-0.209032,P mgm-3,8.8,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),305.7,N deg,7.4,N ms-1,17.3,N degC
+2020-07-06,13:00:00,2.5245,P ugm-3,-0.19576,P mgm-3,11.7,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),303.6,N deg,7.5,N ms-1,17.4,N degC
+2020-07-06,14:00:00,3.19196,P ugm-3,-0.199078,P mgm-3,6.4,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),308,N deg,7.3,N ms-1,17.7,N degC
+2020-07-06,15:00:00,0.41071,P ugm-3,-0.189124,P mgm-3,2.7,P ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),304.8,N deg,6.9,N ms-1,17.7,N degC
+2020-07-06,16:00:00,-0.11236,P ugm-3,-0.185806,P mgm-3,8,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),302.1,N deg,6.8,N ms-1,17.5,N degC
+2020-07-06,17:00:00,0.87449,P ugm-3,-0.192442,P mgm-3,9.2,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),303,N deg,6.1,N ms-1,17.2,N degC
+2020-07-06,18:00:00,0.42075,P ugm-3,-0.199078,P mgm-3,5.8,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),304.6,N deg,5.4,N ms-1,16.8,N degC
+2020-07-06,19:00:00,0.54937,P ugm-3,-0.192442,P mgm-3,11.9,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),288,N deg,4.4,N ms-1,15.6,N degC
+2020-07-06,20:00:00,0.55654,P ugm-3,-0.192442,P mgm-3,2.8,P ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),281.3,N deg,4.4,N ms-1,13.7,N degC
+2020-07-06,21:00:00,2.9419,P ugm-3,-0.19576,P mgm-3,13,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),288.3,N deg,4.2,N ms-1,12.6,N degC
+2020-07-06,22:00:00,4.99784,P ugm-3,-0.175852,P mgm-3,18.2,N ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),293.7,N deg,4.1,N ms-1,11.9,N degC
+2020-07-06,23:00:00,6.5986,P ugm-3,-0.165899,P mgm-3,12.5,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),298.3,N deg,4.2,N ms-1,11.4,N degC
+2020-07-06,24:00:00,8.6445,P ugm-3,-0.116129,P mgm-3,12.1,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),296.4,N deg,3.7,N ms-1,10.8,N degC
+2020-07-07,01:00:00,5.3499,P ugm-3,-0.137143,P mgm-3,16.2,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),283.7,N deg,3,N ms-1,8.8,N degC
+2020-07-07,02:00:00,2.06933,P ugm-3,-0.106175,P mgm-3,12,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),286,N deg,2.8,N ms-1,8.4,N degC
+2020-07-07,03:00:00,1.87568,P ugm-3,-0.126083,P mgm-3,6.9,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),293.8,N deg,2.7,N ms-1,8.7,N degC
+2020-07-07,04:00:00,0.86732,P ugm-3,-0.139355,P mgm-3,9.8,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),292.2,N deg,1.9,N ms-1,8.7,N degC
+2020-07-07,05:00:00,3.32201,P ugm-3,-0.145991,P mgm-3,11.8,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),286.9,N deg,2,N ms-1,9.6,N degC
+2020-07-07,06:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),282.5,N deg,2.4,N ms-1,10.4,N degC
+2020-07-07,07:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),263.8,N deg,4.2,N ms-1,11.8,N degC
+2020-07-07,08:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),261.1,N deg,4.6,N ms-1,12.7,N degC
+2020-07-07,09:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),254.5,N deg,5.2,N ms-1,14.8,N degC
+2020-07-07,10:00:00,16.0497,P ugm-3,-0.222304,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),251.8,N deg,5.8,N ms-1,16.2,N degC
+2020-07-07,11:00:00,14.20175,P ugm-3,-0.205714,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),251.8,N deg,6.6,N ms-1,16.7,N degC
+2020-07-07,12:00:00,12.06931,P ugm-3,-0.22894,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),260.6,N deg,6.8,N ms-1,17,N degC
+2020-07-07,13:00:00,9.06095,P ugm-3,-0.218986,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),265.6,N deg,7,N ms-1,17,N degC
+2020-07-07,14:00:00,6.35763,P ugm-3,-0.235576,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),275.8,N deg,6.3,N ms-1,15.4,N degC
+2020-07-07,15:00:00,7.99616,P ugm-3,-0.248848,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),280.4,N deg,6.3,N ms-1,14.7,N degC
+2020-07-07,16:00:00,8.58856,P ugm-3,-0.235576,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),272.4,N deg,7.4,N ms-1,14.1,N degC
+2020-07-07,17:00:00,7.87328,P ugm-3,-0.199078,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),259.6,N deg,7.2,N ms-1,14.1,N degC
+2020-07-07,18:00:00,4.65694,P ugm-3,-0.19576,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),260.4,N deg,8.2,N ms-1,14,N degC
+2020-07-07,19:00:00,4.19172,P ugm-3,-0.172534,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),262.7,N deg,8.2,N ms-1,13.9,N degC
+2020-07-07,20:00:00,2.53024,P ugm-3,-0.169216,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),263.3,N deg,8.1,N ms-1,14.1,N degC
+2020-07-07,21:00:00,2.25436,P ugm-3,-0.162581,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),269.5,N deg,8.3,N ms-1,14.4,N degC
+2020-07-07,22:00:00,2.78603,P ugm-3,-0.182488,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),268.4,N deg,7.9,N ms-1,14.9,N degC
+2020-07-07,23:00:00,0.79656,P ugm-3,-0.165899,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),268.9,N deg,7.5,N ms-1,15,N degC
+2020-07-07,24:00:00,1.62754,P ugm-3,-0.162581,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),271.9,N deg,7.3,N ms-1,14.9,N degC
+2020-07-08,01:00:00,0.2703,P ugm-3,-0.135824,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),271.4,N deg,6.1,N ms-1,15,N degC
+2020-07-08,02:00:00,0.90015,P ugm-3,-0.139704,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),269.7,N deg,5.9,N ms-1,15.1,N degC
+2020-07-08,03:00:00,-0.08176,P ugm-3,-0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),272.7,N deg,5.9,N ms-1,15,N degC
+2020-07-08,04:00:00,-0.27397,P ugm-3,-0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),279,N deg,6,N ms-1,15,N degC
+2020-07-08,05:00:00,-0.55271,P ugm-3,-0.133883,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),277.5,N deg,5.2,N ms-1,14.9,N degC
+2020-07-08,06:00:00,1.2087,P ugm-3,-0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),274,N deg,5.1,N ms-1,14.8,N degC
+2020-07-08,07:00:00,4.28639,P ugm-3,-0.128062,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),270.7,N deg,4.9,N ms-1,14.8,N degC
+2020-07-08,08:00:00,3.83122,P ugm-3,No data,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),271.2,N deg,4.6,N ms-1,14.9,N degC
+2020-07-08,09:00:00,No data,N ugm-3,No data,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),275.3,N deg,5,N ms-1,15.4,N degC
+2020-07-08,10:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),276.9,N deg,4.7,N ms-1,15.6,N degC
+2020-07-08,11:00:00,No data,N ugm-3,0.093136,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),290.3,N deg,5.1,N ms-1,15.8,N degC
+2020-07-08,12:00:00,No data,N ugm-3,0.093136,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),300.7,N deg,4.1,N ms-1,16.3,N degC
+2020-07-08,13:00:00,No data,N ugm-3,0.087315,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),285.5,N deg,4.4,N ms-1,16.3,N degC
+2020-07-08,14:00:00,No data,N ugm-3,0.078584,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),285.5,N deg,4,N ms-1,16.2,N degC
+2020-07-08,15:00:00,No data,N ugm-3,0.101868,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),271.1,N deg,4.9,N ms-1,16.1,N degC
+2020-07-08,16:00:00,No data,N ugm-3,0.107689,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),270.9,N deg,5.7,N ms-1,15.7,N degC
+2020-07-08,17:00:00,No data,N ugm-3,0.122241,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),271.6,N deg,6.1,N ms-1,15.6,N degC
+2020-07-08,18:00:00,No data,N ugm-3,0.128062,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),270.3,N deg,6.3,N ms-1,15.3,N degC
+2020-07-08,19:00:00,No data,N ugm-3,0.11642,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),264.8,N deg,6.8,N ms-1,15.2,N degC
+2020-07-08,20:00:00,No data,N ugm-3,0.130973,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),268.3,N deg,7.1,N ms-1,15,N degC
+2020-07-08,21:00:00,No data,N ugm-3,0.119331,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),265.9,N deg,7,N ms-1,15,N degC
+2020-07-08,22:00:00,No data,N ugm-3,0.133883,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),260,N deg,6.7,N ms-1,14.9,N degC
+2020-07-08,23:00:00,No data,N ugm-3,0.119331,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),256,N deg,5.7,N ms-1,14.9,N degC
+2020-07-08,24:00:00,No data,N ugm-3,0.110599,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),263.8,N deg,5.2,N ms-1,14.1,N degC
+2020-07-09,01:00:00,No data,N ugm-3,0.108658,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),241.6,N deg,6,N ms-1,15,N degC
+2020-07-09,02:00:00,No data,N ugm-3,0.119331,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),245.2,N deg,6.9,N ms-1,15.2,N degC
+2020-07-09,03:00:00,No data,N ugm-3,0.122241,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),247.4,N deg,8.3,N ms-1,15.5,N degC
+2020-07-09,04:00:00,No data,N ugm-3,0.110599,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),248.5,N deg,7.3,N ms-1,15.6,N degC
+2020-07-09,05:00:00,No data,N ugm-3,0.128062,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),253,N deg,6.7,N ms-1,15.6,N degC
+2020-07-09,06:00:00,No data,N ugm-3,0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),260.2,N deg,6.5,N ms-1,15.6,N degC
+2020-07-09,07:00:00,No data,N ugm-3,0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),261.8,N deg,6.2,N ms-1,15.4,N degC
+2020-07-09,08:00:00,No data,N ugm-3,0.142615,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),262.7,N deg,5.9,N ms-1,15.6,N degC
+2020-07-09,09:00:00,No data,N ugm-3,0.142615,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),264.8,N deg,5.4,N ms-1,15.8,N degC
+2020-07-09,10:00:00,No data,N ugm-3,0.139704,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),263.6,N deg,5.4,N ms-1,15.7,N degC
+2020-07-09,11:00:00,No data,N ugm-3,0.125152,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),269.4,N deg,5.4,N ms-1,15.9,N degC
+2020-07-09,12:00:00,No data,N ugm-3,0.133883,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),273.3,N deg,5.4,N ms-1,15.9,N degC
+2020-07-09,13:00:00,No data,N ugm-3,0.110599,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),276.3,N deg,5.3,N ms-1,15.7,N degC
+2020-07-09,14:00:00,No data,N ugm-3,0.101868,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),279.3,N deg,5.7,N ms-1,15.4,N degC
+2020-07-09,15:00:00,No data,N ugm-3,0.104778,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),277.3,N deg,5.7,N ms-1,15.2,N degC
+2020-07-09,16:00:00,No data,N ugm-3,0.098957,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),287.4,N deg,5.2,N ms-1,15.1,N degC
+2020-07-09,17:00:00,No data,N ugm-3,0.133883,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),285.1,N deg,5.3,N ms-1,14.8,N degC
+2020-07-09,18:00:00,No data,N ugm-3,0.145525,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),297,N deg,2.9,N ms-1,15.1,N degC
+2020-07-09,19:00:00,No data,N ugm-3,0.133883,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),60.1,N deg,2.9,N ms-1,15,N degC
+2020-07-09,20:00:00,No data,N ugm-3,0.142615,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),46.3,N deg,2.9,N ms-1,13.8,N degC
+2020-07-09,21:00:00,No data,N ugm-3,0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),31.2,N deg,3.1,N ms-1,13.1,N degC
+2020-07-09,22:00:00,No data,N ugm-3,0.142615,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),24.7,N deg,3.3,N ms-1,12.2,N degC
+2020-07-09,23:00:00,No data,N ugm-3,0.136794,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),5.3,N deg,3.3,N ms-1,11.3,N degC
+2020-07-09,24:00:00,No data,N ugm-3,0.110599,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),340.7,N deg,3,N ms-1,10.5,N degC
+2020-07-10,01:00:00,No data,N ugm-3,0.11254,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),322.4,N deg,3.1,N ms-1,10.1,N degC
+2020-07-10,02:00:00,No data,N ugm-3,0.151346,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),343.5,N deg,3.6,N ms-1,9.4,N degC
+2020-07-10,03:00:00,No data,N ugm-3,0.101868,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),340.9,N deg,3.1,N ms-1,8.9,N degC
+2020-07-10,04:00:00,No data,N ugm-3,0.098957,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),328.9,N deg,2.8,N ms-1,8.2,N degC
+2020-07-10,05:00:00,No data,N ugm-3,0.096047,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),332.9,N deg,2.3,N ms-1,7.8,N degC
+2020-07-10,06:00:00,No data,N ugm-3,0.090226,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),342.5,N deg,2.5,N ms-1,9.7,N degC
+2020-07-10,07:00:00,No data,N ugm-3,0.072763,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),337.5,N deg,3.7,N ms-1,12.6,N degC
+2020-07-10,08:00:00,No data,N ugm-3,0.093136,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),335,N deg,4.7,N ms-1,14.2,N degC
+2020-07-10,09:00:00,No data,N ugm-3,0.075673,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),332.4,N deg,5.1,N ms-1,15.4,N degC
+2020-07-10,10:00:00,No data,N ugm-3,0.075673,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),331.6,N deg,5.3,N ms-1,16.4,N degC
+2020-07-10,11:00:00,No data,N ugm-3,0.069852,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),340.3,N deg,5.6,N ms-1,17.3,N degC
+2020-07-10,12:00:00,No data,N ugm-3,0.049479,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),335.6,N deg,5.7,N ms-1,17.7,N degC
+2020-07-10,13:00:00,No data,N ugm-3,0.043658,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),333.3,N deg,6,N ms-1,17.9,N degC
+2020-07-10,14:00:00,No data,N ugm-3,0.049479,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),333.9,N deg,6.2,N ms-1,18,N degC
+2020-07-10,15:00:00,No data,N ugm-3,0.043658,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),332.4,N deg,6.3,N ms-1,17.9,N degC
+2020-07-10,16:00:00,No data,N ugm-3,0.052389,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),335.1,N deg,6.2,N ms-1,17.5,N degC
+2020-07-10,17:00:00,No data,N ugm-3,0.049479,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),335,N deg,5.8,N ms-1,17,N degC
+2020-07-10,18:00:00,No data,N ugm-3,0.043658,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),332.8,N deg,5.5,N ms-1,16.2,N degC
+2020-07-10,19:00:00,No data,N ugm-3,0.026195,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),324.8,N deg,4.7,N ms-1,15,N degC
+2020-07-10,20:00:00,No data,N ugm-3,0.046568,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),314.9,N deg,3.8,N ms-1,13.2,N degC
+2020-07-10,21:00:00,No data,N ugm-3,0.0553,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),308.3,N deg,3.8,N ms-1,11.9,N degC
+2020-07-10,22:00:00,No data,N ugm-3,0.066942,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),311.3,N deg,4,N ms-1,10.9,N degC
+2020-07-10,23:00:00,No data,N ugm-3,0.072763,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),314.5,N deg,4.1,N ms-1,10.3,N degC
+2020-07-10,24:00:00,No data,N ugm-3,0.066942,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),309.6,N deg,3.9,N ms-1,9.8,N degC
+2020-07-11,01:00:00,No data,N ugm-3,0.06209,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),305.3,N deg,2.7,N ms-1,7.7,N degC
+2020-07-11,02:00:00,No data,N ugm-3,0.107689,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),317.1,N deg,2.3,N ms-1,7.1,N degC
+2020-07-11,03:00:00,No data,N ugm-3,0.093136,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),332.7,N deg,2.4,N ms-1,6.7,N degC
+2020-07-11,04:00:00,No data,N ugm-3,0.098957,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),342,N deg,2.6,N ms-1,6.4,N degC
+2020-07-11,05:00:00,No data,N ugm-3,0.093136,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),353.1,N deg,2.7,N ms-1,6.4,N degC
+2020-07-11,06:00:00,No data,N ugm-3,0.107689,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),354.5,N deg,2.9,N ms-1,8.5,N degC
+2020-07-11,07:00:00,No data,N ugm-3,0.101868,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),1.1,N deg,2.6,N ms-1,11.5,N degC
+2020-07-11,08:00:00,No data,N ugm-3,0.107689,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),24.5,N deg,2.1,N ms-1,14.1,N degC
+2020-07-11,09:00:00,No data,N ugm-3,0.084405,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),56.3,N deg,1.5,N ms-1,15.6,N degC
+2020-07-11,10:00:00,No data,N ugm-3,0.075673,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),93.6,N deg,0.5,N ms-1,16.4,N degC
+2020-07-11,11:00:00,No data,N ugm-3,0.101868,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),219.3,N deg,0.9,N ms-1,17,N degC
+2020-07-11,12:00:00,No data,N ugm-3,0.087315,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),233.2,N deg,2,N ms-1,17.4,N degC
+2020-07-11,13:00:00,No data,N ugm-3,0.110599,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),240.4,N deg,2.5,N ms-1,18,N degC
+2020-07-11,14:00:00,No data,N ugm-3,0.128062,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),270.2,N deg,2.5,N ms-1,18.7,N degC
+2020-07-11,15:00:00,No data,N ugm-3,0.157167,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),292.6,N deg,2.7,N ms-1,19.2,N degC
+2020-07-11,16:00:00,No data,N ugm-3,0.133883,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),304.8,N deg,3.5,N ms-1,19.1,N degC
+2020-07-11,17:00:00,No data,N ugm-3,0.098957,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),312.5,N deg,4,N ms-1,18.7,N degC
+2020-07-11,18:00:00,No data,N ugm-3,0.142615,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),310.3,N deg,3.9,N ms-1,18,N degC
+2020-07-11,19:00:00,No data,N ugm-3,0.165899,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),290.4,N deg,3.5,N ms-1,16.8,N degC
+2020-07-11,20:00:00,No data,N ugm-3,0.189183,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),285.2,N deg,3.6,N ms-1,14.6,N degC
+2020-07-11,21:00:00,No data,N ugm-3,0.168809,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),299.1,N deg,3.1,N ms-1,13,N degC
+2020-07-11,22:00:00,No data,N ugm-3,0.154257,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),323.8,N deg,2.6,N ms-1,11.7,N degC
+2020-07-11,23:00:00,No data,N ugm-3,0.148436,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),354.6,N deg,2.7,N ms-1,10.7,N degC
+2020-07-11,24:00:00,No data,N ugm-3,0.168809,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),8.3,N deg,2.8,N ms-1,9.9,N degC
+2020-07-12,01:00:00,No data,N ugm-3,0.159108,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),5.8,N deg,3.1,N ms-1,7.1,N degC
+2020-07-12,02:00:00,No data,N ugm-3,0.276498,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),23.4,N deg,2.9,N ms-1,6.8,N degC
+2020-07-12,03:00:00,No data,N ugm-3,0.23284,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),46.7,N deg,2.9,N ms-1,6.7,N degC
+2020-07-12,04:00:00,No data,N ugm-3,0.22993,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),51.2,N deg,2.8,N ms-1,6.5,N degC
+2020-07-12,05:00:00,No data,N ugm-3,0.241572,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),50.2,N deg,3.2,N ms-1,6.5,N degC
+2020-07-12,06:00:00,No data,N ugm-3,0.244482,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),52.3,N deg,2.8,N ms-1,7.4,N degC
+2020-07-12,07:00:00,No data,N ugm-3,0.22993,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),59.6,N deg,2.9,N ms-1,9.8,N degC
+2020-07-12,08:00:00,No data,N ugm-3,0.192093,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),69.8,N deg,2.8,N ms-1,12.2,N degC
+2020-07-12,09:00:00,No data,N ugm-3,0.186272,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),90.2,N deg,2.4,N ms-1,13.9,N degC
+2020-07-12,10:00:00,No data,N ugm-3,0.203735,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),106.5,N deg,1.9,N ms-1,15.1,N degC
+2020-07-12,11:00:00,No data,N ugm-3,0.244482,P mgm-3,No data,P ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),156.4,N deg,1.4,N ms-1,16.7,N degC
+2020-07-12,12:00:00,No data,N ugm-3,0.643221,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),177.2,N deg,1.6,N ms-1,17.9,N degC
+2020-07-12,13:00:00,No data,N ugm-3,1.082706,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),185.1,N deg,1.7,N ms-1,18.8,N degC
+2020-07-12,14:00:00,No data,N ugm-3,0.340529,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),199.4,N deg,1.8,N ms-1,19.4,N degC
+2020-07-12,15:00:00,No data,N ugm-3,0.474412,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),229.9,N deg,2.4,N ms-1,20.1,N degC
+2020-07-12,16:00:00,No data,N ugm-3,0.506427,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),247.2,N deg,3.3,N ms-1,20,N degC
+2020-07-12,17:00:00,No data,N ugm-3,0.518069,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),266.6,N deg,3.7,N ms-1,19.6,N degC
+2020-07-12,18:00:00,No data,N ugm-3,0.561727,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),282.1,N deg,3.8,N ms-1,18.6,N degC
+2020-07-12,19:00:00,No data,N ugm-3,0.678147,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),283.8,N deg,3.4,N ms-1,17.1,N degC
+2020-07-12,20:00:00,No data,N ugm-3,0.759641,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),279.2,N deg,3,N ms-1,14.8,N degC
+2020-07-12,21:00:00,No data,N ugm-3,0.774193,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),290.6,N deg,2.9,N ms-1,13.5,N degC
+2020-07-12,22:00:00,No data,N ugm-3,0.826582,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),301.5,N deg,2.7,N ms-1,12.6,N degC
+2020-07-12,23:00:00,No data,N ugm-3,0.87024,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),302.9,N deg,2.7,N ms-1,11.6,N degC
+2020-07-12,24:00:00,No data,N ugm-3,0.902255,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),289.6,N deg,2.2,N ms-1,11,N degC
+2020-07-13,01:00:00,No data,N ugm-3,0.895852,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),278.2,N deg,2.7,N ms-1,9.7,N degC
+2020-07-13,02:00:00,No data,N ugm-3,1.356681,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),265.9,N deg,2.4,N ms-1,9.2,N degC
+2020-07-13,03:00:00,No data,N ugm-3,1.352073,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),283,N deg,2,N ms-1,9.1,N degC
+2020-07-13,04:00:00,No data,N ugm-3,1.365898,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),290.4,N deg,2,N ms-1,8.7,N degC
+2020-07-13,05:00:00,No data,N ugm-3,1.379723,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),307.5,N deg,1.7,N ms-1,9.6,N degC
+2020-07-13,06:00:00,No data,N ugm-3,1.382488,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),276.5,N deg,1.9,N ms-1,10.1,N degC
+2020-07-13,07:00:00,No data,N ugm-3,1.374193,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),266.8,N deg,2.3,N ms-1,11.1,N degC
+2020-07-13,08:00:00,No data,N ugm-3,1.374193,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),256.8,N deg,3.4,N ms-1,14.1,N degC
+2020-07-13,09:00:00,No data,N ugm-3,1.335483,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),267.4,N deg,5.3,N ms-1,15.9,N degC
+2020-07-13,10:00:00,No data,N ugm-3,1.313363,P mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),258,N deg,5.6,N ms-1,17.4,N degC
+2020-07-13,11:00:00,No data,N ugm-3,No data,N mgm-3,8,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),263.6,N deg,5.3,N ms-1,16.5,N degC
+2020-07-13,12:00:00,No data,N ugm-3,-0.002765,P mgm-3,7.7,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),264.4,N deg,5.3,N ms-1,15.1,N degC
+2020-07-13,13:00:00,No data,N ugm-3,0.041475,P mgm-3,7.1,N ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),250.4,N deg,5.3,N ms-1,14.7,N degC
+2020-07-13,14:00:00,No data,N ugm-3,0.04424,P mgm-3,7.4,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),246.2,N deg,5.1,N ms-1,15,N degC
+2020-07-13,15:00:00,No data,N ugm-3,0.04977,P mgm-3,5.7,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),251.3,N deg,4.6,N ms-1,14.9,N degC
+2020-07-13,16:00:00,No data,N ugm-3,0.02765,P mgm-3,9.7,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),249.4,N deg,4.9,N ms-1,14.8,N degC
+2020-07-13,17:00:00,No data,N ugm-3,0.041475,P mgm-3,13.3,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),245.1,N deg,4.8,N ms-1,14.7,N degC
+2020-07-13,18:00:00,No data,N ugm-3,0.058064,P mgm-3,12.5,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),246.5,N deg,4.6,N ms-1,14.8,N degC
+2020-07-13,19:00:00,No data,N ugm-3,0.069124,P mgm-3,9.4,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),268.2,N deg,4.2,N ms-1,15,N degC
+2020-07-13,20:00:00,No data,N ugm-3,0.077419,P mgm-3,11.8,N ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),298.4,N deg,3.1,N ms-1,14.6,N degC
+2020-07-13,21:00:00,No data,N ugm-3,0.066359,P mgm-3,5.9,N ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),325.6,N deg,3.5,N ms-1,14.4,N degC
+2020-07-13,22:00:00,No data,N ugm-3,0.074654,P mgm-3,7.6,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),330.1,N deg,2.2,N ms-1,13.7,N degC
+2020-07-13,23:00:00,No data,N ugm-3,0.074654,P mgm-3,12.3,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),308.4,N deg,2.1,N ms-1,12.5,N degC
+2020-07-13,24:00:00,No data,N ugm-3,0.088479,P mgm-3,20.1,N ugm-3 (TEOM FDMS),11.2,N ugm-3 (TEOM FDMS),303.7,N deg,3,N ms-1,12,N degC
+2020-07-14,01:00:00,No data,N ugm-3,0.089256,P mgm-3,15.7,N ugm-3 (TEOM FDMS),9.5,N ugm-3 (TEOM FDMS),295.9,N deg,3.1,N ms-1,12.5,N degC
+2020-07-14,02:00:00,No data,N ugm-3,0.104778,P mgm-3,15.3,N ugm-3 (TEOM FDMS),7.6,N ugm-3 (TEOM FDMS),317.3,N deg,3.5,N ms-1,12.5,N degC
+2020-07-14,03:00:00,No data,P ugm-3,0.084405,P mgm-3,16,N ugm-3 (TEOM FDMS),10.3,N ugm-3 (TEOM FDMS),326.5,N deg,3.3,N ms-1,12,N degC
+2020-07-14,04:00:00,No data,P ugm-3,0.087315,P mgm-3,17.2,N ugm-3 (TEOM FDMS),8.9,N ugm-3 (TEOM FDMS),340.2,N deg,3.6,N ms-1,11.7,N degC
+2020-07-14,05:00:00,No data,N ugm-3,0.075673,P mgm-3,21.5,N ugm-3 (TEOM FDMS),9.3,N ugm-3 (TEOM FDMS),342.7,N deg,3.7,N ms-1,11.6,N degC
+2020-07-14,06:00:00,No data,N ugm-3,0.084405,P mgm-3,18.3,N ugm-3 (TEOM FDMS),8.7,N ugm-3 (TEOM FDMS),348.6,N deg,3.7,N ms-1,11.7,N degC
+2020-07-14,07:00:00,No data,N ugm-3,0.084405,P mgm-3,21.9,N ugm-3 (TEOM FDMS),9.5,N ugm-3 (TEOM FDMS),6.4,N deg,3,N ms-1,12.6,N degC
+2020-07-14,08:00:00,No data,N ugm-3,0.104778,P mgm-3,14.3,N ugm-3 (TEOM FDMS),7.6,N ugm-3 (TEOM FDMS),7.2,N deg,3.3,N ms-1,13,N degC
+2020-07-14,09:00:00,No data,N ugm-3,0.072763,P mgm-3,13.6,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),3.9,N deg,3.6,N ms-1,15.5,N degC
+2020-07-14,10:00:00,No data,N ugm-3,-0.046568,P mgm-3,6.2,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),355,N deg,3.2,N ms-1,16.6,N degC
+2020-07-14,11:00:00,No data,N ugm-3,No data,N mgm-3,6,N ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),335.6,N deg,2.7,N ms-1,17.3,N degC
+2020-07-14,12:00:00,7.45875,N ugm-3,0.160078,P mgm-3,5.8,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),331.9,N deg,2.5,N ms-1,17,N degC
+2020-07-14,13:00:00,2.86875,N ugm-3,0.084405,P mgm-3,3.8,P ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),336.9,N deg,3.6,N ms-1,17.9,N degC
+2020-07-14,14:00:00,3.58594,P ugm-3,0.081494,P mgm-3,5.4,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),326,N deg,3.5,N ms-1,18.1,N degC
+2020-07-14,15:00:00,-1.48219,P ugm-3,0.052389,P mgm-3,4.3,P ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),321.3,N deg,3.6,N ms-1,17.7,N degC
+2020-07-14,16:00:00,-0.86063,P ugm-3,0.061121,P mgm-3,4.4,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),325.2,N deg,5.1,N ms-1,17.8,N degC
+2020-07-14,17:00:00,-1.72125,P ugm-3,0.075673,P mgm-3,4.9,P ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),328.6,N deg,5.1,N ms-1,16.6,N degC
+2020-07-14,18:00:00,No data,,0.072763,P mgm-3,6.2,N ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),327.7,N deg,5.1,N ms-1,15.4,N degC
+2020-07-14,19:00:00,-1.76906,P ugm-3,0.072763,P mgm-3,8.6,N ugm-3 (TEOM FDMS),1.2,P ugm-3 (TEOM FDMS),311.5,N deg,3.3,N ms-1,14.2,N degC
+2020-07-14,20:00:00,-0.28688,P ugm-3,0.104778,P mgm-3,16.2,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),309.6,N deg,3.2,N ms-1,13.4,N degC
+2020-07-14,21:00:00,-0.43031,P ugm-3,0.11642,P mgm-3,12.6,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),293.7,N deg,3.3,N ms-1,12.9,N degC
+2020-07-14,22:00:00,-0.43031,P ugm-3,0.133883,P mgm-3,8.1,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),285.7,N deg,2.9,N ms-1,12.5,N degC
+2020-07-14,23:00:00,-0.95625,P ugm-3,0.125152,P mgm-3,No data,,-0.6,P ugm-3 (TEOM FDMS),293,N deg,3.4,N ms-1,12.5,N degC
+2020-07-14,24:00:00,0.14344,P ugm-3,0.133883,P mgm-3,10.7,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),287.7,N deg,3.8,N ms-1,12.6,N degC
+2020-07-15,01:00:00,2.55,P ugm-3,0.152123,P mgm-3,20.3,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),276.4,N deg,3.7,N ms-1,12.2,N degC
+2020-07-15,02:00:00,5.61,P ugm-3,1.064855,P mgm-3,1.7,P ugm-3 (TEOM FDMS),1.6,P ugm-3 (TEOM FDMS),288.8,N deg,3.5,N ms-1,12.3,N degC
+2020-07-15,03:00:00,8.65406,P ugm-3,0.892767,P mgm-3,1.2,P ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),292,N deg,3.9,N ms-1,12.2,N degC
+2020-07-15,04:00:00,5.45063,P ugm-3,0.758709,P mgm-3,8.9,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),292,N deg,4,N ms-1,12.4,N degC
+2020-07-15,05:00:00,4.39875,P ugm-3,0.744448,P mgm-3,16,N ugm-3 (TEOM FDMS),6.5,N ugm-3 (TEOM FDMS),307.2,N deg,3.8,N ms-1,12.2,N degC
+2020-07-15,06:00:00,5.59406,P ugm-3,0.744448,P mgm-3,22.9,N ugm-3 (TEOM FDMS),7.8,N ugm-3 (TEOM FDMS),303.9,N deg,3.8,N ms-1,12.2,N degC
+2020-07-15,07:00:00,7.2675,P ugm-3,0.7473,P mgm-3,23.6,N ugm-3 (TEOM FDMS),8.9,N ugm-3 (TEOM FDMS),305.9,N deg,3.3,N ms-1,12.3,N degC
+2020-07-15,08:00:00,11.42719,P ugm-3,0.687402,P mgm-3,15.7,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),299.3,N deg,3.3,N ms-1,12.7,N degC
+2020-07-15,09:00:00,10.08844,P ugm-3,0.598981,P mgm-3,13.6,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),293.1,N deg,3.6,N ms-1,13.2,N degC
+2020-07-15,10:00:00,7.12406,P ugm-3,0.467776,P mgm-3,9,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),293.2,N deg,4.6,N ms-1,15.1,N degC
+2020-07-15,11:00:00,7.02844,P ugm-3,0.27382,P mgm-3,7.2,N ugm-3 (TEOM FDMS),6.6,N ugm-3 (TEOM FDMS),288.2,N deg,4.4,N ms-1,14.7,N degC
+2020-07-15,12:00:00,8.94094,P ugm-3,0.19966,P mgm-3,8.6,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),284.1,N deg,5.1,N ms-1,16.1,N degC
+2020-07-15,13:00:00,5.97656,P ugm-3,0.213922,P mgm-3,5.5,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),291.6,N deg,5,N ms-1,15.6,N degC
+2020-07-15,14:00:00,5.11594,P ugm-3,0.176842,P mgm-3,8.6,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),284.7,N deg,5,N ms-1,15,N degC
+2020-07-15,15:00:00,3.87281,P ugm-3,0.154024,P mgm-3,6.2,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),291.4,N deg,4.7,N ms-1,14.7,N degC
+2020-07-15,16:00:00,4.2075,P ugm-3,0.182547,P mgm-3,9.3,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),291,N deg,4.6,N ms-1,14.3,N degC
+2020-07-15,17:00:00,4.82906,P ugm-3,0.179694,P mgm-3,9.4,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),294.1,N deg,4.3,N ms-1,14.1,N degC
+2020-07-15,18:00:00,2.62969,P ugm-3,0.159728,P mgm-3,7.7,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),294.5,N deg,3.7,N ms-1,14,N degC
+2020-07-15,19:00:00,2.15156,P ugm-3,0.154024,P mgm-3,7.4,N ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),293.5,N deg,3.5,N ms-1,13.8,N degC
+2020-07-15,20:00:00,2.00813,P ugm-3,0.154024,P mgm-3,3.1,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),290,N deg,3.7,N ms-1,13.6,N degC
+2020-07-15,21:00:00,4.01625,P ugm-3,0.182547,P mgm-3,5.7,N ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),287,N deg,3.2,N ms-1,13.4,N degC
+2020-07-15,22:00:00,6.64594,P ugm-3,0.213922,P mgm-3,7.8,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),288.4,N deg,3.5,N ms-1,13.4,N degC
+2020-07-15,23:00:00,5.25938,P ugm-3,0.248149,P mgm-3,16.2,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),285.3,N deg,3.5,N ms-1,13.6,N degC
+2020-07-15,24:00:00,4.2075,P ugm-3,0.276672,P mgm-3,12.1,N ugm-3 (TEOM FDMS),7.3,N ugm-3 (TEOM FDMS),294,N deg,2.9,N ms-1,13.6,N degC
+2020-07-16,01:00:00,3.4425,P ugm-3,0.321397,P mgm-3,9.6,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),273.6,N deg,3.3,N ms-1,11.3,N degC
+2020-07-16,02:00:00,3.315,P ugm-3,1.078835,P mgm-3,8.8,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),304.2,N deg,3.6,N ms-1,11.3,N degC
+2020-07-16,03:00:00,2.6775,P ugm-3,0.846606,P mgm-3,5.5,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),320.3,N deg,3.9,N ms-1,11.6,N degC
+2020-07-16,04:00:00,4.15969,P ugm-3,0.82015,P mgm-3,2.6,P ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),327.8,N deg,4,N ms-1,12.2,N degC
+2020-07-16,05:00:00,5.25938,P ugm-3,0.82015,P mgm-3,1.4,P ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),333.2,N deg,3.4,N ms-1,12.4,N degC
+2020-07-16,06:00:00,7.98469,P ugm-3,0.793693,P mgm-3,13.3,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),325,N deg,2.8,N ms-1,12.4,N degC
+2020-07-16,07:00:00,11.42719,P ugm-3,0.705505,P mgm-3,11.2,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),295.4,N deg,2.3,N ms-1,12.8,N degC
+2020-07-16,08:00:00,7.93688,P ugm-3,0.52325,P mgm-3,3.4,P ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),279.2,N deg,2.8,N ms-1,13.6,N degC
+2020-07-16,09:00:00,20.22469,P ugm-3,0.417424,P mgm-3,1.8,P ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),287.8,N deg,2.9,N ms-1,14.6,N degC
+2020-07-16,10:00:00,7.2675,P ugm-3,0.29984,P mgm-3,5.3,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),290.2,N deg,3.1,N ms-1,15.8,N degC
+2020-07-16,11:00:00,2.53406,P ugm-3,0.231249,P mgm-3,4.3,P ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),289.5,N deg,3.5,N ms-1,16.6,N degC
+2020-07-16,12:00:00,2.19938,P ugm-3,0.22047,P mgm-3,2.7,P ugm-3 (TEOM FDMS),0.1,P ugm-3 (TEOM FDMS),294.2,N deg,4.2,N ms-1,17.3,N degC
+2020-07-16,13:00:00,2.10375,P ugm-3,0.258685,P mgm-3,6.4,N ugm-3 (TEOM FDMS),-0.4,P ugm-3 (TEOM FDMS),295,N deg,4.6,N ms-1,18,N degC
+2020-07-16,14:00:00,3.10781,P ugm-3,0.317477,P mgm-3,5.2,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),287.6,N deg,5.1,N ms-1,18.1,N degC
+2020-07-16,15:00:00,2.62969,P ugm-3,0.279262,P mgm-3,4.2,P ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),284.3,N deg,5.8,N ms-1,18.1,N degC
+2020-07-16,16:00:00,3.49031,P ugm-3,0.308659,P mgm-3,5.8,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),283.5,N deg,6.4,N ms-1,18.5,N degC
+2020-07-16,17:00:00,2.91656,P ugm-3,0.305719,P mgm-3,6,N ugm-3 (TEOM FDMS),5.3,N ugm-3 (TEOM FDMS),284.5,N deg,6.1,N ms-1,18.2,N degC
+2020-07-16,18:00:00,3.06,P ugm-3,0.285142,P mgm-3,7.2,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),284.3,N deg,5.7,N ms-1,17.4,N degC
+2020-07-16,19:00:00,2.91656,P ugm-3,0.293961,P mgm-3,7.6,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),285.8,N deg,5.1,N ms-1,16.4,N degC
+2020-07-16,20:00:00,3.58594,P ugm-3,0.29984,P mgm-3,8.9,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),284.3,N deg,3.7,N ms-1,15.2,N degC
+2020-07-16,21:00:00,4.35094,P ugm-3,0.302779,P mgm-3,11.7,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),288.8,N deg,3.4,N ms-1,14.2,N degC
+2020-07-16,22:00:00,4.87688,P ugm-3,0.364511,P mgm-3,10.9,N ugm-3 (TEOM FDMS),7.5,N ugm-3 (TEOM FDMS),300.7,N deg,3.9,N ms-1,13.7,N degC
+2020-07-16,23:00:00,6.55031,P ugm-3,0.435062,P mgm-3,15.1,N ugm-3 (TEOM FDMS),10,N ugm-3 (TEOM FDMS),303.6,N deg,4,N ms-1,14,N degC
+2020-07-16,24:00:00,5.68969,P ugm-3,0.426243,P mgm-3,17.8,N ugm-3 (TEOM FDMS),11.2,N ugm-3 (TEOM FDMS),298.5,N deg,3.6,N ms-1,14,N degC
+2020-07-17,01:00:00,7.45875,P ugm-3,0.423303,P mgm-3,25.2,N ugm-3 (TEOM FDMS),15.8,N ugm-3 (TEOM FDMS),283.1,N deg,2.7,N ms-1,11.8,N degC
+2020-07-17,02:00:00,1.08375,P ugm-3,1.11705,P mgm-3,12.2,N ugm-3 (TEOM FDMS),11.8,N ugm-3 (TEOM FDMS),288.1,N deg,3,N ms-1,11.8,N degC
+2020-07-17,03:00:00,1.53,P ugm-3,1.064137,P mgm-3,11.2,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),291.4,N deg,2.7,N ms-1,11.8,N degC
+2020-07-17,04:00:00,1.33875,P ugm-3,1.014164,P mgm-3,12,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),286.4,N deg,2.1,N ms-1,12.2,N degC
+2020-07-17,05:00:00,0.765,P ugm-3,1.005345,P mgm-3,8.6,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),265.5,N deg,2.3,N ms-1,12.6,N degC
+2020-07-17,06:00:00,0.71719,P ugm-3,0.996526,P mgm-3,7.4,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),262.1,N deg,3.6,N ms-1,13.1,N degC
+2020-07-17,07:00:00,1.81688,P ugm-3,0.958311,P mgm-3,-1.7,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),264.1,N deg,3.9,N ms-1,13.4,N degC
+2020-07-17,08:00:00,2.43844,P ugm-3,0.943613,P mgm-3,7,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),264.8,N deg,3.9,N ms-1,13.8,N degC
+2020-07-17,09:00:00,1.48219,P ugm-3,0.908338,P mgm-3,9,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),267.8,N deg,4,N ms-1,14.6,N degC
+2020-07-17,10:00:00,1.38656,P ugm-3,0.828969,P mgm-3,12.2,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),274.1,N deg,4,N ms-1,15.5,N degC
+2020-07-17,11:00:00,1.38656,P ugm-3,0.826029,P mgm-3,14.7,N ugm-3 (TEOM FDMS),6.6,N ugm-3 (TEOM FDMS),278.7,N deg,4.5,N ms-1,16.1,N degC
+2020-07-17,12:00:00,1.09969,P ugm-3,0.811331,P mgm-3,7.2,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),275.5,N deg,4.6,N ms-1,16.4,N degC
+2020-07-17,13:00:00,0.47813,P ugm-3,0.881882,P mgm-3,5.1,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),277.3,N deg,5.3,N ms-1,16.9,N degC
+2020-07-17,14:00:00,0.19125,P ugm-3,0.911278,P mgm-3,7.5,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),280.2,N deg,5.8,N ms-1,17.1,N degC
+2020-07-17,15:00:00,0.52594,P ugm-3,0.949492,P mgm-3,8.3,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),277.7,N deg,6.2,N ms-1,17.9,N degC
+2020-07-17,16:00:00,0.47813,P ugm-3,1.037681,P mgm-3,5.8,N ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),278.9,N deg,6.5,N ms-1,18.5,N degC
+2020-07-17,17:00:00,1.1475,P ugm-3,1.384554,P mgm-3,6.9,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),281.1,N deg,6.1,N ms-1,16.9,N degC
+2020-07-17,18:00:00,0.28688,P ugm-3,1.34046,P mgm-3,6.3,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),280.7,N deg,5.5,N ms-1,16.3,N degC
+2020-07-17,19:00:00,0.71719,P ugm-3,1.305185,P mgm-3,7.7,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),279.8,N deg,5.1,N ms-1,15.5,N degC
+2020-07-17,20:00:00,1.19531,P ugm-3,1.26697,P mgm-3,6.1,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),274.9,N deg,5,N ms-1,15.1,N degC
+2020-07-17,21:00:00,1.19531,P ugm-3,1.228755,P mgm-3,14.9,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),271.9,N deg,4.7,N ms-1,14.9,N degC
+2020-07-17,22:00:00,0.81281,P ugm-3,1.093533,P mgm-3,8.8,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),270.3,N deg,4.6,N ms-1,14.8,N degC
+2020-07-17,23:00:00,0.62156,P ugm-3,1.061197,P mgm-3,6.4,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),270.9,N deg,4.9,N ms-1,14.6,N degC
+2020-07-17,24:00:00,0.81281,P ugm-3,1.161144,P mgm-3,10.5,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),265.9,N deg,4.7,N ms-1,14.6,N degC
+2020-07-18,01:00:00,2.86875,P ugm-3,1.140567,P mgm-3,10.4,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),258,N deg,3.8,N ms-1,12.4,N degC
+2020-07-18,02:00:00,2.35875,P ugm-3,1.381614,P mgm-3,3.4,P ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),254.9,N deg,3.7,N ms-1,12.8,N degC
+2020-07-18,03:00:00,-0.19125,P ugm-3,1.196419,P mgm-3,13,N ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),260.6,N deg,4.6,N ms-1,13.3,N degC
+2020-07-18,04:00:00,-1.24313,P ugm-3,1.161144,P mgm-3,6.7,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),269.5,N deg,5.5,N ms-1,13.7,N degC
+2020-07-18,05:00:00,-0.71719,P ugm-3,1.152325,P mgm-3,8.7,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),265.5,N deg,5.4,N ms-1,13.8,N degC
+2020-07-18,06:00:00,1.24313,P ugm-3,1.134688,P mgm-3,4.4,P ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),261.7,N deg,4.6,N ms-1,14.3,N degC
+2020-07-18,07:00:00,0.52594,P ugm-3,1.128808,P mgm-3,11.1,N ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),259.6,N deg,5.3,N ms-1,15.6,N degC
+2020-07-18,08:00:00,1.9125,P ugm-3,1.122929,P mgm-3,9.2,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),259,N deg,6.2,N ms-1,16.8,N degC
+2020-07-18,09:00:00,1.43438,P ugm-3,1.028862,P mgm-3,6.3,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),261.6,N deg,6.6,N ms-1,17.6,N degC
+2020-07-18,10:00:00,2.10375,P ugm-3,0.96713,P mgm-3,8.9,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),260.8,N deg,6.4,N ms-1,17.4,N degC
+2020-07-18,11:00:00,1.67344,P ugm-3,0.899519,P mgm-3,5.1,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),262.1,N deg,6.6,N ms-1,17.7,N degC
+2020-07-18,12:00:00,1.48219,P ugm-3,0.805452,P mgm-3,11.5,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),265.3,N deg,6.5,N ms-1,18.1,N degC
+2020-07-18,13:00:00,0.71719,P ugm-3,0.731962,P mgm-3,8.9,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),271.4,N deg,6.9,N ms-1,18.5,N degC
+2020-07-18,14:00:00,0.66938,P ugm-3,0.802512,P mgm-3,5.1,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),273.2,N deg,7.7,N ms-1,18.6,N degC
+2020-07-18,15:00:00,0.33469,P ugm-3,0.796633,P mgm-3,9,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),267.7,N deg,5.9,N ms-1,16.8,N degC
+2020-07-18,16:00:00,0.86063,P ugm-3,0.790754,P mgm-3,4.8,P ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),268.3,N deg,5.6,N ms-1,16.4,N degC
+2020-07-18,17:00:00,1.48219,P ugm-3,0.790754,P mgm-3,4.2,P ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),265.7,N deg,5.1,N ms-1,15.9,N degC
+2020-07-18,18:00:00,2.15156,P ugm-3,0.840727,P mgm-3,19,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),265.8,N deg,4.1,N ms-1,15.5,N degC
+2020-07-18,19:00:00,1.53,P ugm-3,0.802512,P mgm-3,4.1,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),264.5,N deg,4.1,N ms-1,15.4,N degC
+2020-07-18,20:00:00,1.1475,P ugm-3,0.790754,P mgm-3,4,P ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),259.1,N deg,3.8,N ms-1,15.3,N degC
+2020-07-18,21:00:00,2.19938,P ugm-3,0.799573,P mgm-3,4.9,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),257.2,N deg,3.6,N ms-1,15.3,N degC
+2020-07-18,22:00:00,1.76906,P ugm-3,0.905398,P mgm-3,5.1,N ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),272.9,N deg,3.2,N ms-1,15.2,N degC
+2020-07-18,23:00:00,1.57781,P ugm-3,0.928915,P mgm-3,4.6,P ugm-3 (TEOM FDMS),-0.8,P ugm-3 (TEOM FDMS),271,N deg,2.4,N ms-1,14.9,N degC
+2020-07-18,24:00:00,1.29094,P ugm-3,0.931855,P mgm-3,8.6,N ugm-3 (TEOM FDMS),-0.8,P ugm-3 (TEOM FDMS),329.4,N deg,2,N ms-1,14.7,N degC
+2020-07-19,01:00:00,0.57375,P ugm-3,0.905398,P mgm-3,-1.6,P ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),261.8,N deg,3,N ms-1,14.8,N degC
+2020-07-19,02:00:00,1.21125,P ugm-3,1.578568,P mgm-3,-0.4,P ugm-3 (TEOM FDMS),-2.7,P ugm-3 (TEOM FDMS),262.8,N deg,2.4,N ms-1,14.6,N degC
+2020-07-19,03:00:00,-0.3825,P ugm-3,1.425708,P mgm-3,0.3,P ugm-3 (TEOM FDMS),-0.7,P ugm-3 (TEOM FDMS),289.1,N deg,2.4,N ms-1,14.4,N degC
+2020-07-19,04:00:00,-1.00406,P ugm-3,1.343399,P mgm-3,5,P ugm-3 (TEOM FDMS),-0.8,P ugm-3 (TEOM FDMS),41.6,N deg,5.8,N ms-1,13.9,N degC
+2020-07-19,05:00:00,-0.09563,P ugm-3,1.325762,P mgm-3,5.2,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),32.1,N deg,6.1,N ms-1,13.1,N degC
+2020-07-19,06:00:00,1.53,P ugm-3,1.308124,P mgm-3,7.3,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),39.3,N deg,5.6,N ms-1,13,N degC
+2020-07-19,07:00:00,2.77313,P ugm-3,1.311064,P mgm-3,4.7,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),40.1,N deg,5.5,N ms-1,13.7,N degC
+2020-07-19,08:00:00,2.15156,P ugm-3,1.299305,P mgm-3,16.9,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),39.2,N deg,5.5,N ms-1,14.8,N degC
+2020-07-19,09:00:00,2.05594,P ugm-3,1.311064,P mgm-3,14.5,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),43.7,N deg,6.4,N ms-1,15.9,N degC
+2020-07-19,10:00:00,2.34281,P ugm-3,1.105291,P mgm-3,11.7,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),43.9,N deg,6.3,N ms-1,16.9,N degC
+2020-07-19,11:00:00,2.295,P ugm-3,0.811331,P mgm-3,6.9,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),42.6,N deg,5.8,N ms-1,17.8,N degC
+2020-07-19,12:00:00,2.295,P ugm-3,0.637894,P mgm-3,6.2,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),42.5,N deg,5.1,N ms-1,18.6,N degC
+2020-07-19,13:00:00,2.39063,P ugm-3,0.599679,P mgm-3,8,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),45.4,N deg,4.5,N ms-1,19,N degC
+2020-07-19,14:00:00,1.24313,P ugm-3,0.561465,P mgm-3,4.3,P ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),44.9,N deg,4.1,N ms-1,19.3,N degC
+2020-07-19,15:00:00,2.43844,P ugm-3,0.587921,P mgm-3,3.9,P ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),40.9,N deg,3.9,N ms-1,19.4,N degC
+2020-07-19,16:00:00,3.72938,P ugm-3,0.646713,P mgm-3,6.2,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),32.5,N deg,4.2,N ms-1,19.1,N degC
+2020-07-19,17:00:00,3.34688,P ugm-3,0.655532,P mgm-3,7.5,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),29.3,N deg,3.4,N ms-1,18.9,N degC
+2020-07-19,18:00:00,3.4425,P ugm-3,0.640834,P mgm-3,10.6,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),57.7,N deg,4.2,N ms-1,18,N degC
+2020-07-19,19:00:00,2.53406,P ugm-3,0.587921,P mgm-3,6.8,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),58,N deg,3.9,N ms-1,16.8,N degC
+2020-07-19,20:00:00,5.30719,P ugm-3,0.590861,P mgm-3,7.3,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),43.4,N deg,3.5,N ms-1,15,N degC
+2020-07-19,21:00:00,4.49438,P ugm-3,0.681988,P mgm-3,6.4,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),36.3,N deg,4,N ms-1,13.7,N degC
+2020-07-19,22:00:00,3.77719,P ugm-3,0.684928,P mgm-3,12.4,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),28.3,N deg,4,N ms-1,12.3,N degC
+2020-07-19,23:00:00,1.72125,P ugm-3,0.67317,P mgm-3,0.3,P ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),32,N deg,4,N ms-1,11.4,N degC
+2020-07-19,24:00:00,2.77313,P ugm-3,0.764297,P mgm-3,10.3,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),31.1,N deg,3.8,N ms-1,10.4,N degC
+2020-07-20,01:00:00,1.6575,P ugm-3,0.748619,P mgm-3,3.2,P ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),12.1,N deg,3.2,N ms-1,7.7,N degC
+2020-07-20,02:00:00,2.04,P ugm-3,0.952432,P mgm-3,7.4,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),12,N deg,3.1,N ms-1,7.2,N degC
+2020-07-20,03:00:00,10.18406,P ugm-3,0.937734,P mgm-3,1.7,P ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),9,N deg,3.1,N ms-1,6.9,N degC
+2020-07-20,04:00:00,6.31125,P ugm-3,0.931855,P mgm-3,6.7,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),9.5,N deg,3.2,N ms-1,6.7,N degC
+2020-07-20,05:00:00,7.50656,P ugm-3,0.902459,P mgm-3,4.4,P ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),14.1,N deg,3.2,N ms-1,6.7,N degC
+2020-07-20,06:00:00,10.85344,P ugm-3,0.908338,P mgm-3,0,P ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),15.6,N deg,3,N ms-1,8.3,N degC
+2020-07-20,07:00:00,15.6825,P ugm-3,0.934794,P mgm-3,4.6,P ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),22.9,N deg,2.5,N ms-1,10.9,N degC
+2020-07-20,08:00:00,12.14438,P ugm-3,0.946553,P mgm-3,3.7,P ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),44,N deg,2.8,N ms-1,13.8,N degC
+2020-07-20,09:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),54.5,N deg,2.6,N ms-1,15.5,N degC
+2020-07-20,10:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),72.6,N deg,2.3,N ms-1,16.3,N degC
+2020-07-20,11:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),64.5,N deg,1.9,N ms-1,17.4,N degC
+2020-07-20,12:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),48.5,N deg,1.4,N ms-1,18.1,N degC
+2020-07-20,13:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),11.9,N deg,0.7,N ms-1,18.5,N degC
+2020-07-20,14:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),271.3,N deg,0.8,N ms-1,18.6,N degC
+2020-07-20,15:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),297.6,N deg,1.1,N ms-1,18.9,N degC
+2020-07-20,16:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),341.5,N deg,1.7,N ms-1,19.2,N degC
+2020-07-20,17:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),4.6,N deg,3.2,N ms-1,19,N degC
+2020-07-20,18:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),3.7,N deg,3.9,N ms-1,18.1,N degC
+2020-07-20,19:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),346.1,N deg,3.1,N ms-1,16.9,N degC
+2020-07-20,20:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),338.7,N deg,3.6,N ms-1,14.5,N degC
+2020-07-20,21:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),346.5,N deg,3.7,N ms-1,12.8,N degC
+2020-07-20,22:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),356.2,N deg,3.9,N ms-1,11.5,N degC
+2020-07-20,23:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),1.3,N deg,3.9,N ms-1,10.6,N degC
+2020-07-20,24:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),7,N deg,3.5,N ms-1,9.8,N degC
+2020-07-21,01:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),8.4,N deg,3.2,N ms-1,8.6,N degC
+2020-07-21,02:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),15.9,N deg,3.2,N ms-1,8.2,N degC
+2020-07-21,03:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),20.4,N deg,3,N ms-1,7.8,N degC
+2020-07-21,04:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),31.8,N deg,2.3,N ms-1,7.6,N degC
+2020-07-21,05:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),52,N deg,1.9,N ms-1,7.8,N degC
+2020-07-21,06:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),68.9,N deg,1.4,N ms-1,9.1,N degC
+2020-07-21,07:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),87.2,N deg,1.4,N ms-1,11.8,N degC
+2020-07-21,08:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),115,N deg,1.9,N ms-1,13.5,N degC
+2020-07-21,09:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),126.7,N deg,2,N ms-1,14.8,N degC
+2020-07-21,10:00:00,No data,N ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),130.9,N deg,1.4,N ms-1,15.7,N degC
+2020-07-21,11:00:00,14.72625,P ugm-3,No data,N mgm-3,4.2,P ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),131.1,N deg,0.8,N ms-1,16.9,N degC
+2020-07-21,12:00:00,20.75063,P ugm-3,No data,N mgm-3,10.7,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),131.4,N deg,0.9,N ms-1,17.9,N degC
+2020-07-21,13:00:00,5.45063,P ugm-3,No data,N mgm-3,6.7,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),163.1,N deg,1,N ms-1,18.5,N degC
+2020-07-21,14:00:00,4.63781,P ugm-3,No data,N mgm-3,6.6,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),202.4,N deg,1.4,N ms-1,18.7,N degC
+2020-07-21,15:00:00,6.83719,P ugm-3,No data,N mgm-3,5,P ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),233.2,N deg,1.6,N ms-1,18.8,N degC
+2020-07-21,16:00:00,3.96844,P ugm-3,No data,N mgm-3,5,P ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),263.1,N deg,1.3,N ms-1,18.7,N degC
+2020-07-21,17:00:00,2.82094,P ugm-3,No data,N mgm-3,5.8,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),273.4,N deg,1.4,N ms-1,18.7,N degC
+2020-07-21,18:00:00,3.29906,P ugm-3,No data,N mgm-3,5.8,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),282.7,N deg,2.2,N ms-1,18.2,N degC
+2020-07-21,19:00:00,5.02031,P ugm-3,No data,N mgm-3,5.7,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),296.1,N deg,2.8,N ms-1,17,N degC
+2020-07-21,20:00:00,8.22375,P ugm-3,No data,N mgm-3,2.5,P ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),303.4,N deg,2.9,N ms-1,14.9,N degC
+2020-07-21,21:00:00,11.18813,P ugm-3,No data,N mgm-3,10.7,N ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),304.3,N deg,2.7,N ms-1,13.5,N degC
+2020-07-21,22:00:00,10.66219,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),8.2,N ugm-3 (TEOM FDMS),302,N deg,2.6,N ms-1,12.4,N degC
+2020-07-21,23:00:00,9.61031,P ugm-3,No data,N mgm-3,0.5,P ugm-3 (TEOM FDMS),8.6,N ugm-3 (TEOM FDMS),309,N deg,2.7,N ms-1,11.6,N degC
+2020-07-21,24:00:00,12.71813,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),6.2,N ugm-3 (TEOM FDMS),316.6,N deg,2.5,N ms-1,10.8,N degC
+2020-07-22,01:00:00,14.28,P ugm-3,No data,N mgm-3,9.7,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),322.1,N deg,2.6,N ms-1,8.8,N degC
+2020-07-22,02:00:00,12.04875,P ugm-3,No data,N mgm-3,8.5,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),323.4,N deg,2.2,N ms-1,8.4,N degC
+2020-07-22,03:00:00,12.43125,P ugm-3,No data,N mgm-3,11.2,N ugm-3 (TEOM FDMS),7.4,N ugm-3 (TEOM FDMS),302.5,N deg,1.9,N ms-1,8,N degC
+2020-07-22,04:00:00,13.81781,P ugm-3,No data,N mgm-3,9.8,N ugm-3 (TEOM FDMS),7.3,N ugm-3 (TEOM FDMS),320.2,N deg,2,N ms-1,7.4,N degC
+2020-07-22,05:00:00,14.05688,P ugm-3,No data,N mgm-3,5.6,N ugm-3 (TEOM FDMS),7.2,N ugm-3 (TEOM FDMS),337.3,N deg,1.8,N ms-1,7.1,N degC
+2020-07-22,06:00:00,11.8575,P ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),6.5,N ugm-3 (TEOM FDMS),351.1,N deg,0.8,N ms-1,8.7,N degC
+2020-07-22,07:00:00,16.83,P ugm-3,No data,N mgm-3,5.9,N ugm-3 (TEOM FDMS),8.6,N ugm-3 (TEOM FDMS),286.4,N deg,0.2,N ms-1,11.4,N degC
+2020-07-22,08:00:00,17.2125,P ugm-3,No data,N mgm-3,6.4,N ugm-3 (TEOM FDMS),8.9,N ugm-3 (TEOM FDMS),222.1,N deg,0.8,N ms-1,13.4,N degC
+2020-07-22,09:00:00,10.23188,P ugm-3,No data,N mgm-3,2.6,P ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),223.1,N deg,2.1,N ms-1,16.1,N degC
+2020-07-22,10:00:00,7.12406,P ugm-3,No data,N mgm-3,8.3,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),229.9,N deg,3.5,N ms-1,17.7,N degC
+2020-07-22,11:00:00,4.82906,P ugm-3,No data,N mgm-3,4.5,P ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),242.3,N deg,4,N ms-1,18.5,N degC
+2020-07-22,12:00:00,4.82906,P ugm-3,No data,N mgm-3,6.3,N ugm-3 (TEOM FDMS),7.1,N ugm-3 (TEOM FDMS),256.6,N deg,4.7,N ms-1,19.1,N degC
+2020-07-22,13:00:00,4.63781,P ugm-3,No data,N mgm-3,7.9,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),262.5,N deg,5.1,N ms-1,19.4,N degC
+2020-07-22,14:00:00,4.11188,P ugm-3,No data,N mgm-3,7.7,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),265.5,N deg,5.5,N ms-1,19.4,N degC
+2020-07-22,15:00:00,3.34688,P ugm-3,No data,N mgm-3,5.9,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),281,N deg,5.8,N ms-1,18.8,N degC
+2020-07-22,16:00:00,3.34688,P ugm-3,No data,N mgm-3,7.7,N ugm-3 (TEOM FDMS),7.1,N ugm-3 (TEOM FDMS),284.4,N deg,5.7,N ms-1,17.3,N degC
+2020-07-22,17:00:00,3.15563,P ugm-3,No data,N mgm-3,8.2,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),283.6,N deg,5.1,N ms-1,16.4,N degC
+2020-07-22,18:00:00,3.29906,P ugm-3,No data,N mgm-3,4.3,P ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),276.6,N deg,4.8,N ms-1,16.5,N degC
+2020-07-22,19:00:00,2.96438,P ugm-3,No data,N mgm-3,5.4,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),269,N deg,4.7,N ms-1,15.4,N degC
+2020-07-22,20:00:00,3.72938,P ugm-3,No data,N mgm-3,16.7,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),263.2,N deg,3.4,N ms-1,13.9,N degC
+2020-07-22,21:00:00,2.72531,P ugm-3,No data,N mgm-3,0.7,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),259.9,N deg,3.3,N ms-1,12.9,N degC
+2020-07-22,22:00:00,2.15156,P ugm-3,No data,N mgm-3,15.1,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),261.6,N deg,3.3,N ms-1,12.3,N degC
+2020-07-22,23:00:00,3.63375,P ugm-3,No data,N mgm-3,18.1,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),267.4,N deg,2.8,N ms-1,12.3,N degC
+2020-07-22,24:00:00,4.9725,P ugm-3,No data,N mgm-3,6.8,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),258.6,N deg,2.8,N ms-1,12.5,N degC
+2020-07-23,01:00:00,4.9725,P ugm-3,No data,N mgm-3,No data,,3.6,P ugm-3 (TEOM FDMS),258.6,N deg,3.1,N ms-1,10.9,N degC
+2020-07-23,02:00:00,10.39125,P ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),255.5,N deg,2.6,N ms-1,10.6,N degC
+2020-07-23,03:00:00,16.25625,P ugm-3,No data,N mgm-3,10.5,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),257.3,N deg,2.3,N ms-1,11,N degC
+2020-07-23,04:00:00,11.475,P ugm-3,No data,N mgm-3,5.3,N ugm-3 (TEOM FDMS),1.6,P ugm-3 (TEOM FDMS),243.1,N deg,2.4,N ms-1,11.2,N degC
+2020-07-23,05:00:00,12.57469,P ugm-3,No data,N mgm-3,0.9,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),249.5,N deg,2.4,N ms-1,11.5,N degC
+2020-07-23,06:00:00,6.74156,P ugm-3,No data,N mgm-3,7.8,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),246.1,N deg,3.1,N ms-1,12,N degC
+2020-07-23,07:00:00,8.46281,P ugm-3,No data,N mgm-3,3.4,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),254.8,N deg,3.6,N ms-1,12.9,N degC
+2020-07-23,08:00:00,6.45469,P ugm-3,No data,N mgm-3,1.5,P ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),250.5,N deg,3.8,N ms-1,14,N degC
+2020-07-23,09:00:00,5.21156,P ugm-3,No data,N mgm-3,3.4,P ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),256.3,N deg,4.3,N ms-1,15.4,N degC
+2020-07-23,10:00:00,4.11188,P ugm-3,No data,N mgm-3,4.2,P ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),255.3,N deg,5.7,N ms-1,16.6,N degC
+2020-07-23,11:00:00,3.4425,P ugm-3,No data,N mgm-3,4.9,P ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),252,N deg,5.6,N ms-1,16.8,N degC
+2020-07-23,12:00:00,3.10781,P ugm-3,No data,N mgm-3,4.2,P ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),254.6,N deg,4.9,N ms-1,16.2,N degC
+2020-07-23,13:00:00,2.77313,P ugm-3,No data,N mgm-3,0,P ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),239.3,N deg,5.3,N ms-1,16.5,N degC
+2020-07-23,14:00:00,3.10781,P ugm-3,No data,N mgm-3,3.6,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),246.7,N deg,3.7,N ms-1,16.2,N degC
+2020-07-23,15:00:00,9.18,P ugm-3,No data,N mgm-3,3.1,P ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),251.9,N deg,4,N ms-1,16,N degC
+2020-07-23,16:00:00,5.49844,P ugm-3,No data,N mgm-3,-0.5,P ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),249.5,N deg,5.1,N ms-1,16.1,N degC
+2020-07-23,17:00:00,2.24719,P ugm-3,No data,N mgm-3,0.1,P ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),243.5,N deg,4.5,N ms-1,16.1,N degC
+2020-07-23,18:00:00,0.47813,P ugm-3,No data,N mgm-3,6,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),265.2,N deg,3.8,N ms-1,15.9,N degC
+2020-07-23,19:00:00,0.62156,P ugm-3,No data,N mgm-3,5.2,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),263.5,N deg,4.1,N ms-1,15.9,N degC
+2020-07-23,20:00:00,0.52594,P ugm-3,No data,N mgm-3,1.5,P ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),272.6,N deg,3.6,N ms-1,15.8,N degC
+2020-07-23,21:00:00,2.6775,P ugm-3,No data,N mgm-3,4.8,P ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),284.9,N deg,2.7,N ms-1,15.6,N degC
+2020-07-23,22:00:00,2.6775,P ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),281.1,N deg,2.7,N ms-1,15.4,N degC
+2020-07-23,23:00:00,1.00406,P ugm-3,No data,N mgm-3,6.7,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),280.5,N deg,2.3,N ms-1,15,N degC
+2020-07-23,24:00:00,0.57375,P ugm-3,No data,N mgm-3,10,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),287.9,N deg,2.1,N ms-1,14.6,N degC
+2020-07-24,01:00:00,-0.06375,P ugm-3,No data,N mgm-3,16.8,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,02:00:00,-1.02,P ugm-3,No data,N mgm-3,10.4,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,03:00:00,-0.62156,P ugm-3,No data,N mgm-3,4.6,P ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,04:00:00,-0.23906,P ugm-3,No data,N mgm-3,1.5,P ugm-3 (TEOM FDMS),-0.4,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,05:00:00,2.10375,P ugm-3,No data,N mgm-3,9.9,N ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,06:00:00,2.39063,P ugm-3,No data,N mgm-3,-4.1,P ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,07:00:00,5.40281,P ugm-3,No data,N mgm-3,1.6,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,08:00:00,2.72531,P ugm-3,No data,N mgm-3,-1.5,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,09:00:00,4.30312,P ugm-3,No data,N mgm-3,4.9,P ugm-3 (TEOM FDMS),0,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,10:00:00,2.82094,P ugm-3,No data,N mgm-3,-2,P ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,11:00:00,1.81688,P ugm-3,No data,N mgm-3,2,P ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,12:00:00,0.765,P ugm-3,No data,N mgm-3,5.3,N ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,13:00:00,0.95625,P ugm-3,No data,N mgm-3,4.5,P ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,14:00:00,0.43031,P ugm-3,No data,N mgm-3,3.1,P ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,15:00:00,0.19125,P ugm-3,No data,N mgm-3,2,P ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,16:00:00,0.28688,P ugm-3,No data,N mgm-3,3.8,P ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,17:00:00,0.14344,P ugm-3,No data,N mgm-3,4,P ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,18:00:00,0.09563,P ugm-3,No data,N mgm-3,5.4,N ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,19:00:00,1.29094,P ugm-3,No data,N mgm-3,3.3,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,20:00:00,5.40281,P ugm-3,No data,N mgm-3,7.8,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,21:00:00,6.16781,P ugm-3,No data,N mgm-3,9,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,22:00:00,4.54219,P ugm-3,No data,N mgm-3,5.5,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,23:00:00,1.62563,P ugm-3,No data,N mgm-3,0.9,P ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-24,24:00:00,6.83719,P ugm-3,No data,N mgm-3,5,P ugm-3 (TEOM FDMS),6.5,N ugm-3 (TEOM FDMS),No data,,No data,,No data
+2020-07-25,01:00:00,0.6375,P ugm-3,No data,N mgm-3,7.3,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),230.5,N deg,4.9,N ms-1,16,N degC
+2020-07-25,02:00:00,-0.82875,P ugm-3,No data,N mgm-3,2.7,P ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),235.3,N deg,4.5,N ms-1,16.2,N degC
+2020-07-25,03:00:00,0.90844,P ugm-3,No data,N mgm-3,6.8,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),242.1,N deg,5,N ms-1,15.6,N degC
+2020-07-25,04:00:00,0.765,P ugm-3,No data,N mgm-3,1.9,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),249.6,N deg,3.6,N ms-1,15,N degC
+2020-07-25,05:00:00,7.84125,P ugm-3,No data,N mgm-3,4.3,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),239.4,N deg,4,N ms-1,15.1,N degC
+2020-07-25,06:00:00,0.43031,P ugm-3,No data,N mgm-3,6.1,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),235.1,N deg,4.4,N ms-1,15.7,N degC
+2020-07-25,07:00:00,1.05187,P ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),242.5,N deg,4.6,N ms-1,16.5,N degC
+2020-07-25,08:00:00,1.96031,P ugm-3,No data,N mgm-3,2.8,P ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),255.1,N deg,4,N ms-1,16.3,N degC
+2020-07-25,09:00:00,0.28688,P ugm-3,No data,N mgm-3,5,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),265,N deg,4.4,N ms-1,16.3,N degC
+2020-07-25,10:00:00,0.62156,P ugm-3,No data,N mgm-3,1.4,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),268.6,N deg,6.3,N ms-1,18.5,N degC
+2020-07-25,11:00:00,-0.23906,P ugm-3,No data,N mgm-3,2.5,P ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),264,N deg,6,N ms-1,18.8,N degC
+2020-07-25,12:00:00,0.86063,P ugm-3,No data,N mgm-3,7.4,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),262.3,N deg,6.1,N ms-1,19,N degC
+2020-07-25,13:00:00,2.53406,P ugm-3,No data,N mgm-3,7.7,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),266.4,N deg,6.3,N ms-1,19,N degC
+2020-07-25,14:00:00,2.82094,P ugm-3,No data,N mgm-3,4.8,P ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),278.8,N deg,6,N ms-1,18.8,N degC
+2020-07-25,15:00:00,2.39063,P ugm-3,No data,N mgm-3,5.3,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),275.6,N deg,5.6,N ms-1,18.7,N degC
+2020-07-25,16:00:00,-0.43031,P ugm-3,No data,N mgm-3,4,P ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),275.7,N deg,5.7,N ms-1,17.7,N degC
+2020-07-25,17:00:00,0.04781,P ugm-3,No data,N mgm-3,6.5,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),271.8,N deg,5.8,N ms-1,17.4,N degC
+2020-07-25,18:00:00,-0.57375,P ugm-3,No data,N mgm-3,6.5,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),276.2,N deg,5.8,N ms-1,16.6,N degC
+2020-07-25,19:00:00,-0.86063,P ugm-3,No data,N mgm-3,8,N ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),285.4,N deg,4.3,N ms-1,15.8,N degC
+2020-07-25,20:00:00,0.33469,P ugm-3,No data,N mgm-3,2.4,P ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),275.7,N deg,4.7,N ms-1,14.5,N degC
+2020-07-25,21:00:00,0.23906,P ugm-3,No data,N mgm-3,10.8,N ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),274.6,N deg,5.4,N ms-1,14,N degC
+2020-07-25,22:00:00,-0.04781,P ugm-3,No data,N mgm-3,8.1,N ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),274.4,N deg,4.7,N ms-1,13.6,N degC
+2020-07-25,23:00:00,0.86063,P ugm-3,No data,N mgm-3,11.2,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),269.5,N deg,4.5,N ms-1,13.4,N degC
+2020-07-25,24:00:00,0.47813,P ugm-3,No data,N mgm-3,7.3,N ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),270.1,N deg,4.6,N ms-1,13.3,N degC
+2020-07-26,01:00:00,-0.57375,P ugm-3,No data,N mgm-3,-0.8,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),269.6,N deg,4.5,N ms-1,12.6,N degC
+2020-07-26,02:00:00,-0.1275,P ugm-3,No data,N mgm-3,-3.1,P ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),274.3,N deg,4.1,N ms-1,12.4,N degC
+2020-07-26,03:00:00,-1.09969,P ugm-3,No data,N mgm-3,6.4,N ugm-3 (TEOM FDMS),1.6,P ugm-3 (TEOM FDMS),284.2,N deg,4.4,N ms-1,12.2,N degC
+2020-07-26,04:00:00,-1.62563,P ugm-3,No data,N mgm-3,10.3,N ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),290.9,N deg,3.7,N ms-1,11.9,N degC
+2020-07-26,05:00:00,0.14344,P ugm-3,No data,N mgm-3,2.6,P ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),292.1,N deg,3.4,N ms-1,11.4,N degC
+2020-07-26,06:00:00,0.66938,P ugm-3,No data,N mgm-3,13.6,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),286.4,N deg,4.1,N ms-1,11.8,N degC
+2020-07-26,07:00:00,-0.23906,P ugm-3,No data,N mgm-3,19.8,N ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),274.2,N deg,4.9,N ms-1,13.4,N degC
+2020-07-26,08:00:00,1.67344,P ugm-3,No data,N mgm-3,7.9,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),272.2,N deg,6.7,N ms-1,15.1,N degC
+2020-07-26,09:00:00,0.3825,P ugm-3,No data,N mgm-3,8.4,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),268.6,N deg,8,N ms-1,16.5,N degC
+2020-07-26,10:00:00,1.05187,P ugm-3,No data,N mgm-3,11,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),264.4,N deg,8.3,N ms-1,17.7,N degC
+2020-07-26,11:00:00,0.66938,P ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),262.5,N deg,8.2,N ms-1,18.3,N degC
+2020-07-26,12:00:00,-0.14344,P ugm-3,No data,N mgm-3,7.2,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),262,N deg,8.6,N ms-1,18.7,N degC
+2020-07-26,13:00:00,0.04781,P ugm-3,No data,N mgm-3,7.8,N ugm-3 (TEOM FDMS),5.5,N ugm-3 (TEOM FDMS),264.1,N deg,8.5,N ms-1,19,N degC
+2020-07-26,14:00:00,0.14344,P ugm-3,No data,N mgm-3,2.6,P ugm-3 (TEOM FDMS),7.7,N ugm-3 (TEOM FDMS),275.2,N deg,6.9,N ms-1,16.5,N degC
+2020-07-26,15:00:00,0.09563,P ugm-3,No data,N mgm-3,6.4,N ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),268.2,N deg,7.9,N ms-1,16.3,N degC
+2020-07-26,16:00:00,0.47813,P ugm-3,No data,N mgm-3,9.5,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),261.4,N deg,6,N ms-1,15.5,N degC
+2020-07-26,17:00:00,0.19125,P ugm-3,No data,N mgm-3,7.6,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),262.4,N deg,7.5,N ms-1,17,N degC
+2020-07-26,18:00:00,0.81281,P ugm-3,No data,N mgm-3,5.8,N ugm-3 (TEOM FDMS),6.2,N ugm-3 (TEOM FDMS),258.6,N deg,5.9,N ms-1,16,N degC
+2020-07-26,19:00:00,0.71719,P ugm-3,No data,N mgm-3,10.2,N ugm-3 (TEOM FDMS),6.2,N ugm-3 (TEOM FDMS),247,N deg,5.1,N ms-1,15.1,N degC
+2020-07-26,20:00:00,2.53406,P ugm-3,No data,N mgm-3,5.5,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),243.4,N deg,5.1,N ms-1,14.6,N degC
+2020-07-26,21:00:00,0.71719,P ugm-3,No data,N mgm-3,12.6,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),242.8,N deg,5,N ms-1,14.3,N degC
+2020-07-26,22:00:00,6.16781,P ugm-3,No data,N mgm-3,3.5,P ugm-3 (TEOM FDMS),6.4,N ugm-3 (TEOM FDMS),238.2,N deg,4.4,N ms-1,14.2,N degC
+2020-07-26,23:00:00,1.86469,P ugm-3,No data,N mgm-3,1.2,P ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),220.5,N deg,4.2,N ms-1,13.8,N degC
+2020-07-26,24:00:00,1.38656,P ugm-3,No data,N mgm-3,13,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),210.3,N deg,4.5,N ms-1,14.3,N degC
+2020-07-27,01:00:00,-0.19125,P ugm-3,No data,N mgm-3,5,P ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),200.9,N deg,3.9,N ms-1,14.3,N degC
+2020-07-27,02:00:00,-0.6375,P ugm-3,No data,N mgm-3,10,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),197.1,N deg,5.3,N ms-1,14.7,N degC
+2020-07-27,03:00:00,0.09563,P ugm-3,No data,N mgm-3,8,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),200.1,N deg,6.4,N ms-1,14.8,N degC
+2020-07-27,04:00:00,0.04781,P ugm-3,No data,N mgm-3,8.5,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),192.6,N deg,8,N ms-1,14.8,N degC
+2020-07-27,05:00:00,0.57375,P ugm-3,No data,N mgm-3,-0.2,P ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),188.4,N deg,9.2,N ms-1,14.7,N degC
+2020-07-27,06:00:00,8.415,P ugm-3,No data,N mgm-3,0.3,P ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),193.4,N deg,8.9,N ms-1,15.1,N degC
+2020-07-27,07:00:00,7.02844,P ugm-3,No data,N mgm-3,11.2,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),198.8,N deg,9.2,N ms-1,15.5,N degC
+2020-07-27,08:00:00,5.59406,P ugm-3,No data,N mgm-3,18.3,N ugm-3 (TEOM FDMS),-3.1,P ugm-3 (TEOM FDMS),200,N deg,9.2,N ms-1,16.1,N degC
+2020-07-27,09:00:00,6.59813,P ugm-3,No data,N mgm-3,0.3,P ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),197.5,N deg,9.2,N ms-1,16.7,N degC
+2020-07-27,10:00:00,5.88094,P ugm-3,No data,N mgm-3,3.4,P ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),212.3,N deg,9.1,N ms-1,17.5,N degC
+2020-07-27,11:00:00,10.90125,P ugm-3,No data,N mgm-3,6.1,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),217.4,N deg,9.8,N ms-1,18,N degC
+2020-07-27,12:00:00,9.5625,P ugm-3,No data,N mgm-3,No data,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),247,N deg,8.4,N ms-1,18.8,N degC
+2020-07-27,13:00:00,1.00406,P ugm-3,No data,N mgm-3,6.8,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),257.6,N deg,10.9,N ms-1,20.8,N degC
+2020-07-27,14:00:00,0.33469,P ugm-3,No data,N mgm-3,13.9,N ugm-3 (TEOM FDMS),5.3,N ugm-3 (TEOM FDMS),257,N deg,9.3,N ms-1,18.7,N degC
+2020-07-27,15:00:00,0.86063,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),259.8,N deg,9.2,N ms-1,17.5,N degC
+2020-07-27,16:00:00,1.33875,P ugm-3,No data,N mgm-3,10.1,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),262.8,N deg,9.1,N ms-1,16.9,N degC
+2020-07-27,17:00:00,1.24313,P ugm-3,No data,N mgm-3,14.8,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),267.5,N deg,7.9,N ms-1,16.4,N degC
+2020-07-27,18:00:00,1.38656,P ugm-3,No data,N mgm-3,15.9,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),274.5,N deg,7.6,N ms-1,16.4,N degC
+2020-07-27,19:00:00,0.86063,P ugm-3,No data,N mgm-3,4,P ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),276.9,N deg,6.7,N ms-1,15.9,N degC
+2020-07-27,20:00:00,1.72125,P ugm-3,No data,N mgm-3,8.3,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),278.5,N deg,5.7,N ms-1,14.5,N degC
+2020-07-27,21:00:00,4.06406,P ugm-3,No data,N mgm-3,7.5,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),279.9,N deg,4.3,N ms-1,13.7,N degC
+2020-07-27,22:00:00,6.59813,P ugm-3,No data,N mgm-3,11.5,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),274.2,N deg,4.4,N ms-1,13.1,N degC
+2020-07-27,23:00:00,2.62969,P ugm-3,No data,N mgm-3,11.1,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),275.5,N deg,4.1,N ms-1,12.8,N degC
+2020-07-27,24:00:00,2.05594,P ugm-3,No data,N mgm-3,8.5,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),270,N deg,3.9,N ms-1,12.5,N degC
+2020-07-28,01:00:00,1.53,P ugm-3,No data,N mgm-3,11.7,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),280.6,N deg,4.8,N ms-1,12.1,N degC
+2020-07-28,02:00:00,3.88875,P ugm-3,No data,N mgm-3,14.4,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),283.4,N deg,4.4,N ms-1,11.7,N degC
+2020-07-28,03:00:00,0.04781,P ugm-3,No data,N mgm-3,10.6,N ugm-3 (TEOM FDMS),1.6,P ugm-3 (TEOM FDMS),288,N deg,4.4,N ms-1,11.4,N degC
+2020-07-28,04:00:00,0.3825,P ugm-3,No data,N mgm-3,10,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),288.2,N deg,4.4,N ms-1,11,N degC
+2020-07-28,05:00:00,0.3825,P ugm-3,No data,N mgm-3,10.4,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),289.9,N deg,4.1,N ms-1,10.5,N degC
+2020-07-28,06:00:00,1.48219,P ugm-3,No data,N mgm-3,13,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),292.4,N deg,4.1,N ms-1,11.2,N degC
+2020-07-28,07:00:00,2.72531,P ugm-3,No data,N mgm-3,9.8,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),297,N deg,5.2,N ms-1,12.7,N degC
+2020-07-28,08:00:00,2.24719,P ugm-3,No data,N mgm-3,6.6,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),293.8,N deg,5.7,N ms-1,14.2,N degC
+2020-07-28,09:00:00,2.10375,P ugm-3,No data,N mgm-3,5.4,N ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),288.6,N deg,5.9,N ms-1,15.5,N degC
+2020-07-28,10:00:00,2.15156,P ugm-3,No data,N mgm-3,7,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),283.1,N deg,6.5,N ms-1,16.5,N degC
+2020-07-28,11:00:00,3.53813,P ugm-3,No data,N mgm-3,10.3,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),284.7,N deg,7.2,N ms-1,17.1,N degC
+2020-07-28,12:00:00,3.53813,P ugm-3,No data,N mgm-3,7.9,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),285.7,N deg,7.3,N ms-1,17.6,N degC
+2020-07-28,13:00:00,3.01219,P ugm-3,No data,N mgm-3,11.6,N ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),288.3,N deg,6.9,N ms-1,17.1,N degC
+2020-07-28,14:00:00,1.48219,P ugm-3,No data,N mgm-3,11,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),288.4,N deg,7.1,N ms-1,17.5,N degC
+2020-07-28,15:00:00,1.43438,P ugm-3,No data,N mgm-3,5.1,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),287.2,N deg,7.1,N ms-1,17.4,N degC
+2020-07-28,16:00:00,1.72125,P ugm-3,No data,N mgm-3,9.1,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),288.1,N deg,7,N ms-1,17.1,N degC
+2020-07-28,17:00:00,2.10375,P ugm-3,No data,N mgm-3,10.3,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),287.8,N deg,6.5,N ms-1,16.7,N degC
+2020-07-28,18:00:00,1.9125,P ugm-3,No data,N mgm-3,4,P ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),285.7,N deg,6.2,N ms-1,15.8,N degC
+2020-07-28,19:00:00,2.58188,P ugm-3,No data,N mgm-3,4.2,P ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),283.2,N deg,5.2,N ms-1,14.6,N degC
+2020-07-28,20:00:00,3.39469,P ugm-3,No data,N mgm-3,11.5,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),283.6,N deg,4.4,N ms-1,13.1,N degC
+2020-07-28,21:00:00,5.21156,P ugm-3,No data,N mgm-3,12.6,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),292,N deg,3.9,N ms-1,12.2,N degC
+2020-07-28,22:00:00,5.355,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),5.3,N ugm-3 (TEOM FDMS),291.3,N deg,2.9,N ms-1,11.4,N degC
+2020-07-28,23:00:00,4.9725,P ugm-3,No data,N mgm-3,7.4,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),284.5,N deg,2.4,N ms-1,10.8,N degC
+2020-07-28,24:00:00,9.41906,P ugm-3,No data,N mgm-3,10.3,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),292.9,N deg,2.6,N ms-1,10.3,N degC
+2020-07-29,01:00:00,7.7775,P ugm-3,No data,N mgm-3,10.9,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),265.5,N deg,2.9,N ms-1,9.1,N degC
+2020-07-29,02:00:00,6.63,P ugm-3,No data,N mgm-3,12.1,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),270.5,N deg,2.4,N ms-1,8.6,N degC
+2020-07-29,03:00:00,6.98063,P ugm-3,No data,N mgm-3,8.7,N ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),316.5,N deg,2.4,N ms-1,8.2,N degC
+2020-07-29,04:00:00,6.885,P ugm-3,No data,N mgm-3,7.9,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),345.8,N deg,2.5,N ms-1,8.1,N degC
+2020-07-29,05:00:00,8.17594,P ugm-3,No data,N mgm-3,12,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),345.3,N deg,2.5,N ms-1,7.9,N degC
+2020-07-29,06:00:00,8.65406,P ugm-3,No data,N mgm-3,5.9,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),346.6,N deg,2,N ms-1,8.8,N degC
+2020-07-29,07:00:00,9.51469,P ugm-3,No data,N mgm-3,6.7,N ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),35.5,N deg,0.3,N ms-1,9,N degC
+2020-07-29,08:00:00,14.39156,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),188.7,N deg,0.9,N ms-1,9.6,N degC
+2020-07-29,09:00:00,6.74156,P ugm-3,No data,N mgm-3,5.1,N ugm-3 (TEOM FDMS),-0.5,P ugm-3 (TEOM FDMS),242.3,N deg,0.8,N ms-1,10.6,N degC
+2020-07-29,10:00:00,7.36313,P ugm-3,No data,N mgm-3,9.1,N ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),249.5,N deg,1.6,N ms-1,12.1,N degC
+2020-07-29,11:00:00,3.58594,P ugm-3,No data,N mgm-3,6.1,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),246.6,N deg,2.6,N ms-1,13.9,N degC
+2020-07-29,12:00:00,2.62969,P ugm-3,No data,N mgm-3,7.2,N ugm-3 (TEOM FDMS),0.4,P ugm-3 (TEOM FDMS),254.1,N deg,3.5,N ms-1,17.2,N degC
+2020-07-29,13:00:00,1.67344,P ugm-3,No data,N mgm-3,9.4,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),250.6,N deg,4.2,N ms-1,18.1,N degC
+2020-07-29,14:00:00,1.29094,P ugm-3,No data,N mgm-3,8.1,N ugm-3 (TEOM FDMS),6.5,N ugm-3 (TEOM FDMS),250.1,N deg,4.6,N ms-1,18.4,N degC
+2020-07-29,15:00:00,1.81688,P ugm-3,No data,N mgm-3,10.4,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),255,N deg,4.1,N ms-1,18.7,N degC
+2020-07-29,16:00:00,1.96031,P ugm-3,No data,N mgm-3,7,N ugm-3 (TEOM FDMS),6.4,N ugm-3 (TEOM FDMS),259.6,N deg,3.1,N ms-1,18.7,N degC
+2020-07-29,17:00:00,3.06,P ugm-3,No data,N mgm-3,5.2,N ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),254.9,N deg,2.8,N ms-1,18.3,N degC
+2020-07-29,18:00:00,2.39063,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),267.8,N deg,2.8,N ms-1,17,N degC
+2020-07-29,19:00:00,2.82094,P ugm-3,No data,N mgm-3,3.5,P ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),283.9,N deg,2.9,N ms-1,15.7,N degC
+2020-07-29,20:00:00,3.01219,P ugm-3,No data,N mgm-3,12.9,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),297.6,N deg,2.5,N ms-1,14.9,N degC
+2020-07-29,21:00:00,3.25125,P ugm-3,No data,N mgm-3,4.1,P ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),298.9,N deg,2,N ms-1,14.6,N degC
+2020-07-29,22:00:00,4.78125,P ugm-3,No data,N mgm-3,4.2,P ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),319.5,N deg,1.4,N ms-1,14.3,N degC
+2020-07-29,23:00:00,12.86156,P ugm-3,No data,N mgm-3,5.3,N ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),224,N deg,0.3,N ms-1,14.1,N degC
+2020-07-29,24:00:00,6.5025,P ugm-3,No data,N mgm-3,1.9,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),195.4,N deg,1.5,N ms-1,14.1,N degC
+2020-07-30,01:00:00,4.4625,P ugm-3,No data,N mgm-3,3.3,P ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),248.6,N deg,0.2,N ms-1,13,N degC
+2020-07-30,02:00:00,21.86625,P ugm-3,No data,N mgm-3,11.2,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),185.2,N deg,1,N ms-1,13.2,N degC
+2020-07-30,03:00:00,25.10156,P ugm-3,No data,N mgm-3,13.7,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),206.9,N deg,1,N ms-1,13.3,N degC
+2020-07-30,04:00:00,13.10063,P ugm-3,No data,N mgm-3,13.8,N ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),168.8,N deg,2.4,N ms-1,13.1,N degC
+2020-07-30,05:00:00,12.57469,P ugm-3,No data,N mgm-3,2.8,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),170.4,N deg,2.7,N ms-1,12.2,N degC
+2020-07-30,06:00:00,6.55031,P ugm-3,No data,N mgm-3,11.8,N ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),164.8,N deg,2.8,N ms-1,13,N degC
+2020-07-30,07:00:00,8.36719,P ugm-3,No data,N mgm-3,13.6,N ugm-3 (TEOM FDMS),7.1,N ugm-3 (TEOM FDMS),175.7,N deg,3.3,N ms-1,15,N degC
+2020-07-30,08:00:00,8.22375,P ugm-3,No data,N mgm-3,8.7,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),178.9,N deg,3.9,N ms-1,16.1,N degC
+2020-07-30,09:00:00,7.36313,P ugm-3,No data,N mgm-3,4.9,P ugm-3 (TEOM FDMS),4.2,P ugm-3 (TEOM FDMS),177.8,N deg,4.3,N ms-1,16.7,N degC
+2020-07-30,10:00:00,7.88906,P ugm-3,No data,N mgm-3,6.5,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),165.5,N deg,4.6,N ms-1,17.2,N degC
+2020-07-30,11:00:00,5.83313,P ugm-3,No data,N mgm-3,9.3,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),160.5,N deg,4.4,N ms-1,18,N degC
+2020-07-30,12:00:00,6.55031,P ugm-3,No data,N mgm-3,7.1,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),159.1,N deg,3.7,N ms-1,19.5,N degC
+2020-07-30,13:00:00,7.17188,P ugm-3,No data,N mgm-3,8.2,N ugm-3 (TEOM FDMS),6.9,N ugm-3 (TEOM FDMS),148.1,N deg,3.4,N ms-1,20.7,N degC
+2020-07-30,14:00:00,7.65,P ugm-3,No data,N mgm-3,7.3,N ugm-3 (TEOM FDMS),6.9,N ugm-3 (TEOM FDMS),154.7,N deg,3.8,N ms-1,21.7,N degC
+2020-07-30,15:00:00,8.12813,P ugm-3,No data,N mgm-3,7.9,N ugm-3 (TEOM FDMS),6.1,N ugm-3 (TEOM FDMS),163.8,N deg,4.1,N ms-1,22.1,N degC
+2020-07-30,16:00:00,11.37938,P ugm-3,No data,N mgm-3,8.5,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),166.4,N deg,3.9,N ms-1,22.1,N degC
+2020-07-30,17:00:00,12.76594,P ugm-3,No data,N mgm-3,7.6,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),162.9,N deg,3.6,N ms-1,21.9,N degC
+2020-07-30,18:00:00,15.15656,P ugm-3,No data,N mgm-3,5.6,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),153.3,N deg,3.1,N ms-1,21.1,N degC
+2020-07-30,19:00:00,11.42719,P ugm-3,No data,N mgm-3,8,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),136.5,N deg,3.1,N ms-1,19.6,N degC
+2020-07-30,20:00:00,14.535,P ugm-3,No data,N mgm-3,5.2,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),117.6,N deg,3.2,N ms-1,17.5,N degC
+2020-07-30,21:00:00,18.55125,P ugm-3,No data,N mgm-3,10.4,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),110.9,N deg,2.9,N ms-1,16.2,N degC
+2020-07-30,22:00:00,15.96938,P ugm-3,No data,N mgm-3,12.5,N ugm-3 (TEOM FDMS),6.4,N ugm-3 (TEOM FDMS),87.5,N deg,2.8,N ms-1,15.2,N degC
+2020-07-30,23:00:00,20.22469,P ugm-3,No data,N mgm-3,12.2,N ugm-3 (TEOM FDMS),6.6,N ugm-3 (TEOM FDMS),85.9,N deg,3.3,N ms-1,14.5,N degC
+2020-07-30,24:00:00,42.40969,P ugm-3,No data,N mgm-3,19.4,N ugm-3 (TEOM FDMS),11.9,N ugm-3 (TEOM FDMS),81.7,N deg,2.9,N ms-1,13.8,N degC
+2020-07-31,01:00:00,39.20625,P ugm-3,No data,N mgm-3,10.1,N ugm-3 (TEOM FDMS),8.7,N ugm-3 (TEOM FDMS),46.3,N deg,3.4,N ms-1,12.7,N degC
+2020-07-31,02:00:00,9.37125,P ugm-3,No data,N mgm-3,13.5,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),61.5,N deg,3.6,N ms-1,12.7,N degC
+2020-07-31,03:00:00,11.61844,P ugm-3,No data,N mgm-3,8.3,N ugm-3 (TEOM FDMS),7.4,N ugm-3 (TEOM FDMS),62.7,N deg,3.5,N ms-1,12.7,N degC
+2020-07-31,04:00:00,16.54313,P ugm-3,No data,N mgm-3,14.1,N ugm-3 (TEOM FDMS),9.9,N ugm-3 (TEOM FDMS),63.4,N deg,3.6,N ms-1,12.7,N degC
+2020-07-31,05:00:00,14.29594,P ugm-3,No data,N mgm-3,12.9,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),68,N deg,3.5,N ms-1,12.6,N degC
+2020-07-31,06:00:00,16.30406,P ugm-3,No data,N mgm-3,14.5,N ugm-3 (TEOM FDMS),7.4,N ugm-3 (TEOM FDMS),71.7,N deg,3.1,N ms-1,13.8,N degC
+2020-07-31,07:00:00,23.14125,P ugm-3,No data,N mgm-3,14.8,N ugm-3 (TEOM FDMS),9.2,N ugm-3 (TEOM FDMS),115.2,N deg,2.3,N ms-1,16.7,N degC
+2020-07-31,08:00:00,25.38844,P ugm-3,No data,N mgm-3,16.9,N ugm-3 (TEOM FDMS),7.8,N ugm-3 (TEOM FDMS),156.2,N deg,2.7,N ms-1,18.4,N degC
+2020-07-31,09:00:00,20.46375,P ugm-3,No data,N mgm-3,20,N ugm-3 (TEOM FDMS),11,N ugm-3 (TEOM FDMS),152.6,N deg,3.1,N ms-1,19.8,N degC
+2020-07-31,10:00:00,20.03344,P ugm-3,No data,N mgm-3,17.4,N ugm-3 (TEOM FDMS),8.8,N ugm-3 (TEOM FDMS),173.2,N deg,3.2,N ms-1,21.4,N degC
+2020-07-31,11:00:00,16.59094,P ugm-3,No data,N mgm-3,19.2,N ugm-3 (TEOM FDMS),9.4,N ugm-3 (TEOM FDMS),195.1,N deg,3.2,N ms-1,22.8,N degC
+2020-07-31,12:00:00,12.95719,P ugm-3,No data,N mgm-3,21,N ugm-3 (TEOM FDMS),12.2,N ugm-3 (TEOM FDMS),227.5,N deg,2.9,N ms-1,24.2,N degC
+2020-07-31,13:00:00,8.27156,P ugm-3,No data,N mgm-3,18.7,N ugm-3 (TEOM FDMS),14,N ugm-3 (TEOM FDMS),257.9,N deg,3.5,N ms-1,24.9,N degC
+2020-07-31,14:00:00,7.45875,P ugm-3,No data,N mgm-3,21.6,N ugm-3 (TEOM FDMS),12.5,N ugm-3 (TEOM FDMS),274.8,N deg,4.7,N ms-1,24.6,N degC
+2020-07-31,15:00:00,4.11188,P ugm-3,No data,N mgm-3,12.7,N ugm-3 (TEOM FDMS),9.2,N ugm-3 (TEOM FDMS),284,N deg,5.6,N ms-1,23.9,N degC
+2020-07-31,16:00:00,3.63375,P ugm-3,No data,N mgm-3,5.7,N ugm-3 (TEOM FDMS),7,N ugm-3 (TEOM FDMS),290.7,N deg,5.6,N ms-1,21.7,N degC
+2020-07-31,17:00:00,2.19938,P ugm-3,No data,N mgm-3,0.7,P ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),290,N deg,5.5,N ms-1,20.4,N degC
+2020-07-31,18:00:00,0.71719,P ugm-3,No data,N mgm-3,0,P ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),284.6,N deg,6,N ms-1,20.2,N degC
+2020-07-31,19:00:00,1.19531,P ugm-3,No data,N mgm-3,3.3,P ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),283.4,N deg,6.2,N ms-1,18.3,N degC
+2020-07-31,20:00:00,1.19531,P ugm-3,No data,N mgm-3,4.5,P ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),279.3,N deg,6,N ms-1,17.8,N degC
+2020-07-31,21:00:00,0.57375,P ugm-3,No data,N mgm-3,7.4,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),277.6,N deg,5.7,N ms-1,17.3,N degC
+2020-07-31,22:00:00,0.52594,P ugm-3,No data,N mgm-3,11.5,N ugm-3 (TEOM FDMS),4.8,P ugm-3 (TEOM FDMS),275.9,N deg,4.8,N ms-1,15.8,N degC
+2020-07-31,23:00:00,0.81281,P ugm-3,No data,N mgm-3,8.7,N ugm-3 (TEOM FDMS),1.2,P ugm-3 (TEOM FDMS),279.2,N deg,5.1,N ms-1,15.1,N degC
+2020-07-31,24:00:00,1.62563,P ugm-3,No data,N mgm-3,6.1,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),271.4,N deg,4.2,N ms-1,15.2,N degC
+2020-08-01,01:00:00,7.45875,N ugm-3,No data,N mgm-3,10.1,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),256.8,N deg,3.3,N ms-1,12.9,N degC
+2020-08-01,02:00:00,4.9725,N ugm-3,No data,N mgm-3,14.3,N ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),251.2,N deg,3,N ms-1,13.1,N degC
+2020-08-01,03:00:00,7.2675,N ugm-3,No data,N mgm-3,8.2,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),241.7,N deg,3.4,N ms-1,13.7,N degC
+2020-08-01,04:00:00,5.92875,N ugm-3,No data,N mgm-3,11.6,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),251.5,N deg,4.6,N ms-1,14.1,N degC
+2020-08-01,05:00:00,10.90125,N ugm-3,No data,N mgm-3,11.5,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),255.8,N deg,4.2,N ms-1,14.3,N degC
+2020-08-01,06:00:00,2.10375,P ugm-3,No data,N mgm-3,7.9,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),254.4,N deg,4.3,N ms-1,14.3,N degC
+2020-08-01,07:00:00,2.10375,P ugm-3,No data,N mgm-3,8.6,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),246.1,N deg,4.7,N ms-1,14.6,N degC
+2020-08-01,08:00:00,2.10375,P ugm-3,No data,N mgm-3,4.4,P ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),245.6,N deg,4.9,N ms-1,15.8,N degC
+2020-08-01,09:00:00,2.10375,P ugm-3,No data,N mgm-3,1.2,P ugm-3 (TEOM FDMS),-2.5,P ugm-3 (TEOM FDMS),255.2,N deg,5.7,N ms-1,18,N degC
+2020-08-01,10:00:00,3.25125,P ugm-3,No data,N mgm-3,5.8,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),269.5,N deg,5.9,N ms-1,19,N degC
+2020-08-01,11:00:00,3.06,P ugm-3,No data,N mgm-3,5.8,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),273.3,N deg,6.1,N ms-1,19,N degC
+2020-08-01,12:00:00,2.10375,P ugm-3,No data,N mgm-3,6.1,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),278.6,N deg,6.3,N ms-1,18.3,N degC
+2020-08-01,13:00:00,2.10375,P ugm-3,No data,N mgm-3,3.9,P ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),280.7,N deg,6.5,N ms-1,19.4,N degC
+2020-08-01,14:00:00,1.9125,P ugm-3,No data,N mgm-3,9.3,N ugm-3 (TEOM FDMS),7.1,N ugm-3 (TEOM FDMS),282.3,N deg,6.9,N ms-1,19.4,N degC
+2020-08-01,15:00:00,1.72125,P ugm-3,No data,N mgm-3,10.2,N ugm-3 (TEOM FDMS),6.6,N ugm-3 (TEOM FDMS),281.7,N deg,7.1,N ms-1,18.9,N degC
+2020-08-01,16:00:00,1.53,P ugm-3,No data,N mgm-3,7.3,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),281.4,N deg,7.2,N ms-1,18.1,N degC
+2020-08-01,17:00:00,1.53,P ugm-3,No data,N mgm-3,6.6,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),282.1,N deg,6.9,N ms-1,17,N degC
+2020-08-01,18:00:00,0.95625,P ugm-3,No data,N mgm-3,9.6,N ugm-3 (TEOM FDMS),5.2,N ugm-3 (TEOM FDMS),281.8,N deg,6.7,N ms-1,15.8,N degC
+2020-08-01,19:00:00,0.95625,P ugm-3,No data,N mgm-3,11.2,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),282.8,N deg,5.9,N ms-1,14.6,N degC
+2020-08-01,20:00:00,2.10375,P ugm-3,No data,N mgm-3,8.3,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),284,N deg,4.7,N ms-1,13.3,N degC
+2020-08-01,21:00:00,3.25125,P ugm-3,No data,N mgm-3,4,P ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),285.6,N deg,4.1,N ms-1,12.7,N degC
+2020-08-01,22:00:00,2.6775,P ugm-3,No data,N mgm-3,9.3,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),291.9,N deg,3.8,N ms-1,12.2,N degC
+2020-08-01,23:00:00,5.16375,N ugm-3,No data,N mgm-3,6.2,N ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),291.5,N deg,3.6,N ms-1,11.9,N degC
+2020-08-01,24:00:00,7.2675,N ugm-3,No data,N mgm-3,10.6,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),288.6,N deg,3.3,N ms-1,11.7,N degC
+2020-08-02,01:00:00,7.07625,N ugm-3,No data,N mgm-3,10.6,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),262.3,N deg,2.9,N ms-1,10.5,N degC
+2020-08-02,02:00:00,5.355,N ugm-3,No data,N mgm-3,9.4,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),270.2,N deg,2.2,N ms-1,10,N degC
+2020-08-02,03:00:00,3.63375,P ugm-3,No data,N mgm-3,7.8,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),312.3,N deg,2.3,N ms-1,9.8,N degC
+2020-08-02,04:00:00,2.10375,P ugm-3,No data,N mgm-3,4,P ugm-3 (TEOM FDMS),0.4,P ugm-3 (TEOM FDMS),313.2,N deg,2.1,N ms-1,10.5,N degC
+2020-08-02,05:00:00,4.78125,N ugm-3,No data,N mgm-3,6.7,N ugm-3 (TEOM FDMS),0.8,P ugm-3 (TEOM FDMS),294.8,N deg,2.4,N ms-1,10.8,N degC
+2020-08-02,06:00:00,7.07625,N ugm-3,No data,N mgm-3,7.1,N ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),324.8,N deg,2,N ms-1,11,N degC
+2020-08-02,07:00:00,5.92875,N ugm-3,No data,N mgm-3,10.4,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),313.5,N deg,2.4,N ms-1,11.6,N degC
+2020-08-02,08:00:00,5.16375,N ugm-3,No data,N mgm-3,1.6,P ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),320.7,N deg,2.5,N ms-1,12.1,N degC
+2020-08-02,09:00:00,4.78125,N ugm-3,No data,N mgm-3,5.6,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),307.5,N deg,3.3,N ms-1,14.8,N degC
+2020-08-02,10:00:00,3.4425,P ugm-3,No data,N mgm-3,7.3,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),284.7,N deg,4.8,N ms-1,17.5,N degC
+2020-08-02,11:00:00,2.295,P ugm-3,No data,N mgm-3,6.6,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),276.7,N deg,5.2,N ms-1,18.1,N degC
+2020-08-02,12:00:00,1.9125,P ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),270.4,N deg,5.9,N ms-1,18.7,N degC
+2020-08-02,13:00:00,1.9125,P ugm-3,No data,N mgm-3,4.1,P ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),274,N deg,6.4,N ms-1,19,N degC
+2020-08-02,14:00:00,1.33875,P ugm-3,No data,N mgm-3,5.8,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),276,N deg,6.5,N ms-1,18.8,N degC
+2020-08-02,15:00:00,0.95625,P ugm-3,No data,N mgm-3,2.5,P ugm-3 (TEOM FDMS),-0.2,P ugm-3 (TEOM FDMS),280.8,N deg,6.5,N ms-1,17.9,N degC
+2020-08-02,16:00:00,2.10375,P ugm-3,No data,N mgm-3,3,P ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),282.8,N deg,6.1,N ms-1,16.7,N degC
+2020-08-02,17:00:00,1.9125,P ugm-3,No data,N mgm-3,3.4,P ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),281.9,N deg,5.6,N ms-1,15.7,N degC
+2020-08-02,18:00:00,1.1475,P ugm-3,No data,N mgm-3,3.6,P ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),282.4,N deg,4.7,N ms-1,14.4,N degC
+2020-08-02,19:00:00,2.295,P ugm-3,No data,N mgm-3,1.4,P ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),287.5,N deg,3.8,N ms-1,13.3,N degC
+2020-08-02,20:00:00,3.25125,P ugm-3,No data,N mgm-3,-0.3,P ugm-3 (TEOM FDMS),0.4,P ugm-3 (TEOM FDMS),290.1,N deg,2.9,N ms-1,12.3,N degC
+2020-08-02,21:00:00,4.01625,P ugm-3,No data,N mgm-3,-0.2,P ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),290.3,N deg,2.3,N ms-1,11.4,N degC
+2020-08-02,22:00:00,6.12,N ugm-3,No data,N mgm-3,2.8,P ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),296.9,N deg,1.9,N ms-1,10.9,N degC
+2020-08-02,23:00:00,6.5025,N ugm-3,No data,N mgm-3,5.5,N ugm-3 (TEOM FDMS),3.4,P ugm-3 (TEOM FDMS),296.8,N deg,2.3,N ms-1,10.1,N degC
+2020-08-02,24:00:00,4.39875,P ugm-3,No data,N mgm-3,6.6,N ugm-3 (TEOM FDMS),0.6,P ugm-3 (TEOM FDMS),327.3,N deg,3.5,N ms-1,9.6,N degC
+2020-08-03,01:00:00,4.2075,P ugm-3,No data,N mgm-3,3.5,P ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),297.4,N deg,2.9,N ms-1,9.2,N degC
+2020-08-03,02:00:00,3.4425,P ugm-3,No data,N mgm-3,5.5,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),314.4,N deg,2.8,N ms-1,8.6,N degC
+2020-08-03,03:00:00,3.825,P ugm-3,No data,N mgm-3,3.8,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),329.7,N deg,3.1,N ms-1,8.4,N degC
+2020-08-03,04:00:00,4.39875,N ugm-3,No data,N mgm-3,4.4,P ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),333.8,N deg,2.8,N ms-1,8.2,N degC
+2020-08-03,05:00:00,6.12,N ugm-3,No data,N mgm-3,5.3,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),334,N deg,2.3,N ms-1,8.2,N degC
+2020-08-03,06:00:00,7.45875,N ugm-3,No data,N mgm-3,3,P ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),332.5,N deg,1.7,N ms-1,8.2,N degC
+2020-08-03,07:00:00,10.13625,N ugm-3,No data,N mgm-3,5.6,N ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),329.8,N deg,1.5,N ms-1,8.7,N degC
+2020-08-03,08:00:00,12.04875,N ugm-3,No data,N mgm-3,4.5,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),302.4,N deg,1.2,N ms-1,10.2,N degC
+2020-08-03,09:00:00,10.3275,N ugm-3,No data,N mgm-3,5.1,N ugm-3 (TEOM FDMS),1.3,P ugm-3 (TEOM FDMS),307.5,N deg,1.7,N ms-1,14.2,N degC
+2020-08-03,10:00:00,7.45875,N ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),310.5,N deg,2.6,N ms-1,17.1,N degC
+2020-08-03,11:00:00,5.16375,N ugm-3,No data,N mgm-3,3,P ugm-3 (TEOM FDMS),2.4,P ugm-3 (TEOM FDMS),320.3,N deg,3.6,N ms-1,18.2,N degC
+2020-08-03,12:00:00,4.78125,N ugm-3,No data,N mgm-3,6.2,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),321.3,N deg,4.3,N ms-1,18.7,N degC
+2020-08-03,13:00:00,6.12,N ugm-3,No data,N mgm-3,3.1,P ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),317.1,N deg,4.7,N ms-1,18.9,N degC
+2020-08-03,14:00:00,4.9725,N ugm-3,No data,N mgm-3,7.1,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),308.1,N deg,4.8,N ms-1,18.9,N degC
+2020-08-03,15:00:00,4.78125,N ugm-3,No data,N mgm-3,6.6,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),293.4,N deg,5.8,N ms-1,18.3,N degC
+2020-08-03,16:00:00,5.16375,N ugm-3,No data,N mgm-3,3.1,P ugm-3 (TEOM FDMS),2.8,P ugm-3 (TEOM FDMS),292.1,N deg,6.5,N ms-1,17.6,N degC
+2020-08-03,17:00:00,4.59,N ugm-3,No data,N mgm-3,5.2,N ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),288.5,N deg,5.8,N ms-1,17,N degC
+2020-08-03,18:00:00,4.2075,P ugm-3,No data,N mgm-3,2.3,P ugm-3 (TEOM FDMS),1.4,P ugm-3 (TEOM FDMS),288.2,N deg,5.3,N ms-1,16.2,N degC
+2020-08-03,19:00:00,5.16375,N ugm-3,No data,N mgm-3,8.7,N ugm-3 (TEOM FDMS),4.6,P ugm-3 (TEOM FDMS),281.8,N deg,4.2,N ms-1,15,N degC
+2020-08-03,20:00:00,8.22375,N ugm-3,No data,N mgm-3,6.2,N ugm-3 (TEOM FDMS),0.7,P ugm-3 (TEOM FDMS),288.6,N deg,4,N ms-1,13.4,N degC
+2020-08-03,21:00:00,8.0325,N ugm-3,No data,N mgm-3,3.4,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),293.4,N deg,3.3,N ms-1,12.4,N degC
+2020-08-03,22:00:00,8.7975,N ugm-3,No data,N mgm-3,4.4,P ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),317.6,N deg,2.8,N ms-1,11.4,N degC
+2020-08-03,23:00:00,11.0925,N ugm-3,No data,N mgm-3,8.9,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),335.7,N deg,2.7,N ms-1,10.4,N degC
+2020-08-03,24:00:00,9.5625,N ugm-3,No data,N mgm-3,6.2,N ugm-3 (TEOM FDMS),2.5,P ugm-3 (TEOM FDMS),335.3,N deg,2.5,N ms-1,9.6,N degC
+2020-08-04,01:00:00,8.7975,N ugm-3,No data,N mgm-3,4.8,P ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),301.2,N deg,2.3,N ms-1,8.5,N degC
+2020-08-04,02:00:00,6.885,N ugm-3,No data,N mgm-3,7.1,N ugm-3 (TEOM FDMS),0.9,P ugm-3 (TEOM FDMS),300.3,N deg,2.4,N ms-1,7.8,N degC
+2020-08-04,03:00:00,7.07625,N ugm-3,No data,N mgm-3,4.8,P ugm-3 (TEOM FDMS),1.2,P ugm-3 (TEOM FDMS),318.2,N deg,2.1,N ms-1,7.4,N degC
+2020-08-04,04:00:00,8.415,N ugm-3,No data,N mgm-3,6.4,N ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),325.8,N deg,1.6,N ms-1,7.3,N degC
+2020-08-04,05:00:00,10.13625,N ugm-3,No data,N mgm-3,5.5,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),340,N deg,1.4,N ms-1,7.2,N degC
+2020-08-04,06:00:00,12.6225,N ugm-3,No data,N mgm-3,0.6,P ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),15.4,N deg,0.6,N ms-1,7.6,N degC
+2020-08-04,07:00:00,14.9175,N ugm-3,No data,N mgm-3,4.9,P ugm-3 (TEOM FDMS),1.6,P ugm-3 (TEOM FDMS),215.4,N deg,0.6,N ms-1,8.8,N degC
+2020-08-04,08:00:00,24.8625,N ugm-3,No data,,8.6,N ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),270.1,N deg,1.9,N ms-1,10.3,N degC
+2020-08-04,09:00:00,20.08125,N ugm-3,No data,N mgm-3,8.5,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),235.7,N deg,2.2,N ms-1,12.4,N degC
+2020-08-04,10:00:00,12.6225,N ugm-3,No data,N mgm-3,6.1,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),216.6,N deg,3.4,N ms-1,14.4,N degC
+2020-08-04,11:00:00,11.475,N ugm-3,No data,N mgm-3,4.8,P ugm-3 (TEOM FDMS),0,P ugm-3 (TEOM FDMS),241.3,N deg,5.3,N ms-1,16.4,N degC
+2020-08-04,12:00:00,9.75375,N ugm-3,No data,N mgm-3,2.5,P ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),230.5,N deg,6.4,N ms-1,17.2,N degC
+2020-08-04,13:00:00,7.07625,N ugm-3,No data,N mgm-3,7.2,N ugm-3 (TEOM FDMS),7.2,N ugm-3 (TEOM FDMS),227.9,N deg,6.1,N ms-1,17,N degC
+2020-08-04,14:00:00,8.22375,N ugm-3,No data,N mgm-3,6.9,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),231.2,N deg,3.9,N ms-1,16.3,N degC
+2020-08-04,15:00:00,9.75375,N ugm-3,No data,N mgm-3,7.8,N ugm-3 (TEOM FDMS),3.5,P ugm-3 (TEOM FDMS),235.4,N deg,4.1,N ms-1,16.9,N degC
+2020-08-04,16:00:00,7.84125,N ugm-3,No data,N mgm-3,5.7,N ugm-3 (TEOM FDMS),1.9,P ugm-3 (TEOM FDMS),231.8,N deg,4.7,N ms-1,16.8,N degC
+2020-08-04,17:00:00,7.84125,N ugm-3,No data,N mgm-3,6.9,N ugm-3 (TEOM FDMS),3.1,P ugm-3 (TEOM FDMS),226.7,N deg,4.4,N ms-1,16.7,N degC
+2020-08-04,18:00:00,7.45875,N ugm-3,No data,N mgm-3,6.8,N ugm-3 (TEOM FDMS),2.7,P ugm-3 (TEOM FDMS),232.3,N deg,4.6,N ms-1,16.5,N degC
+2020-08-04,19:00:00,7.65,N ugm-3,No data,N mgm-3,6.7,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),236.3,N deg,3.7,N ms-1,16.4,N degC
+2020-08-04,20:00:00,7.45875,N ugm-3,No data,N mgm-3,5.6,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),228.2,N deg,3.6,N ms-1,16.1,N degC
+2020-08-04,21:00:00,7.07625,N ugm-3,No data,N mgm-3,0.2,P ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),229.8,N deg,4.7,N ms-1,15.8,N degC
+2020-08-04,22:00:00,5.92875,N ugm-3,No data,N mgm-3,7.2,N ugm-3 (TEOM FDMS),5,P ugm-3 (TEOM FDMS),229.5,N deg,4.8,N ms-1,15.5,N degC
+2020-08-04,23:00:00,3.825,P ugm-3,No data,N mgm-3,8.3,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),227.6,N deg,4.9,N ms-1,15.5,N degC
+2020-08-04,24:00:00,3.825,P ugm-3,No data,N mgm-3,-0.1,P ugm-3 (TEOM FDMS),-0.9,P ugm-3 (TEOM FDMS),225.4,N deg,5.2,N ms-1,15.4,N degC
+2020-08-05,01:00:00,2.6775,P ugm-3,No data,N mgm-3,-1.8,P ugm-3 (TEOM FDMS),-0.2,P ugm-3 (TEOM FDMS),237.1,N deg,5.4,N ms-1,15.9,N degC
+2020-08-05,02:00:00,4.59,N ugm-3,No data,N mgm-3,4.5,P ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),235.4,N deg,5.2,N ms-1,16.3,N degC
+2020-08-05,03:00:00,3.06,P ugm-3,No data,N mgm-3,1.4,P ugm-3 (TEOM FDMS),0,P ugm-3 (TEOM FDMS),225.3,N deg,4.7,N ms-1,16.4,N degC
+2020-08-05,04:00:00,3.63375,P ugm-3,No data,N mgm-3,-2.6,P ugm-3 (TEOM FDMS),-0.7,P ugm-3 (TEOM FDMS),218.6,N deg,4.7,N ms-1,16.4,N degC
+2020-08-05,05:00:00,10.90125,N ugm-3,No data,N mgm-3,7.3,N ugm-3 (TEOM FDMS),0.8,P ugm-3 (TEOM FDMS),225.7,N deg,5.3,N ms-1,16.4,N degC
+2020-08-05,06:00:00,12.6225,N ugm-3,No data,N mgm-3,9.9,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),223.3,N deg,5.1,N ms-1,16.2,N degC
+2020-08-05,07:00:00,13.96125,N ugm-3,No data,N mgm-3,3.2,P ugm-3 (TEOM FDMS),2.1,P ugm-3 (TEOM FDMS),217.1,N deg,4.8,N ms-1,16.4,N degC
+2020-08-05,08:00:00,17.40375,N ugm-3,No data,N mgm-3,5.6,N ugm-3 (TEOM FDMS),0.8,P ugm-3 (TEOM FDMS),219.6,N deg,5.8,N ms-1,18.1,N degC
+2020-08-05,09:00:00,12.04875,N ugm-3,No data,N mgm-3,3.6,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),213.8,N deg,6.2,N ms-1,19.3,N degC
+2020-08-05,10:00:00,8.7975,N ugm-3,No data,N mgm-3,2.7,P ugm-3 (TEOM FDMS),1.8,P ugm-3 (TEOM FDMS),208.7,N deg,5.7,N ms-1,18.8,N degC
+2020-08-05,11:00:00,8.415,N ugm-3,No data,N mgm-3,4.7,P ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),204.2,N deg,6.8,N ms-1,18.9,N degC
+2020-08-05,12:00:00,11.0925,N ugm-3,No data,N mgm-3,9.3,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),203.5,N deg,6.9,N ms-1,19.4,N degC
+2020-08-05,13:00:00,11.28375,N ugm-3,No data,P mgm-3,8.9,N ugm-3 (TEOM FDMS),2,P ugm-3 (TEOM FDMS),208.4,N deg,7.4,N ms-1,21,N degC
+2020-08-05,14:00:00,12.04875,N ugm-3,No data,P mgm-3,12.6,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),208.5,N deg,7.6,N ms-1,21,N degC
+2020-08-05,15:00:00,12.6225,N ugm-3,No data,P mgm-3,10.4,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),201.2,N deg,7.2,N ms-1,21,N degC
+2020-08-05,16:00:00,9.5625,N ugm-3,No data,P mgm-3,3.7,P ugm-3 (TEOM FDMS),1.1,P ugm-3 (TEOM FDMS),215.4,N deg,4.6,N ms-1,19.4,N degC
+2020-08-05,17:00:00,8.98875,N ugm-3,No data,P mgm-3,1.7,P ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),243.6,N deg,3.9,N ms-1,18.8,N degC
+2020-08-05,18:00:00,9.75375,N ugm-3,No data,P mgm-3,4.9,P ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),238.2,N deg,5.6,N ms-1,19.1,N degC
+2020-08-05,19:00:00,9.18,N ugm-3,No data,P mgm-3,4,P ugm-3 (TEOM FDMS),1.7,P ugm-3 (TEOM FDMS),227.6,N deg,4,N ms-1,18.4,N degC
+2020-08-05,20:00:00,5.7375,N ugm-3,No data,P mgm-3,5.4,N ugm-3 (TEOM FDMS),2.2,P ugm-3 (TEOM FDMS),241.3,N deg,3.3,N ms-1,17.8,N degC
+2020-08-05,21:00:00,1.72125,P ugm-3,No data,P mgm-3,4.5,P ugm-3 (TEOM FDMS),0.8,P ugm-3 (TEOM FDMS),246.6,N deg,2.3,N ms-1,17.1,N degC
+2020-08-05,22:00:00,1.1475,P ugm-3,No data,P mgm-3,6.8,N ugm-3 (TEOM FDMS),1.5,P ugm-3 (TEOM FDMS),240.9,N deg,2.3,N ms-1,16.4,N degC
+2020-08-05,23:00:00,2.10375,P ugm-3,No data,P mgm-3,8.3,N ugm-3 (TEOM FDMS),3.9,P ugm-3 (TEOM FDMS),223.1,N deg,2.2,N ms-1,16.4,N degC
+2020-08-05,24:00:00,1.53,P ugm-3,No data,P mgm-3,2.1,P ugm-3 (TEOM FDMS),No data,N ugm-3 (TEOM FDMS),223.2,N deg,2.7,N ms-1,16.3,N degC
+2020-08-06,01:00:00,1.33875,P ugm-3,No data,P mgm-3,1.8,P ugm-3 (TEOM FDMS),-0.3,P ugm-3 (TEOM FDMS),257.6,N deg,2.3,N ms-1,13.7,N degC
+2020-08-06,02:00:00,1.53,P ugm-3,No data,P mgm-3,2.4,P ugm-3 (TEOM FDMS),0.4,P ugm-3 (TEOM FDMS),246.2,N deg,1.9,N ms-1,13.3,N degC
+2020-08-06,03:00:00,1.33875,P ugm-3,No data,P mgm-3,3.4,P ugm-3 (TEOM FDMS),-0.3,P ugm-3 (TEOM FDMS),226.6,N deg,1.6,N ms-1,13.5,N degC
+2020-08-06,04:00:00,1.53,P ugm-3,No data,P mgm-3,7.8,N ugm-3 (TEOM FDMS),1,P ugm-3 (TEOM FDMS),186.2,N deg,1.2,N ms-1,13.8,N degC
+2020-08-06,05:00:00,0.95625,P ugm-3,No data,P mgm-3,5.3,N ugm-3 (TEOM FDMS),0.5,P ugm-3 (TEOM FDMS),165.2,N deg,1.4,N ms-1,13.9,N degC
+2020-08-06,06:00:00,1.9125,P ugm-3,No data,P mgm-3,4.6,P ugm-3 (TEOM FDMS),0.3,P ugm-3 (TEOM FDMS),157.8,N deg,1.8,N ms-1,14,N degC
+2020-08-06,07:00:00,11.66625,N ugm-3,No data,P mgm-3,4.2,P ugm-3 (TEOM FDMS),0.2,P ugm-3 (TEOM FDMS),173,N deg,1.4,N ms-1,14.2,N degC
+2020-08-06,08:00:00,19.5075,N ugm-3,No data,P mgm-3,5.2,N ugm-3 (TEOM FDMS),2.3,P ugm-3 (TEOM FDMS),161.1,N deg,1,N ms-1,14.7,N degC
+2020-08-06,09:00:00,16.4475,N ugm-3,No data,P mgm-3,8.6,N ugm-3 (TEOM FDMS),4.9,P ugm-3 (TEOM FDMS),136,N deg,2,N ms-1,15.4,N degC
+2020-08-06,10:00:00,12.43125,N ugm-3,No data,P mgm-3,10.2,N ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),98.6,N deg,2.4,N ms-1,15.7,N degC
+2020-08-06,11:00:00,11.28375,N ugm-3,No data,P mgm-3,8.7,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),129.3,N deg,2.8,N ms-1,17.8,N degC
+2020-08-06,12:00:00,14.535,N ugm-3,No data,P mgm-3,5.9,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),155.8,N deg,4.3,N ms-1,19.4,N degC
+2020-08-06,13:00:00,11.66625,N ugm-3,No data,P mgm-3,6.7,N ugm-3 (TEOM FDMS),4.1,P ugm-3 (TEOM FDMS),159.5,N deg,4.6,N ms-1,21.1,N degC
+2020-08-06,14:00:00,12.24,N ugm-3,No data,P mgm-3,6.3,N ugm-3 (TEOM FDMS),5.1,N ugm-3 (TEOM FDMS),159.5,N deg,4.2,N ms-1,20.8,N degC
+2020-08-06,15:00:00,9.75375,N ugm-3,No data,P mgm-3,5.6,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),188.4,N deg,6.7,N ms-1,21.9,N degC
+2020-08-06,16:00:00,10.51875,N ugm-3,No data,P mgm-3,7.4,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),179.9,N deg,5.9,N ms-1,22,N degC
+2020-08-06,17:00:00,9.18,N ugm-3,No data,P mgm-3,8.4,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),176.2,N deg,5.3,N ms-1,21.2,N degC
+2020-08-06,18:00:00,7.45875,N ugm-3,No data,P mgm-3,7.4,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),176.4,N deg,4.7,N ms-1,19.9,N degC
+2020-08-06,19:00:00,9.75375,N ugm-3,No data,P mgm-3,7.2,N ugm-3 (TEOM FDMS),4.5,P ugm-3 (TEOM FDMS),174.9,N deg,4.9,N ms-1,19.3,N degC
+2020-08-06,20:00:00,13.57875,N ugm-3,No data,P mgm-3,4.4,P ugm-3 (TEOM FDMS),4,P ugm-3 (TEOM FDMS),167.8,N deg,4.8,N ms-1,18.1,N degC
+2020-08-06,21:00:00,17.2125,N ugm-3,No data,P mgm-3,4.5,P ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),163.3,N deg,4.8,N ms-1,17.3,N degC
+2020-08-06,22:00:00,18.7425,N ugm-3,No data,P mgm-3,5.8,N ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),165.6,N deg,4.7,N ms-1,16.6,N degC
+2020-08-06,23:00:00,9.75375,N ugm-3,No data,P mgm-3,6.9,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),168.8,N deg,4.2,N ms-1,15.9,N degC
+2020-08-06,24:00:00,15.10875,N ugm-3,No data,P mgm-3,8.7,N ugm-3 (TEOM FDMS),2.9,P ugm-3 (TEOM FDMS),171.9,N deg,3.3,N ms-1,15.2,N degC
+2020-08-07,01:00:00,16.4475,N ugm-3,No data,P mgm-3,8,N ugm-3 (TEOM FDMS),3.6,P ugm-3 (TEOM FDMS),317.7,N deg,0.6,N ms-1,13.9,N degC
+2020-08-07,02:00:00,15.10875,N ugm-3,No data,P mgm-3,4.8,P ugm-3 (TEOM FDMS),3.3,P ugm-3 (TEOM FDMS),352.5,N deg,1.1,N ms-1,13.4,N degC
+2020-08-07,03:00:00,13.96125,N ugm-3,No data,P mgm-3,7.6,N ugm-3 (TEOM FDMS),3,P ugm-3 (TEOM FDMS),28.8,N deg,1.4,N ms-1,14.1,N degC
+2020-08-07,04:00:00,13.19625,N ugm-3,No data,P mgm-3,8.6,N ugm-3 (TEOM FDMS),4.7,P ugm-3 (TEOM FDMS),48.3,N deg,1.9,N ms-1,13.9,N degC
+2020-08-07,05:00:00,8.98875,N ugm-3,No data,P mgm-3,9.7,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),72.2,N deg,2,N ms-1,13.9,N degC
+2020-08-07,06:00:00,7.45875,N ugm-3,No data,P mgm-3,10.1,N ugm-3 (TEOM FDMS),5.6,N ugm-3 (TEOM FDMS),73.4,N deg,2,N ms-1,13.6,N degC
+2020-08-07,07:00:00,12.81375,N ugm-3,No data,P mgm-3,10.2,N ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),80.9,N deg,1.8,N ms-1,13.8,N degC
+2020-08-07,08:00:00,20.84625,N ugm-3,No data,P mgm-3,13.3,N ugm-3 (TEOM FDMS),10.3,N ugm-3 (TEOM FDMS),73.2,N deg,2,N ms-1,14.1,N degC
+2020-08-07,09:00:00,19.89,N ugm-3,No data,P mgm-3,15.5,N ugm-3 (TEOM FDMS),10.2,N ugm-3 (TEOM FDMS),62,N deg,2,N ms-1,14.8,N degC
+2020-08-07,10:00:00,18.93375,N ugm-3,No data,P mgm-3,12.4,N ugm-3 (TEOM FDMS),8.4,N ugm-3 (TEOM FDMS),56.9,N deg,2,N ms-1,17.6,N degC
+2020-08-07,11:00:00,11.8575,N ugm-3,No data,P mgm-3,7.6,N ugm-3 (TEOM FDMS),5.7,N ugm-3 (TEOM FDMS),78.3,N deg,1.5,N ms-1,20.5,N degC
+2020-08-07,12:00:00,16.065,N ugm-3,No data,P mgm-3,16.1,N ugm-3 (TEOM FDMS),8,N ugm-3 (TEOM FDMS),99,N deg,1.6,N ms-1,22.2,N degC
+2020-08-07,13:00:00,16.4475,N ugm-3,No data,P mgm-3,14.5,N ugm-3 (TEOM FDMS),8.7,N ugm-3 (TEOM FDMS),122.9,N deg,1.4,N ms-1,23.6,N degC
+2020-08-07,14:00:00,17.02125,N ugm-3,No data,P mgm-3,13.7,N ugm-3 (TEOM FDMS),9.8,N ugm-3 (TEOM FDMS),141.6,N deg,0.7,N ms-1,24.3,N degC
+2020-08-07,15:00:00,16.63875,N ugm-3,No data,P mgm-3,9.5,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),164.3,N deg,0.8,N ms-1,24.8,N degC
+2020-08-07,16:00:00,19.31625,N ugm-3,No data,P mgm-3,12.9,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),226.4,N deg,1.1,N ms-1,24.9,N degC
+2020-08-07,17:00:00,9.75375,N ugm-3,No data,P mgm-3,7.7,N ugm-3 (TEOM FDMS),5.8,N ugm-3 (TEOM FDMS),260.2,N deg,2.1,N ms-1,24.5,N degC
+2020-08-07,18:00:00,13.005,N ugm-3,No data,P mgm-3,9.4,N ugm-3 (TEOM FDMS),6.4,N ugm-3 (TEOM FDMS),289.8,N deg,3.2,N ms-1,22.3,N degC
+2020-08-07,19:00:00,12.04875,N ugm-3,No data,P mgm-3,11.5,N ugm-3 (TEOM FDMS),8.9,N ugm-3 (TEOM FDMS),300.5,N deg,3.3,N ms-1,20.2,N degC
+2020-08-07,20:00:00,11.8575,N ugm-3,No data,P mgm-3,10.9,N ugm-3 (TEOM FDMS),5.4,N ugm-3 (TEOM FDMS),300.7,N deg,3.4,N ms-1,18.8,N degC
+2020-08-07,21:00:00,12.24,N ugm-3,No data,P mgm-3,11.7,N ugm-3 (TEOM FDMS),9.1,N ugm-3 (TEOM FDMS),308.1,N deg,3.3,N ms-1,17.7,N degC
+2020-08-07,22:00:00,10.3275,N ugm-3,No data,P mgm-3,11.7,N ugm-3 (TEOM FDMS),9.7,N ugm-3 (TEOM FDMS),310.9,N deg,3,N ms-1,16.7,N degC
+2020-08-07,23:00:00,5.7375,N ugm-3,No data,P mgm-3,7.8,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),316,N deg,2.9,N ms-1,15.9,N degC
+2020-08-07,24:00:00,4.2075,N ugm-3,No data,P mgm-3,10,N ugm-3 (TEOM FDMS),7.5,N ugm-3 (TEOM FDMS),306.5,N deg,2.3,N ms-1,15.1,N degC
+2020-08-08,01:00:00,3.825,N ugm-3,No data,P mgm-3,14.2,N ugm-3 (TEOM FDMS),14.5,N ugm-3 (TEOM FDMS),330.9,N deg,3,N ms-1,14.6,N degC
+2020-08-08,02:00:00,5.355,N ugm-3,No data,P mgm-3,17.1,N ugm-3 (TEOM FDMS),14,N ugm-3 (TEOM FDMS),335.5,N deg,3,N ms-1,13.8,N degC
+2020-08-08,03:00:00,5.54625,N ugm-3,No data,P mgm-3,16.9,N ugm-3 (TEOM FDMS),16.1,N ugm-3 (TEOM FDMS),355.3,N deg,2.8,N ms-1,13.5,N degC
+2020-08-08,04:00:00,5.54625,N ugm-3,No data,P mgm-3,13.8,N ugm-3 (TEOM FDMS),12.4,N ugm-3 (TEOM FDMS),21.9,N deg,2.6,N ms-1,14.2,N degC
+2020-08-08,05:00:00,4.39875,N ugm-3,No data,P mgm-3,14.1,N ugm-3 (TEOM FDMS),9.8,N ugm-3 (TEOM FDMS),25.1,N deg,2.2,N ms-1,14.3,N degC
+2020-08-08,06:00:00,4.01625,N ugm-3,No data,P mgm-3,8.2,N ugm-3 (TEOM FDMS),5.9,N ugm-3 (TEOM FDMS),28,N deg,2.6,N ms-1,14.7,N degC
+2020-08-08,07:00:00,2.48625,N ugm-3,No data,P mgm-3,6.6,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),42.5,N deg,3.3,N ms-1,16.3,N degC
+2020-08-08,08:00:00,3.4425,N ugm-3,No data,P mgm-3,4.8,P ugm-3 (TEOM FDMS),4.3,P ugm-3 (TEOM FDMS),33.8,N deg,4.8,N ms-1,18.4,N degC
+2020-08-08,09:00:00,5.16375,N ugm-3,No data,P mgm-3,13.1,N ugm-3 (TEOM FDMS),10.7,N ugm-3 (TEOM FDMS),38.8,N deg,5,N ms-1,19.7,N degC
+2020-08-08,10:00:00,3.06,N ugm-3,No data,P mgm-3,7.2,N ugm-3 (TEOM FDMS),7.3,N ugm-3 (TEOM FDMS),42.7,N deg,5,N ms-1,21.1,N degC
+2020-08-08,11:00:00,2.6775,N ugm-3,No data,P mgm-3,7.4,N ugm-3 (TEOM FDMS),7.7,N ugm-3 (TEOM FDMS),49.7,N deg,4.8,N ms-1,22.3,N degC
+2020-08-08,12:00:00,1.9125,P ugm-3,No data,P mgm-3,5.2,N ugm-3 (TEOM FDMS),3.8,P ugm-3 (TEOM FDMS),53.7,N deg,4.5,N ms-1,23.2,N degC
+2020-08-08,13:00:00,3.06,N ugm-3,No data,P mgm-3,22,N ugm-3 (TEOM FDMS),7.7,N ugm-3 (TEOM FDMS),52.3,N deg,3.8,N ms-1,24,N degC
+2020-08-08,14:00:00,4.78125,N ugm-3,No data,P mgm-3,18.6,N ugm-3 (TEOM FDMS),7.8,N ugm-3 (TEOM FDMS),57.7,N deg,3.6,N ms-1,24.6,N degC
+2020-08-08,15:00:00,4.39875,N ugm-3,No data,P mgm-3,12.7,N ugm-3 (TEOM FDMS),7.7,N ugm-3 (TEOM FDMS),56.8,N deg,3.5,N ms-1,24.8,N degC
+2020-08-08,16:00:00,2.10375,P ugm-3,No data,P mgm-3,8.8,N ugm-3 (TEOM FDMS),6.6,N ugm-3 (TEOM FDMS),46.8,N deg,3.5,N ms-1,25,N degC
+2020-08-08,17:00:00,4.2075,N ugm-3,No data,P mgm-3,16,N ugm-3 (TEOM FDMS),6.3,N ugm-3 (TEOM FDMS),47.5,N deg,3.8,N ms-1,24.8,N degC
+2020-08-08,18:00:00,3.25125,N ugm-3,No data,P mgm-3,11.7,N ugm-3 (TEOM FDMS),10.2,N ugm-3 (TEOM FDMS),47.7,N deg,3.4,N ms-1,24.1,N degC
+2020-08-08,19:00:00,4.59,N ugm-3,No data,P mgm-3,9.8,N ugm-3 (TEOM FDMS),9.2,N ugm-3 (TEOM FDMS),39.2,N deg,2.7,N ms-1,22.5,N degC
+2020-08-08,20:00:00,8.22375,N ugm-3,No data,P mgm-3,12.4,N ugm-3 (TEOM FDMS),8.5,N ugm-3 (TEOM FDMS),36.5,N deg,2.9,N ms-1,20.6,N degC
+2020-08-08,21:00:00,12.81375,N ugm-3,No data,P mgm-3,13.7,N ugm-3 (TEOM FDMS),9.8,N ugm-3 (TEOM FDMS),49.2,N deg,3.9,N ms-1,19.6,N degC
+2020-08-08,22:00:00,12.81375,N ugm-3,No data,P mgm-3,11.5,N ugm-3 (TEOM FDMS),7.5,N ugm-3 (TEOM FDMS),53.2,N deg,5.1,N ms-1,18.8,N degC
+2020-08-08,23:00:00,8.0325,N ugm-3,No data,P mgm-3,13.3,N ugm-3 (TEOM FDMS),6.7,N ugm-3 (TEOM FDMS),43.6,N deg,4.9,N ms-1,17.8,N degC
+2020-08-08,24:00:00,2.10375,P ugm-3,No data,P mgm-3,6.7,N ugm-3 (TEOM FDMS),3.2,P ugm-3 (TEOM FDMS),39.2,N deg,4.7,N ms-1,17.1,N degC
+2020-08-09,01:00:00,0.95625,P ugm-3,No data,P mgm-3,6.7,N ugm-3 (TEOM FDMS),2.6,P ugm-3 (TEOM FDMS),50.4,N deg,5,N ms-1,16.2,N degC
+2020-08-09,02:00:00,1.72125,P ugm-3,No data,P mgm-3,7.5,N ugm-3 (TEOM FDMS),3.7,P ugm-3 (TEOM FDMS),53.2,N deg,5.6,N ms-1,15.5,N degC
+2020-08-09,03:00:00,3.63375,N ugm-3,No data,P mgm-3,4.4,P ugm-3 (TEOM FDMS),4.4,P ugm-3 (TEOM FDMS),49.6,N deg,5.9,N ms-1,14.9,N degC
+2020-08-09,04:00:00,2.10375,P ugm-3,No data,P mgm-3,7.8,N ugm-3 (TEOM FDMS),6,N ugm-3 (TEOM FDMS),50,N deg,5.2,N ms-1,14.4,N degC
+2020-08-09,05:00:00,0.3825,P ugm-3,No data,P mgm-3,12.6,N ugm-3 (TEOM FDMS),7.6,N ugm-3 (TEOM FDMS),49.6,N deg,5,N ms-1,13.9,N degC
+2020-08-09,06:00:00,0.95625,P ugm-3,No data,P mgm-3,15.5,N ugm-3 (TEOM FDMS),9.9,N ugm-3 (TEOM FDMS),51.8,N deg,5,N ms-1,13.9,N degC
+2020-08-09,07:00:00,0.765,P ugm-3,No data,P mgm-3,14.7,N ugm-3 (TEOM FDMS),10.5,N ugm-3 (TEOM FDMS),55,N deg,5.1,N ms-1,14.1,N degC
+2020-08-09,08:00:00,1.1475,P ugm-3,No data,P mgm-3,19.4,N ugm-3 (TEOM FDMS),13.5,N ugm-3 (TEOM FDMS),46.9,N deg,4.8,N ms-1,14.2,N degC
+2020-08-09,09:00:00,1.72125,P ugm-3,No data,P mgm-3,16.2,N ugm-3 (TEOM FDMS),13.5,N ugm-3 (TEOM FDMS),44.4,N deg,4.4,N ms-1,15.6,N degC
+2020-08-09,10:00:00,2.6775,N ugm-3,No data,P mgm-3,18.4,N ugm-3 (TEOM FDMS),11.9,N ugm-3 (TEOM FDMS),55.2,N deg,4.2,N ms-1,18.4,N degC
+2020-08-09,11:00:00,2.48625,N ugm-3,No data,P mgm-3,17.4,N ugm-3 (TEOM FDMS),11.8,N ugm-3 (TEOM FDMS),62.9,N deg,3.7,N ms-1,20,N degC
+2020-08-09,12:00:00,2.10375,P ugm-3,No data,P mgm-3,15.2,N ugm-3 (TEOM FDMS),14.5,N ugm-3 (TEOM FDMS),66,N deg,3.4,N ms-1,21.1,N degC
+2020-08-09,13:00:00,1.9125,P ugm-3,No data,P mgm-3,15.2,N ugm-3 (TEOM FDMS),14,N ugm-3 (TEOM FDMS),66.2,N deg,3.5,N ms-1,21.8,N degC
+2020-08-09,14:00:00,1.72125,P ugm-3,No data,P mgm-3,15.7,N ugm-3 (TEOM FDMS),13.1,N ugm-3 (TEOM FDMS),67.1,N deg,3.8,N ms-1,22.3,N degC
+2020-08-09,15:00:00,2.10375,P ugm-3,No data,P mgm-3,13.6,N ugm-3 (TEOM FDMS),13.4,N ugm-3 (TEOM FDMS),65.3,N deg,3.3,N ms-1,22.8,N degC
+2020-08-09,16:00:00,3.06,N ugm-3,No data,P mgm-3,14.8,N ugm-3 (TEOM FDMS),12.3,N ugm-3 (TEOM FDMS),68.7,N deg,2.7,N ms-1,22.9,N degC
+2020-08-09,17:00:00,2.48625,N ugm-3,No data,P mgm-3,18.5,N ugm-3 (TEOM FDMS),14.3,N ugm-3 (TEOM FDMS),62.4,N deg,2.5,N ms-1,22.9,N degC
+2020-08-09,18:00:00,4.78125,N ugm-3,No data,P mgm-3,18.1,N ugm-3 (TEOM FDMS),13.7,N ugm-3 (TEOM FDMS),43.7,N deg,2.3,N ms-1,22.6,N degC
+2020-08-09,19:00:00,4.59,N ugm-3,No data,P mgm-3,21,N ugm-3 (TEOM FDMS),15.9,N ugm-3 (TEOM FDMS),351.9,N deg,1.5,N ms-1,21.4,N degC
+2020-08-09,20:00:00,7.45875,N ugm-3,No data,P mgm-3,23.9,N ugm-3 (TEOM FDMS),17.9,N ugm-3 (TEOM FDMS),309.3,N deg,2.4,N ms-1,19.4,N degC
+2020-08-09,21:00:00,9.5625,N ugm-3,No data,P mgm-3,24.8,N ugm-3 (TEOM FDMS),19.6,N ugm-3 (TEOM FDMS),325.9,N deg,2.7,N ms-1,18.2,N degC
+2020-08-09,22:00:00,12.04875,N ugm-3,No data,P mgm-3,26.7,N ugm-3 (TEOM FDMS),20.9,N ugm-3 (TEOM FDMS),353.1,N deg,2.7,N ms-1,18.2,N degC
+2020-08-09,23:00:00,11.66625,N ugm-3,No data,P mgm-3,27,N ugm-3 (TEOM FDMS),21.8,N ugm-3 (TEOM FDMS),22.4,N deg,1.9,N ms-1,18.4,N degC
+2020-08-09,24:00:00,7.45875,N ugm-3,No data,P mgm-3,27,N ugm-3 (TEOM FDMS),22.3,N ugm-3 (TEOM FDMS),26.7,N deg,3.3,N ms-1,18.6,N degC
+2020-08-10,01:00:00,7.07625,N ugm-3,No data,P mgm-3,22.2,N ugm-3 (TEOM FDMS),19.3,N ugm-3 (TEOM FDMS),18.8,N deg,3.8,N ms-1,15.9,N degC
+2020-08-10,02:00:00,6.5025,N ugm-3,No data,P mgm-3,25.1,N ugm-3 (TEOM FDMS),17.7,N ugm-3 (TEOM FDMS),42.6,N deg,4.1,N ms-1,15.9,N degC
+2020-08-10,03:00:00,4.39875,N ugm-3,No data,P mgm-3,23.6,N ugm-3 (TEOM FDMS),16.9,N ugm-3 (TEOM FDMS),45.5,N deg,4.7,N ms-1,15.8,N degC
+2020-08-10,04:00:00,2.48625,N ugm-3,No data,P mgm-3,22,N ugm-3 (TEOM FDMS),15.5,N ugm-3 (TEOM FDMS),50.9,N deg,5.2,N ms-1,16.2,N degC
+2020-08-10,05:00:00,4.2075,N ugm-3,No data,P mgm-3,21.1,N ugm-3 (TEOM FDMS),22,N ugm-3 (TEOM FDMS),46.3,N deg,5.3,N ms-1,16,N degC
+2020-08-10,06:00:00,8.7975,N ugm-3,No data,P mgm-3,21.3,N ugm-3 (TEOM FDMS),14.4,N ugm-3 (TEOM FDMS),41.3,N deg,5.2,N ms-1,16.1,N degC
+2020-08-10,07:00:00,8.7975,N ugm-3,No data,P mgm-3,20.4,N ugm-3 (TEOM FDMS),13.6,N ugm-3 (TEOM FDMS),42.8,N deg,4.9,N ms-1,16.4,N degC
+2020-08-10,08:00:00,6.885,N ugm-3,No data,P mgm-3,24,N ugm-3 (TEOM FDMS),14.7,N ugm-3 (TEOM FDMS),49.6,N deg,4.8,N ms-1,17.8,N degC
+2020-08-10,09:00:00,5.92875,N ugm-3,No data,P mgm-3,22.5,N ugm-3 (TEOM FDMS),16.2,N ugm-3 (TEOM FDMS),55,N deg,5.1,N ms-1,19.3,N degC
+2020-08-10,10:00:00,5.54625,N ugm-3,No data,P mgm-3,27.6,N ugm-3 (TEOM FDMS),17.5,N ugm-3 (TEOM FDMS),60.6,N deg,5.1,N ms-1,20.8,N degC
+2020-08-10,11:00:00,4.78125,N ugm-3,No data,P mgm-3,27.1,N ugm-3 (TEOM FDMS),21.2,N ugm-3 (TEOM FDMS),65.1,N deg,5.2,N ms-1,21.6,N degC
+2020-08-10,12:00:00,5.355,N ugm-3,No data,P mgm-3,30.2,N ugm-3 (TEOM FDMS),26.5,N ugm-3 (TEOM FDMS),68.6,N deg,5.7,N ms-1,22.5,N degC
+2020-08-10,13:00:00,9.945,N ugm-3,No data,P mgm-3,29.3,N ugm-3 (TEOM FDMS),23.4,N ugm-3 (TEOM FDMS),73.6,N deg,5.6,N ms-1,23.1,N degC
+2020-08-10,14:00:00,5.7375,N ugm-3,No data,P mgm-3,33.8,N ugm-3 (TEOM FDMS),23.6,N ugm-3 (TEOM FDMS),76.9,N deg,5.5,N ms-1,23.6,N degC
+2020-08-10,15:00:00,13.19625,N ugm-3,No data,P mgm-3,32.4,N ugm-3 (TEOM FDMS),23.3,N ugm-3 (TEOM FDMS),73,N deg,4.8,N ms-1,24.4,N degC
+2020-08-10,16:00:00,13.005,N ugm-3,No data,P mgm-3,30.6,N ugm-3 (TEOM FDMS),21.7,N ugm-3 (TEOM FDMS),73.8,N deg,4.4,N ms-1,24.8,N degC
+2020-08-10,17:00:00,11.8575,N ugm-3,No data,P mgm-3,22.2,N ugm-3 (TEOM FDMS),18.8,N ugm-3 (TEOM FDMS),59.8,N deg,3.3,N ms-1,25.2,N degC
+2020-08-10,18:00:00,8.415,N ugm-3,No data,P mgm-3,20.5,N ugm-3 (TEOM FDMS),18.9,N ugm-3 (TEOM FDMS),73.1,N deg,3,N ms-1,24.5,N degC
+2020-08-10,19:00:00,8.22375,N ugm-3,No data,P mgm-3,24,N ugm-3 (TEOM FDMS),18.4,N ugm-3 (TEOM FDMS),39.5,N deg,2.9,N ms-1,22.8,N degC
+2020-08-10,20:00:00,8.98875,N ugm-3,No data,P mgm-3,26.7,N ugm-3 (TEOM FDMS),22.3,N ugm-3 (TEOM FDMS),40.7,N deg,2.4,N ms-1,21,N degC
+2020-08-10,21:00:00,12.43125,N ugm-3,No data,P mgm-3,30,N ugm-3 (TEOM FDMS),25.6,N ugm-3 (TEOM FDMS),52.1,N deg,2.4,N ms-1,19.7,N degC
+2020-08-10,22:00:00,13.3875,N ugm-3,No data,P mgm-3,31.7,N ugm-3 (TEOM FDMS),24.4,N ugm-3 (TEOM FDMS),64.9,N deg,3.3,N ms-1,19.3,N degC
+2020-08-10,23:00:00,13.77,N ugm-3,No data,P mgm-3,31.3,N ugm-3 (TEOM FDMS),23.6,N ugm-3 (TEOM FDMS),61.2,N deg,3.3,N ms-1,19.1,N degC
+2020-08-10,24:00:00,11.0925,N ugm-3,No data,P mgm-3,31.5,N ugm-3 (TEOM FDMS),23.9,N ugm-3 (TEOM FDMS),53.8,N deg,3.4,N ms-1,18.7,N degC
+2020-08-11,01:00:00,6.885,N ugm-3,No data,P mgm-3,23.1,N ugm-3 (TEOM FDMS),17.1,N ugm-3 (TEOM FDMS),354.3,N deg,2.9,N ms-1,16.9,N degC
+2020-08-11,02:00:00,4.01625,N ugm-3,No data,P mgm-3,17.1,N ugm-3 (TEOM FDMS),14.2,N ugm-3 (TEOM FDMS),23.3,N deg,3.1,N ms-1,17,N degC
+2020-08-11,03:00:00,3.4425,N ugm-3,No data,P mgm-3,17,N ugm-3 (TEOM FDMS),14.1,N ugm-3 (TEOM FDMS),42.1,N deg,2.7,N ms-1,17,N degC
+2020-08-11,04:00:00,2.86875,N ugm-3,No data,P mgm-3,16,N ugm-3 (TEOM FDMS),13.7,N ugm-3 (TEOM FDMS),42,N deg,1.7,N ms-1,16.9,N degC
+2020-08-11,05:00:00,2.86875,N ugm-3,No data,P mgm-3,16,N ugm-3 (TEOM FDMS),12,N ugm-3 (TEOM FDMS),15,N deg,0.7,N ms-1,16.7,N degC
+2020-08-11,06:00:00,5.92875,N ugm-3,No data,P mgm-3,16.7,N ugm-3 (TEOM FDMS),12.5,N ugm-3 (TEOM FDMS),38.5,N deg,0.9,N ms-1,16.6,N degC
+2020-08-11,07:00:00,8.7975,N ugm-3,No data,P mgm-3,19.5,N ugm-3 (TEOM FDMS),14.8,N ugm-3 (TEOM FDMS),32.8,N deg,1.1,N ms-1,16.6,N degC
+2020-08-11,08:00:00,17.595,N ugm-3,No data,P mgm-3,24.2,N ugm-3 (TEOM FDMS),18.4,N ugm-3 (TEOM FDMS),22.9,N deg,1.2,N ms-1,17.1,N degC
+2020-08-11,09:00:00,11.0925,N ugm-3,No data,P mgm-3,29.1,N ugm-3 (TEOM FDMS),21.8,N ugm-3 (TEOM FDMS),52.9,N deg,1.6,N ms-1,17.9,N degC
+2020-08-11,10:00:00,12.43125,N ugm-3,No data,P mgm-3,35.1,N ugm-3 (TEOM FDMS),24.3,N ugm-3 (TEOM FDMS),58.9,N deg,1.9,N ms-1,18.4,N degC
+2020-08-11,11:00:00,14.34375,N ugm-3,No data,P mgm-3,39.1,N ugm-3 (TEOM FDMS),26.9,N ugm-3 (TEOM FDMS),52.9,N deg,1.3,N ms-1,18.9,N degC
+2020-08-11,12:00:00,17.2125,N ugm-3,No data,P mgm-3,45.5,N ugm-3 (TEOM FDMS),34,N ugm-3 (TEOM FDMS),46.1,N deg,0.7,N ms-1,19.8,N degC
+2020-08-11,13:00:00,9.945,N ugm-3,0,P mgm-3,41.5,N ugm-3 (TEOM FDMS),32.1,N ugm-3 (TEOM FDMS),155.1,N deg,0.2,N ms-1,20.6,N degC
+2020-08-11,14:00:00,10.13625,N ugm-3,0,P mgm-3,32.4,N ugm-3 (TEOM FDMS),29.7,N ugm-3 (TEOM FDMS),222.6,N deg,1,N ms-1,21.7,N degC
+2020-08-11,15:00:00,21.61125,N ugm-3,0.11642,P mgm-3,33.3,N ugm-3 (TEOM FDMS),24.5,N ugm-3 (TEOM FDMS),249.4,N deg,1.6,N ms-1,22.8,N degC
+2020-08-11,16:00:00,14.34375,N ugm-3,0,P mgm-3,33.7,N ugm-3 (TEOM FDMS),25.4,N ugm-3 (TEOM FDMS),269.4,N deg,1.5,N ms-1,23.3,N degC
+2020-08-11,17:00:00,7.07625,N ugm-3,0,P mgm-3,28.3,N ugm-3 (TEOM FDMS),21.6,N ugm-3 (TEOM FDMS),286,N deg,1.6,N ms-1,23.4,N degC
+2020-08-11,18:00:00,9.5625,N ugm-3,0.11642,P mgm-3,26.4,N ugm-3 (TEOM FDMS),23.7,N ugm-3 (TEOM FDMS),293.4,N deg,2.6,N ms-1,22.8,N degC
+2020-08-11,19:00:00,14.9175,N ugm-3,0.11642,P mgm-3,31.2,N ugm-3 (TEOM FDMS),23.8,N ugm-3 (TEOM FDMS),297.7,N deg,2.9,N ms-1,20.9,N degC
+2020-08-11,20:00:00,14.9175,N ugm-3,0.23284,P mgm-3,32.7,N ugm-3 (TEOM FDMS),28.3,N ugm-3 (TEOM FDMS),297.2,N deg,2.9,N ms-1,19.2,N degC
+2020-08-11,21:00:00,17.02125,N ugm-3,0.34926,P mgm-3,35.1,N ugm-3 (TEOM FDMS),28.3,N ugm-3 (TEOM FDMS),298.2,N deg,3,N ms-1,18.4,N degC
+2020-08-11,22:00:00,13.005,N ugm-3,0.34926,P mgm-3,36,N ugm-3 (TEOM FDMS),32.4,N ugm-3 (TEOM FDMS),302.8,N deg,2.9,N ms-1,17.9,N degC
+2020-08-11,23:00:00,11.8575,N ugm-3,0.23284,P mgm-3,29.6,N ugm-3 (TEOM FDMS),22.5,N ugm-3 (TEOM FDMS),306.3,N deg,2.4,N ms-1,17.6,N degC
+2020-08-11,24:00:00,6.885,N ugm-3,0.11642,P mgm-3,25.2,N ugm-3 (TEOM FDMS),21,N ugm-3 (TEOM FDMS),299.7,N deg,2.1,N ms-1,17.4,N degC
+2020-08-12,01:00:00,5.355,N ugm-3,0.11642,P mgm-3,22.7,N ugm-3 (TEOM FDMS),17.8,N ugm-3 (TEOM FDMS),343.1,N deg,2.8,N ms-1,17.3,N degC
+2020-08-12,02:00:00,5.92875,N ugm-3,0.11642,P mgm-3,21.8,N ugm-3 (TEOM FDMS),16.4,N ugm-3 (TEOM FDMS),343,N deg,1.8,N ms-1,16.9,N degC
+2020-08-12,03:00:00,8.60625,N ugm-3,0.11642,P mgm-3,23.9,N ugm-3 (TEOM FDMS),17.3,N ugm-3 (TEOM FDMS),39.7,N deg,2.4,N ms-1,16.2,N degC
+2020-08-12,04:00:00,10.51875,N ugm-3,0.11642,P mgm-3,28.3,N ugm-3 (TEOM FDMS),22.2,N ugm-3 (TEOM FDMS),52.4,N deg,2.1,N ms-1,15.9,N degC
+2020-08-12,05:00:00,8.98875,N ugm-3,0.11642,P mgm-3,32.9,N ugm-3 (TEOM FDMS),25.5,N ugm-3 (TEOM FDMS),54.3,N deg,2,N ms-1,15.7,N degC
+2020-08-12,06:00:00,8.415,N ugm-3,0.11642,P mgm-3,28.7,N ugm-3 (TEOM FDMS),23,N ugm-3 (TEOM FDMS),40.7,N deg,2.9,N ms-1,16.1,N degC
+2020-08-12,07:00:00,13.005,N ugm-3,0.11642,P mgm-3,29.4,N ugm-3 (TEOM FDMS),24.1,N ugm-3 (TEOM FDMS),46.2,N deg,2.9,N ms-1,16.6,N degC
+2020-08-12,08:00:00,16.25625,N ugm-3,0.11642,P mgm-3,26.2,N ugm-3 (TEOM FDMS),22.4,N ugm-3 (TEOM FDMS),59.2,N deg,3,N ms-1,17.2,N degC
+2020-08-12,09:00:00,7.84125,N ugm-3,0.11642,P mgm-3,28.6,N ugm-3 (TEOM FDMS),20.3,N ugm-3 (TEOM FDMS),66.6,N deg,3.5,N ms-1,18.3,N degC
+2020-08-12,10:00:00,No data,N ugm-3,No data,N mgm-3,31.8,N ugm-3 (TEOM FDMS),22.1,N ugm-3 (TEOM FDMS),80.3,N deg,3.7,N ms-1,20.7,N degC
+2020-08-12,11:00:00,10.3275,N ugm-3,0.05821,P mgm-3,30.7,N ugm-3 (TEOM FDMS),22.1,N ugm-3 (TEOM FDMS),89.3,N deg,3.3,N ms-1,22.6,N degC
+2020-08-12,12:00:00,17.02125,N ugm-3,0.11642,P mgm-3,32.7,N ugm-3 (TEOM FDMS),24.8,N ugm-3 (TEOM FDMS),94,N deg,3.1,N ms-1,23.9,N degC
+2020-08-12,13:00:00,19.125,N ugm-3,0,P mgm-3,34.3,N ugm-3 (TEOM FDMS),22.5,N ugm-3 (TEOM FDMS),89.2,N deg,2.7,N ms-1,25.1,N degC
+2020-08-12,14:00:00,8.7975,N ugm-3,0,P mgm-3,27.5,N ugm-3 (TEOM FDMS),19.8,N ugm-3 (TEOM FDMS),80.8,N deg,2.5,N ms-1,26.3,N degC
+2020-08-12,15:00:00,5.7375,N ugm-3,0,P mgm-3,22.3,N ugm-3 (TEOM FDMS),17.1,N ugm-3 (TEOM FDMS),71.6,N deg,2.4,N ms-1,27.2,N degC
+2020-08-12,16:00:00,6.12,N ugm-3,0,P mgm-3,21,N ugm-3 (TEOM FDMS),15.8,N ugm-3 (TEOM FDMS),76.5,N deg,2.6,N ms-1,27.8,N degC
+2020-08-12,17:00:00,5.54625,N ugm-3,0,P mgm-3,19.4,N ugm-3 (TEOM FDMS),14.1,N ugm-3 (TEOM FDMS),79.8,N deg,2.8,N ms-1,27.7,N degC
+2020-08-12,18:00:00,6.12,N ugm-3,0,P mgm-3,22.9,N ugm-3 (TEOM FDMS),15.8,N ugm-3 (TEOM FDMS),61.1,N deg,1.5,N ms-1,25.6,N degC
+2020-08-12,19:00:00,8.0325,N ugm-3,0,P mgm-3,23.2,N ugm-3 (TEOM FDMS),17,N ugm-3 (TEOM FDMS),51.8,N deg,1.3,N ms-1,24,N degC
+2020-08-12,20:00:00,18.7425,N ugm-3,0,P mgm-3,24.1,N ugm-3 (TEOM FDMS),21.3,N ugm-3 (TEOM FDMS),64.7,N deg,3,N ms-1,21.8,N degC
+2020-08-12,21:00:00,13.3875,N ugm-3,0,P mgm-3,12.4,N ugm-3 (TEOM FDMS),16.5,N ugm-3 (TEOM FDMS),38.4,N deg,3.5,N ms-1,21.2,N degC
+2020-08-12,22:00:00,8.22375,N ugm-3,0,P mgm-3,13.6,N ugm-3 (TEOM FDMS),12.2,N ugm-3 (TEOM FDMS),38.4,N deg,3.8,N ms-1,20.6,N degC
+2020-08-12,23:00:00,5.16375,N ugm-3,0,P mgm-3,13.4,N ugm-3 (TEOM FDMS),8.2,N ugm-3 (TEOM FDMS),54.6,N deg,4,N ms-1,20.4,N degC
+2020-08-12,24:00:00,2.48625,N ugm-3,0,P mgm-3,12.4,N ugm-3 (TEOM FDMS),6.9,N ugm-3 (TEOM FDMS),60.9,N deg,3.5,N ms-1,19.5,N degC
+
+
+
+End
