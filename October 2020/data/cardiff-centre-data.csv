@@ -1,7 +1,3 @@
-Hourly measurement data supplied by UK-air on 09/11/2020
-All Data GMT hour ending
-Status: V=Verified P=Provisionaly Verified N=Not Verified S=Suspect
-,,"Cardiff Centre",,,,,,,,,,,,,
 Date,Time,"Nitrogen dioxide",Status,"Carbon monoxide",Status,"PM10 particulate matter (Hourly measured)",Status,"PM2.5 particulate matter (Hourly measured)",Status,"Modelled Wind Direction",Status,"Modelled Wind Speed",Status,"Modelled Temperature",Status
 2020-06-23,01:00:00,2.85071,V ugm-3,No data,V mgm-3,9.8,V ugm-3 (TEOM FDMS),3.6,V ugm-3 (TEOM FDMS),210,N deg,2.7,N ms-1,10.7,N degC
 2020-06-23,02:00:00,3.70533,V ugm-3,No data,V mgm-3,10,V ugm-3 (TEOM FDMS),2.6,V ugm-3 (TEOM FDMS),199.5,N deg,2.8,N ms-1,10.3,N degC
